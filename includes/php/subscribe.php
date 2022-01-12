@@ -1,4 +1,3 @@
-
 <?php
 if(isset($_POST['submit'])) {
     
@@ -29,29 +28,3 @@ echo "Connected successfully";
         }
 }
 ?> 
-
-
-
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Technology web</title>
-
-	<link rel="stylesheet" type="text/css" href="includes/css/style.css">
-	<link rel="stylesheet" type="text/css" href="includes/css/footer.css">
-	<link rel="stylesheet" type="text/css" href="includes/css/socialIcon.css">
-</head>
-<body>
-<?php include('includes/header.php'); ?>
-<p><?php if(isset($_POST['submit'])){  echo $msg; } ?></p>
-
-    <!--====== Hero part Start =====-->
-
-
-    <!--====== Hero part End =====-->
-
-<?php include('includes/footer.php'); ?>
-</body>
-</html>

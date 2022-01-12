@@ -1,0 +1,56 @@
+
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+
+.footer-social-icons ul {
+    padding:0;
+    list-style: none;
+    cursor: pointer;
+}
+
+.footer-social-icons {
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px; 
+    width:fit-content;
+    padding-right: 25%;
+}
+
+@media only screen and (max-width: 830px) {
+    .footer-social-icons {
+        padding-right: 10%;
+    }
+}
+
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.fa {
+    padding:10px 12px;
+    transition: .5s;
+    background-color: #1c2940;
+    border-radius: 50%;
+}
+.fa-facebook {
+    padding:10px 14px;
+}
+
+.fa:hover {
+    background-color: #754ef9;
+    color: #fff;
+}
+
+@media only screen and (max-width:700px) {
+    .footer-social-icons {
+        margin-top: 20px;
+    }
+}

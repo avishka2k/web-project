@@ -44,7 +44,7 @@ echo "Connected successfully";
 	<link rel="stylesheet" type="text/css" href="includes/css/socialIcon.css">
 </head>
 <body>
-<?php include('includes/header.php'); ?>
+<?php include('header.php'); ?>
 <p><?php if(isset($_POST['submit'])){  echo $msg; } ?></p>
 
     <!--====== Hero part Start =====-->
@@ -52,6 +52,6 @@ echo "Connected successfully";
 
     <!--====== Hero part End =====-->
 
-<?php include('includes/footer.php'); ?>
+<?php include('footer.php'); ?>
 </body>
 </html>

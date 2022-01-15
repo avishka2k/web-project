@@ -42,6 +42,12 @@ echo "Connected successfully";
 	<link rel="stylesheet" type="text/css" href="includes/css/style.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/footer.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/socialIcon.css">
+	<link rel="stylesheet" type="text/css" href="includes/css/header.css">
+    <style>
+        body {
+    background-color: #E9EDF6;
+}
+    </style>
 </head>
 <body>
 <?php include('header.php'); ?>
@@ -49,7 +55,21 @@ echo "Connected successfully";
 
     <!--====== Hero part Start =====-->
 
-
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
     <!--====== Hero part End =====-->
 
 <?php include('footer.php'); ?>

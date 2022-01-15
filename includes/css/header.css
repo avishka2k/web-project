@@ -1,0 +1,67 @@
+
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 8%;
+    background-color: #E9EDF6;
+    padding-left: 8%;
+}
+
+.logo a{
+    position: absolute;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.mobile-menu, .mobile-close {
+    display: none;
+}
+
+.primary-nav {
+    padding-left: 20%;
+}
+
+
+.navbar nav {
+    display: flex;
+}
+
+.navlist{
+    flex: 1;
+    text-align: right;
+}
+
+
+.navlist li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    
+    padding: 0.5rem 1rem;
+}
+.secondary-nav {
+    gap: 2rem;
+}
+.navlist a {
+    text-decoration: none;
+    color: blue;
+}
+
+.header-btn {
+ border: 2px solid blue;
+ border-radius: 8px;
+ display: flex;
+
+
+}
+.header-btn a {
+    color: aliceblue;
+    font-weight: 600;
+
+}
+.get-started {
+    background-color: blue;
+}
+.register-md a {
+    color: blue;
+}

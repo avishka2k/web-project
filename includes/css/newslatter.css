@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --primary-color: #215A51;
+    }
+    
+
+.newslatter .subscribe {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 474px;
+	border-radius: 10px;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;   
+}
+
+
+.subscribe__title {
+	font-weight: bold;
+	font-size: 26px;
+	margin-bottom: 18px;
+color: var(--primary-color);
+font-family: roboto;
+}
+
+.subscribe__copy {
+	max-width: 450px;
+	text-align: center;
+	margin-bottom: 53px;
+	line-height: 1.5;
+}
+
+.newslatter .form {
+	margin-bottom: 25px;
+}
+
+.form__email {
+	padding: 12.5px 25px;
+	border-radius: 5px;
+ 	border: 1px solid #CAD3DB;
+	width: 431px;
+	font-size: 18px;
+	color: #0F121F;
+}
+
+.form__email:focus {
+	outline: 1px solid var(--primary-color);
+}
+
+.form__button {
+	background: var(--primary-color);
+	border: none;
+	width: 144px;
+	height: 45px;
+	border-radius: 5px;
+	font-size: 18px;
+	color: white;
+    cursor: pointer;
+}
+
+.form__button:hover {
+	box-shadow: 0 5px 7px var(--primary-color);
+}
+
+.notice {
+	width: 345px;
+}

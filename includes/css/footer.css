@@ -9,23 +9,20 @@
 
 .footer-section {
     padding-top: 3rem;
-    padding-bottom: 2rem;
-}
-
-.footer-section {
-    width: 100%;
     min-height: 10vh;
-    padding-left: 8%;
-    padding-right: 8%;
     box-sizing: border-box;
     overflow: hidden;
-    background-color: #152136;;
+    background-color: #17413a;
 }
+
 
 .footer {
     width: 100%;
-    margin-right: auto;
-    margin-left: auto;  
+    max-width: 85rem;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    margin: auto;
+    box-sizing: border-box; 
 }
 .footer-row {
     display: flex;
@@ -67,6 +64,7 @@
 }
 .footer-col a {
     font-size: medium;
+    line-height: 30px;
 }
 .footer-col li {
     display: flex;
@@ -103,8 +101,8 @@
 
 .footer .form-btn.basic {
     color: #fff;
-    background-color: #0d6efd;
-    border-color: #0d6efd;
+    background-color: #123631;
+    border-color: rgb(85, 146, 148);
 }
 .footer .basic {
     display: inline-block;
@@ -123,7 +121,7 @@
 }
 
 .footer .basic:hover {
-    background-color: blue;
+    background-color: #587e79;
     border: 1px solid transparent;
     transition: all 0.3s ease-out 0s;
 }

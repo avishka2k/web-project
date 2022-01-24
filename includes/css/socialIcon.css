@@ -37,16 +37,18 @@
 .fa {
     padding:10px 12px;
     transition: .5s;
-    background-color: #1c2940;
+    background-color: transparent;
     border-radius: 50%;
+    border: 2px solid rgb(65, 119, 96);
 }
 .fa-facebook {
     padding:10px 14px;
 }
 
 .fa:hover {
-    background-color: #754ef9;
+    background-color: #071a17;
     color: #fff;
+    border: 2px solid #215A51;
 }
 
 @media only screen and (max-width:700px) {

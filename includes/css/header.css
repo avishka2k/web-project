@@ -1,0 +1,244 @@
+:root {
+--primary-color: #215A51;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+header{
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+	z-index: 2;
+}
+
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 8%;
+    padding-left: 8%;
+	background-color: rgba(0, 0, 0, 0.452);
+}
+
+.logo a{
+    position: absolute;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+.navbar nav {
+    display: flex;
+}
+
+.navlist{
+    flex: 1;
+    text-align: right;
+}
+
+
+.navlist li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    padding: 0.5rem 1rem;
+}
+
+.navlist a {
+    text-decoration: none;
+    color: #b5c4c1;
+    font-weight: 900;
+}
+
+.header-btn {
+ border: 2px solid var(--primary-color);
+ border-radius: 6px;
+ display: flex;
+ margin-left: 65px;
+ background-color: var(--primary-color);
+}
+
+.header-btn a {
+    color: aliceblue;
+    font-weight: 600;
+
+}
+
+
+.slider{
+	position: relative;
+	width: 100%
+
+}
+
+.myslide{
+    height: 848px;
+	display: none;
+	overflow: hidden;
+}
+
+.fade {
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 1.5s;
+	animation-name: fade;
+	animation-duration: 1.5s;
+  }
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+.prev, .next{
+	position: absolute;
+	top: 50%;
+	transform: translate(0, -50%);
+	font-size: 20px;
+	padding: 15px;
+	cursor: pointer;
+	color: #fff;
+	transition: 0.1s;
+	user-select: none;
+}
+
+.prev:hover, .next:hover{
+	color: var(--primary-color);
+}
+.next{
+	right: 0;
+}
+.dotsbox{
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%);
+	bottom: 20px;
+	cursor: pointer;
+}
+.dot{
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	border: 3px solid #fff;
+	border-radius: 50%;
+	margin: 0 10px;
+	cursor: pointer;
+}
+
+.active, .dot:hover{
+	border-color: var(--primary-color)
+}
+
+.txt{
+	position: absolute;
+	color: #000000;
+	letter-spacing: 2px;
+	line-height: 35px;
+	top: 40%;
+	left: 15%;
+	-webkit-animation-name: posi;
+  	-webkit-animation-duration: 2s;
+  	animation-name: posi;
+  	animation-duration: 2s;
+	z-index: 1;
+}
+.slider h1 {
+	line-height: 57px;
+}
+
+.slide-btn {
+    margin-top: 50px;
+    background-color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+    border-radius: 4px;
+    padding: 7px 15px 7px 7px;
+    display: inline-block;
+}
+
+.slide-btn a{ 
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.btn-arrow {
+    display: inline-flex;
+    height: 15px; 
+}
+
+@keyframes posi {
+  from {left: 25%;}
+  to {left: 15%;}
+}
+
+.txt h1{
+	color: #215A51;
+	font-size: 50px;
+	margin-bottom: 20px;
+	font-family: Playfair Display;
+}
+
+
+.txt p{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+.slider img{
+	transform: scale(1.5, 1.5);
+	-webkit-animation-name: zoomin;
+  	-webkit-animation-duration: 40s;
+  	animation-name: zoomin;
+  	animation-duration: 40s;
+    opacity: 0.64;
+    width: 100%;
+    height: 100%;
+}
+
+
+@media screen and (max-width: 800px){
+	.myslide{
+		height: 500px;
+	}
+	.txt{
+		letter-spacing: 2px;
+		line-height: 25px;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		-webkit-animation-name: posi2;
+		-webkit-animation-duration: 2s;
+		animation-name: posi2;
+		animation-duration: 2s;
+	}
+
+	@keyframes posi2 {
+	  from {top: 35%;}
+	  to {top: 50%;}
+	}
+
+	.txt h1{
+		font-size: 40px;
+	}
+	.txt p{
+		font-size: 13px;
+	}
+
+}
+
+@media screen and (max-width: 520px){
+	.txt h1{
+		font-size: 30px;
+		margin-bottom: 20px;
+	}
+}

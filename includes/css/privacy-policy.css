@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Roboto&display=swap');
+:root {
+    --primary-color: #215A51;
+    }
+body {
+    background-color: aliceblue;
+    font-size: 19px;
+    font-family: roboto;
+}
+
+.pp {
+    width: 100%;
+    max-width: 55rem;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    box-sizing: border-box;
+}
+
+.pp h1 {
+    color: var(--primary-color);
+    line-height: 1rem;
+    margin-top: 5rem;
+    font-size: 55px;
+}
+
+.pp h2 {
+    color: var(--primary-color);
+}
+
+.pp h3 {
+    color: #3a3a3a;
+}
+
+.pp p {
+    line-height: 1.6rem;
+}
+
+.pp li {
+    margin: 1rem;
+}
+
+
+.pp-main-list {
+    color: var(--primary-color);
+    font-weight: 800;
+}
+
+.pp p, li {
+    color: #3a3a3a;
+}
+
+.pp a {
+    text-decoration: none;
+}

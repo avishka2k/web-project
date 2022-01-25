@@ -12,8 +12,7 @@
     width: 100%;
     max-width: 75rem;
     margin: 0 auto;
-    padding: 0 1.5rem;
-    
+    padding: 0 1.5rem;  
 }
 
 .section-box {
@@ -87,6 +86,7 @@
 .services h1{
     margin-bottom: 85px;
 }
+
 
 .services  .sr-img{
    margin-left: auto;
@@ -372,7 +372,6 @@
 
 .accordion-item-body-content {
     padding: 1rem 2rem;
- 
     color: var(--primary-color);
     line-height: 1.5rem;
     border-top: 1px solid;

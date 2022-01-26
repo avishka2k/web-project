@@ -3,15 +3,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="css/privacy-policy.css">
+  <link rel="stylesheet" type="text/css" href="includes/css/privacy-policy.css">
+	<link rel="stylesheet" type="text/css" href="includes/css/header.css">
+	<link rel="stylesheet" type="text/css" href="includes/css/footer.css">
+	<link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
+  <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+
+
   <title>Privacy Policy</title>
 </head>
 <body>
 
-<div class="pp">
+  <?php include('includes/header.php'); ?>
 
+<div class="pp">
 <h1>Privacy Policy</h1>
-<p>Last updated: January 25, 2022</p>
+<p class="pp-date">Last updated: January 25, 2022</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.privacypolicies.com/blog/privacy-policy-template/" target="_blank">Privacy Policy Template</a>.</p>
 <h2>Interpretation and Definitions</h2>
@@ -179,7 +186,12 @@
 <ul>
 <li>By email: avishkaprabath712@gmail.com</li>
 </ul>
-
 </div>
+
+<?php include('includes/footer.php'); ?>
+
+<?php include('includes/ScrollToTop.php'); ?>
+
+
 </body>
 </html>

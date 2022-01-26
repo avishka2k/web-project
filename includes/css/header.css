@@ -6,15 +6,13 @@
 header{
     height: 60px;
     width: 100%;
-    position: absolute;
+	position: fixed;
     top: 0;
 	z-index: 2;
 }
 
 .navbar {
-	background-color: transparent;
-	padding-top: 40px;
-    padding-bottom: 20px;
+    padding: 1rem;
     padding-right: 8%;
     padding-left: 8%; 
 	
@@ -32,14 +30,12 @@ header{
 
 .navbar nav {
     display: flex;
-	
 }
 
 .navlist{
     flex: 1;
     text-align: right;
 }
-
 
 .navlist li {
     list-style: none;
@@ -68,9 +64,22 @@ header{
     color: aliceblue;
     font-weight: 600;
 	font-family: sans-serif;
-	
 
 }
+
+
+.scrolling-active{
+    box-shadow: 0 23px 1rem rgba(0, 0, 0, 0.308);
+	transition: all 2s ease-out 1s;
+}
+
+
+
+.scrolling-active .navbar {
+	background-color: aliceblue;
+	transition: all 1s ease-out 0s;
+}
+
 
 
 .slider{
@@ -80,7 +89,7 @@ header{
 }
 
 .myslide{
-    height: 848px;
+    height: 910px;
 	display: none;
 	overflow: hidden;
 }

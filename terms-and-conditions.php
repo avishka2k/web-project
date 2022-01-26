@@ -3,16 +3,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="css/tac.css">
+  <link rel="stylesheet" type="text/css" href="includes/css/tac.css">
+  <link rel="stylesheet" type="text/css" href="includes/css/header.css">
+	<link rel="stylesheet" type="text/css" href="includes/css/footer.css">
+	<link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
+  <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+
 
   <title>Terms And Conditions</title>
 </head>
 <body>
+<?php include('includes/header.php'); ?>
 
 <div class="tac">
 
     <h1>Terms and Conditions</h1>
-    <p>Last updated: January 25, 2022</p>
+    <p class="tac-date">Last updated: January 25, 2022</p>
     <p>Please read these terms and conditions carefully before using Our Service.</p>
     <h2>Interpretation and Definitions</h2>
     <h3>Interpretation</h3>
@@ -93,8 +99,13 @@
     <ul>
     <li>By email: avishkaprabath712@gmail.com</li>
     </ul>
-   
-    
+     
 </div>
+
+<?php include('includes/footer.php'); ?>
+
+<?php include('includes/ScrollToTop.php'); ?>
+
+
 </body>
 </html>

@@ -3,11 +3,19 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="css/cookise.css">
+  <link rel="stylesheet" type="text/css" href="includes/css/cookise.css">
+	<link rel="stylesheet" type="text/css" href="includes/css/header.css">
+	<link rel="stylesheet" type="text/css" href="includes/css/footer.css">
+	<link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
+  <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+
+
+
   
   <title>Cookies Policy</title>
 </head>
 <body>
+  <?php include('includes/header.php'); ?>
 
     <div class="cookies">
 
@@ -72,5 +80,10 @@
 <li>By email: avishkaprabath712@gmail.com</li>
 </ul>
 </div>
+
+<?php include('includes/footer.php'); ?>
+
+<?php include('includes/ScrollToTop.php'); ?>
+
 </body>
 </html>

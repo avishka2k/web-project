@@ -9,9 +9,9 @@
 
 	<link rel="stylesheet" type="text/css" href="includes/css/style.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/footer.css">
-	<link rel="stylesheet" type="text/css" href="includes/css/socialIcon.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/newslatter.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/header.css">
+	<link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
     
     <script src="includes/js/accordion.js" defer></script>
@@ -24,103 +24,90 @@
 </head>
 <body>
 
-<header>
-		<div class="navbar navbar-pager">
-    <div class="container">
-      <div class="logo" id="logo">
-        <a href="#">LogoHere</a>
-      </div>      
-        <nav>           
-            <ul class="navlist">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="meals.php">Healthy Meals</a></li>
-                <li><a href="fithit.php">Fit Hit</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="aboutus.php">About Us</a></li>
-                <li><a href="contactus.php">Contact Us</a></li>
-                <li class="header-btn"><a href="includes/register.php">Register</a></li>
-        </nav>       
-    </div>
-</div>
-</header>
-    <div class="slider">
-		<!-- fade css -->
-		<div class="myslide fade">
-			<div class="txt">
-				<h1>IMAGE 1</h1>
-				<p>Live mentally & physicaly healthier with Loreum</p>
+<?php include('includes/header.php'); ?>
+
+
+
+<!--========Hero Section start========-->
+<div class="slider">
+        <!-- fade css -->
+        <div class="myslide fade">
+            <div class="txt">
+                <h1>IMAGE 1</h1>
+                <p>Live mentally & physicaly healthier with Loreum</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
 
                 </div>
-			</div>
-			<img src="images/hero-01.jpg">
+            </div>
+            <img src="images/hero-01.jpg">
 
-		</div>
-		
-		<div class="myslide fade">
-			<div class="txt">
-				<h1>Life changing<br/>Diet.</h1>
-				<p>Make a difference in your life with our<br>
+        </div>
+        
+        <div class="myslide fade">
+            <div class="txt">
+                <h1>Life changing<br/>Diet.</h1>
+                <p>Make a difference in your life with our<br>
 Diet Plan and Job Opportunity!</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
                 </div>
-			</div>
-			<img src="images/hero-02.jpg">
-		</div>
-		
-		<div class="myslide fade">
-			<div class="txt">
-				<h1>IMAGE 3</h1>
-				<p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+            </div>
+            <img src="images/hero-02.jpg">
+        </div>
+        
+        <div class="myslide fade">
+            <div class="txt">
+                <h1>IMAGE 3</h1>
+                <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
                 </div>
-			</div>
-			<img src="images/hero-03.jpg">
-		</div>
-		
-		<div class="myslide fade">
-			<div class="txt">
-				<h1>IMAGE 4</h1>
-				<p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+            </div>
+            <img src="images/hero-03.jpg">
+        </div>
+        
+        <div class="myslide fade">
+            <div class="txt">
+                <h1>IMAGE 4</h1>
+                <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
                 </div>
-			</div>
-			<img src="images/hero-04.jpg">
-		</div>
-		
-		<div class="myslide fade">
-			<div class="txt">
-				<h1>IMAGE 5</h1>
-				<p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+            </div>
+            <img src="images/hero-04.jpg">
+        </div>
+        
+        <div class="myslide fade">
+            <div class="txt">
+                <h1>IMAGE 5</h1>
+                <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
                 </div>
-			</div>
-			<img src="images/hero-05.jpg">
-		</div>
-		<!-- /fade css -->
-		
-		<!-- onclick js -->
-		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  		<a class="next" onclick="plusSlides(1)">&#10095;</a>
-		
-		<div class="dotsbox" style="text-align:center">
-			<span class="dot" onclick="currentSlide(1)"></span>
-			<span class="dot" onclick="currentSlide(2)"></span>
-			<span class="dot" onclick="currentSlide(3)"></span>
-			<span class="dot" onclick="currentSlide(4)"></span>
-			<span class="dot" onclick="currentSlide(5)"></span>
-		</div>
-	</div>
+            </div>
+            <img src="images/hero-05.jpg">
+        </div>
+        <!-- /fade css -->
+        
+        <!-- onclick js -->
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        
+        <div class="dotsbox" style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+            <span class="dot" onclick="currentSlide(4)"></span>
+            <span class="dot" onclick="currentSlide(5)"></span>
+        </div>
+    </div>
+<!--========Hero Section End========-->
+
 
     <script src="includes/js/script.js"></script>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
 
 
 <!--========About us Section start========-->
@@ -287,7 +274,7 @@ be a part of something positive are more than welcome.</p>
 
 
 <!--========FAQ Section Start========-->
-<section class="faq">
+<section class="faq" id="home-faqs">
     <div class="section-head">
         <p class="freeble headline">FAQ</p>
        <h1 class="h-tag">Felt those question like others?</h1>
@@ -370,62 +357,11 @@ be a part of something positive are more than welcome.</p>
 <!--========Newslatter Section End========-->
 
 <!--========FooterSection Start========-->
-<div class="cs footer-section">
-  <footer class="footer">
-      <div class="footer-row">
-          <div class="footer-col about">
-              <h5>About Us</h5>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Quibusdam, architecto voluptatem voluptatibus, at 
-                    blanditiis sit sed eveniet perspiciatis tempora earum 
-                    laudantium nam possimus quis optio dolorem id tenetur 
-                    expedita labore.
-                  </p>
-          </div>
-          <div class="footer-col">
-              <h5>Quick Link</h5>
-              <ul>
-                  <li><a href="" class="nav-link">Home</a></li>
-                  <li><a href="" class="nav-link">Features</a></li>
-                  <li><a href="" class="nav-link">Pricing</a></li>
-                  <li><a href="" class="nav-link">FAQS</a></li>
-                  <li><a href="" class="nav-link">About</a></li>
-              </ul>
-          </div>
-          <div class="footer-col">
-              <h5>Legal Information</h5>
-              <ul>
-                  <li><a href="" class="nav-link">Terms & condition</a></li>
-                  <li><a href="" class="nav-link">Privacy policy</a></li>
-                  <li><a href="" class="nav-link">Cookie policy</a></li>
-              </ul>
-          </div>
-          <div class="footer-col form">
-          <form action="php/subscribe.php" method="post">
-            <h5>Subscribe to our newsletter</h5>
-            <p>Monthly digest of whats new and exciting from us.</p>
-            <div class="form-submission">
-              <label for="newsletter1" class="placeholder-text">Email address</label>
-              <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
-              <button class="form-btn basic" type="submit">Subscribe</button>
-            </div>
-          </form>
-          <div class="footer-social-icons">
-              <ul class="social-icons">
-                <li><a href="" class="social-icon"> <i class="fa fa-facebook"></i></a></li>
-                <li><a href="" class="social-icon"> <i class="fa fa-youtube"></i></a></li>
-                <li><a href="" class="social-icon"> <i class="fa fa-github"></i></a></li>
-              </ul>
-            </div>
-        </div>
-      </div>
-      <hr class="hrtag">
-      <div class="copyright">
-      <p>&copy; 2021 Company, Inc. All rights reserved.</p>
-      </div>
-  </footer>
-</div>
+<?php include('includes/footer.php'); ?>
 <!--========FooterSection End========-->
+
+
+<?php include('includes/ScrollToTop.php'); ?>
 
 </body>
 </html>

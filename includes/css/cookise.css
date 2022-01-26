@@ -4,31 +4,33 @@
     }
 body {
     background-color: aliceblue;
-    font-size: 19px;
-    font-family: roboto;
 }
-
+.coo-date {
+    margin-bottom: 2rem;
+}
 .cookies {
     width: 100%;
     max-width: 55rem;
     margin: 0 auto;
-    padding: 0 1.5rem;
+    padding: 0 1.5rem 4rem;
     box-sizing: border-box;
 }
 
 .cookies h1 {
     color: var(--primary-color);
-    line-height: 1rem;
-    margin-top: 5rem;
+    line-height: 5rem;
+    margin-top: 8rem;
     font-size: 55px;
 }
 
 .cookies h2 {
     color: var(--primary-color);
+    line-height: 3rem;
 }
 
 .cookies h3 {
     color: #3a3a3a;
+    line-height: 3rem;
 }
 
 .cookies p {

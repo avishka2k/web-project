@@ -125,12 +125,22 @@
     transition: all 0.3s ease-out 0s;
 }
 
-.hrtag {
-    margin-top: 22px;
-    margin-bottom: 25px;
-    border: 1px solid #aeb1b3;
+.footer-row {
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to right,#a3a3a381,#6b717780,#a3a3a380)1;   
+
+    margin-bottom:2rem;
 }
 
 .copyright {
     font-size: 13px;
 }
+
+.footer-social li {
+    display: inline-flex;
+    margin-top: 20px;
+    margin-left: 13px;
+  }
+  
+
+  

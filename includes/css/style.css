@@ -473,6 +473,10 @@
         width: 100%;
     }
 
+    .footer .about p {
+        margin-right: 0;
+    }
+
     .section-box .ph {
         font-size: 15px;
     }

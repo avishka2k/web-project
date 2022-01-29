@@ -3,8 +3,10 @@
     <div class="container">
       <div class="logo" id="logo">
         <a href="#">LogoHere</a>
-      </div>      
-        <nav>           
+      </div>
+          <img class="mobile-menu" id="mobile-cta" src="images/mobile-menu.svg">    
+        <nav>    
+          <img class="menu-exit" id="mobile-exit" src="images/menu-close.svg">   
             <ul class="navlist nav-list">
                 <li><a href="index.php" class="nav-link">Home</a></li>
                 <li><a href="meals.php" class="nav-link">Healthy Meals</a></li>

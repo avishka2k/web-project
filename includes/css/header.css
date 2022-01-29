@@ -14,8 +14,9 @@ header{
 .navbar {
     padding: 1rem;
     padding-right: 8%;
-    padding-left: 8%; 
-	
+    padding-left: 8%;
+	align-items: center; 
+	justify-content: space-between;
 }
 
 
@@ -74,17 +75,16 @@ header{
 }
 
 
-
 .scrolling-active .navbar {
 	background-color: aliceblue;
 	transition: all 1s ease-out 0s;
 }
 
-
-
 .slider{
 	position: relative;
-	width: 100%
+	width: 100%;
+	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75));
+
 
 }
 
@@ -203,8 +203,7 @@ header{
 
 .slider img{
 	transform: scale(1.5, 1.5);
-    opacity: 0.6;
-	filter:brightness(.6);
+    opacity: 0.5;
     width: 100%;
     height: 100%;
     object-fit:contain;
@@ -246,4 +245,45 @@ header{
 		font-size: 30px;
 		margin-bottom: 20px;
 	}
+}
+
+.mobile-menu, .menu-exit {
+	display: none;
+}
+
+@media only screen and (max-width: 768px) {
+	.mobile-menu, .menu-exit {
+		display: block;
+	}
+
+}
+
+@media only screen and (max-width: 1254px) {
+	.mobile-menu, .menu-exit {
+		display: block;
+	}
+
+}
+@media only screen and (max-width: 800px) {
+   .navbar,.scrolling-active .navbar, .scrolling-active {
+	   display: none;
+   }
+
+
+}
+
+
+@media screen and(max-width: 500px) {
+   
+        .dot{
+			display: inline;
+			width: 15px;
+			height: 15px;
+			border: 3px solid #fff;
+			border-radius: 50%;
+			margin: 0 10px;
+			cursor: pointer;
+		}
+
+    
 }

@@ -13,6 +13,7 @@
     max-width: 75rem;
     margin: 0 auto;
     padding: 0 1.5rem;  
+    align-items: center;
 }
 
 .section-box {
@@ -27,8 +28,7 @@
 }
 
 .right-col {
-    margin-left: 10%;
-    
+    margin-left: 10%;    
 }
 
 .headline {
@@ -69,7 +69,7 @@
     display: inline-block;
 }
 
-.vedio-ph {
+.video-ph {
     margin-top: 30px;
 }
 .section-box-btn a{ 
@@ -87,6 +87,13 @@
     margin-bottom: 85px;
 }
 
+.services {
+    width: 100%;
+    max-width: 75rem;
+    margin: 5rem auto auto auto;
+    padding: 0 1.5rem;  
+    align-items: center;
+}
 
 .services  .sr-img{
    margin-left: auto;
@@ -95,25 +102,17 @@
 }
 
 
-.services .img-row1 img {
-    width: 1132.23px;
-    height: 487px;
+.services img {
+    width: 100%;
 }
 
-.img-row2 {
-    padding-top: 25px;
-    padding-left: 12px;
-
+.services .img2 {
+    margin-left: 16px;
 }
 
-.img-row2 .img2 {
-    padding-left: 25px;
-}
-
-
-.services .img-row2 img{
-    width: 556px;
-    height: 400px;
+.services .img-row2 {
+    display: flex;
+    margin-top: 10px;
 }
 
 .services .img-row1 h1 {
@@ -130,6 +129,7 @@
     max-width: 75rem;
     margin: 0 auto;
     padding: 0 1.5rem;
+    flex-wrap: nowrap;
 }
 
 .row-spacing-op {
@@ -139,6 +139,8 @@
 .right-col-op {
     margin-right: 15%;
 }
+
+
 
 .Opportunity.section-box  {
     display: flex;
@@ -173,19 +175,19 @@
  .row-spacing-wo {
     margin-top: 8rem;
 }
- /*---------vedio---------*/
+ /*---------video---------*/
 
-.row-spacing-vedio {
+.row-spacing-video {
     margin-top: 8rem;
     align-items: center;
 }
 
-.vedio-header {
+.video-header {
     text-align: center;
     width: 100%;
     max-width: 75rem;
     margin: 0 auto;
-    padding: 0 1.5rem;
+    
 }
 
 .section-box-ve .ph {
@@ -199,10 +201,16 @@
     text-align: center;
 }
 
-.vedio-top {
+.video-top {
     margin-top: 4rem;
     text-align: center;
 }
+
+ .video {
+    padding: 0 1.5rem;
+    width: 100%;
+    height: 100%;
+ }
 
  /*---------freeble----------*/
 
@@ -257,7 +265,7 @@
 }
 
 
- /*---------Blog----------*/
+ /*---------Blog card----------*/
 
  .blog {
     width: 100%;
@@ -274,7 +282,13 @@
     background-color: aliceblue;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     padding-bottom: 12px;
-    
+}
+
+.blog .blog-card:hover {
+    box-shadow: 4px 6px 8px 0 rgba(0, 0, 0, 0.548);
+    transition: all 0.3s ease-out 0s;
+    border-radius: 3px;
+    cursor: pointer;
 }
 
 .blog img {
@@ -325,6 +339,7 @@
     transition: all 0.7s ease-out 0s;
     
 }
+
 
  /*---------Accroding----------*/
 
@@ -382,3 +397,190 @@
 }
 
 
+
+@media only screen and (max-width: 1254px) {
+	.mobile-menu, .menu-exit {
+		display: block;
+	}
+
+    .services .img-row2 img{
+       display: block;
+       width: 50%;
+    }
+   
+    .frreble-right-col {
+        margin-left: 4rem;
+    }
+
+   .Opportunity {
+       max-width: 65rem;;
+   }
+
+   .right-col-op {
+       margin-right: 3rem;
+   }
+ 
+
+
+    .freeble img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1100px) {
+    .Aboutus img {
+     
+        width: 25rem;
+    }
+    .Aboutus {
+       max-width: 70rem;
+    }
+
+    .Aboutus .right-col {
+        margin-left: 3rem;
+    }
+
+    .Opportunity {
+        max-width: 60rem;
+    }
+
+    .wonder {
+        max-width: 60rem;
+    }
+
+    .wonder img {
+        width: 20rem;
+    }
+
+    .right-col-wo {
+        margin-left: 30px;
+    }
+
+    .accordion {  
+   
+        padding: 0 1.5rem;
+    }
+
+   
+}
+
+
+@media only screen and (max-width: 800px) {
+    .Aboutus {
+        text-align: center;
+        flex-flow: column-reverse;
+        margin: 0;
+        width: 100%;
+    }
+
+    .section-box .ph {
+        font-size: 15px;
+    }
+
+    .h-tag {
+        font-size: 35px;
+    }
+
+    .Aboutus img {
+        width: 60%;
+        margin-top: 5rem;
+    }
+
+    .Aboutus .right-col {
+        margin-top: 4rem;
+        margin-left: 0%;
+        width: 100%;
+        height: 100%;
+    }
+
+    .right-col {
+        margin-left: 0;    
+    }  
+    
+    
+    .Opportunity {
+        text-align: center;
+        flex-flow: column-reverse;
+        max-width: 35rem;
+
+    }
+    .Opportunity img {
+        display: none;
+    }
+
+    .right-col-op {
+        margin-right: 0;
+    }
+
+    .wonder {
+        flex-flow: column-reverse;
+        text-align: center;
+        max-width: 40rem;
+    }
+    .wonder img {
+        padding: 0 1.5rem;
+        width: 70%;
+        height: 100%;
+    }
+    .wonder-ph {
+        font-size: 17px;
+    }
+
+    .section-box-ve .ph {
+        font-size: 18px;
+    }
+	.right-col-wo {
+        margin-left: 0;
+    }
+
+    video {
+        padding: 0 1.5rem;
+        width: 100%;
+        height: 100%;
+    }
+
+   
+ .frreble-right-col h2 {
+     font-size: 25px;
+ }
+
+ .frreble-right-col {
+    margin-left: 0;
+}
+  
+
+    .freeble.section-box {
+        display: block;
+    }
+
+    .freeble img {
+        padding: 0 1.5rem;
+        width: 100%;
+        height: 100%;
+        padding-bottom: 3rem;
+    }
+    .section-head .freeble{
+        margin-top: 100px;
+        margin-bottom: 1rem;
+    }
+
+    .blog {
+        display: block;
+        width: 100%;
+    }
+
+    .accordion {  
+        max-width: 40rem;
+        padding: 0 1.5rem;
+    }
+
+    .newslatter {
+        padding: 0 1.5rem;     
+    }
+
+    .form__button {
+        margin-top: 2rem;
+      }
+
+
+}

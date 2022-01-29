@@ -10,11 +10,11 @@ body {
 
 .blog-main {
     width: 100%;
-    max-width:90rem;
+    max-width:80rem;
     margin: 0 auto;
     padding-top: 200px;
     padding-bottom: 52px;
-    margin-left: 10%;
+   
 }
 
 .blog-main h1 {
@@ -37,6 +37,9 @@ body {
     margin: 0;
 }
 
+.blog-hero-right img {
+    width: 100%;
+}
 .blog-time span{
       display: inline-flex; 
       align-items: center;
@@ -124,6 +127,7 @@ border-image: linear-gradient(to right,#a3a3a381,#6b717780,#a3a3a380)1;
 
 .blog-cantent img {
     margin:5% 0;
+    width: 100%;
 }
 
 /*----------related articles---------*/

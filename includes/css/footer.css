@@ -27,6 +27,7 @@
 .footer-row {
     display: flex;
 }
+
 .footer-col {
     flex: 1 0 auto;
     width: 16.66666667%;
@@ -142,5 +143,43 @@
     margin-left: 13px;
   }
   
+@media screen and (max-width: 800px) {
+    
+    .footer {
+        padding-left: 3rem;
+    }
 
+    .footer p {
+        padding-bottom: 0;
+    }
+
+    .footer-row {
+        display: block;
+    }
+
+    .footer-col h5 {
+    
+        margin:1.5rem 0 1rem 0;
+    }
+
+    .footer-col {
+        width: auto;
+    }
+
+    .footer .form {
+        text-align: center;
+        margin-top: 3rem;
+        width: 100%;
+    }
+
+    .form-submission {
+        margin-top: 2.5rem;
+    }
+
+    .copyright {
+        text-align: center;
+    }
+
+
+}
   

@@ -13,9 +13,6 @@
 	<link rel="stylesheet" type="text/css" href="includes/css/header.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
-    
-    <script src="includes/js/accordion.js" defer></script>
-
     <style>
         body {
     background-color: #E9EDF6;
@@ -47,8 +44,7 @@
         <div class="myslide fade">
             <div class="txt">
                 <h1>Life changing<br/>Diet.</h1>
-                <p>Make a difference in your life with our<br>
-Diet Plan and Job Opportunity!</p>
+                <p>Make a difference in your life with our<br>Diet Plan and Job Opportunity!</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
                 </div>
@@ -105,15 +101,10 @@ Diet Plan and Job Opportunity!</p>
 <!--========Hero Section End========-->
 
 
-    <script src="includes/js/script.js"></script>
-    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
-
 <!--========About us Section start========-->
 <section class="Aboutus section-box row-spacing">
     <div class="left-col">
-        <img src="images/body-about.svg" width="472px" height="484.75px">
+        <img src="images/body-about.svg">
     </div>
     <div class="right-col">
         <p class="aboutus headline">About us</p>
@@ -166,7 +157,7 @@ We’ll give you that opportunity. be connected to get offered!</p>
         </div>
     </div>
     <div class="left-col">
-        <img src="images/phone.svg" width="398px" height="774px"> 
+        <img src="images/phone.svg"> 
 
     </div>    
 </section>
@@ -182,8 +173,8 @@ We’ll give you that opportunity. be connected to get offered!</p>
         <p class="wonder-women headline">Wonder Women</p>
         <h1 class="h-tag">We inspire ‘Women on a<br>Mission’</h1>
         <p class="ph01 ph">SUPER GREAT CONCEPT for women who want change in their
-lives and want to be their own boss or anyone who just wants to
-be a part of something positive are more than welcome.</p>
+            lives and want to be their own boss or anyone who just wants to
+        be a part of something positive are more than welcome.</p>
         <p class="ph02 wonder-ph">Every Wednesday evening at 9pm we offer the opportunity to be part of something great!</p>
         <div class="section-box-btn">
             <a href="">Fill Form</a>
@@ -193,21 +184,21 @@ be a part of something positive are more than welcome.</p>
 <!--========Wonder us Section End========-->
 
 
-<!--========vedio Section start========-->
-<section class="vedio section-box-ve row-spacing-vedio">
-        <h1 class="h-tag vedio-header">We inspire people to Understand us.</h1>
-        <p class="ph01 ph vedio-ph">Not yet sure about what we do here? This short video will break<br>your confusion, and will lead you to a ‘Door of Opportunity’!</p>
-        <div class="vedio-top">
+<!--========video Section start========-->
+<section class="video section-box-ve row-spacing-video">
+        <h1 class="h-tag video-header">We inspire people to Understand us.</h1>
+        <p class="ph01 ph video-ph">Not yet sure about what we do here? This short video will break<br>your confusion, and will lead you to a ‘Door of Opportunity’!</p>
+        <div class="video-top">
             <video width="854px" height="480px" controls>
                 <source src="movie.mp4" type="video/mp4">
             </video>
         </div>
 </section>
-<!--========vedio Section End========-->
+<!--========video Section End========-->
 
 
 <!--========Freeble Section start========-->
-    <div class="section-head">
+    <div class="section-head freeble">
          <p class="freeble headline">Freeble</p>
         <h1 class="h-tag">Download our freebies</h1>
     </div>
@@ -362,6 +353,13 @@ be a part of something positive are more than welcome.</p>
 
 
 <?php include('includes/ScrollToTop.php'); ?>
+
+
+<!--========Script========-->
+<script src="includes/js/script.js"></script>
+<script src="includes/js/accordion.js"></script>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
 </body>
 </html>

@@ -1,7 +1,5 @@
-
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -363,4 +361,3 @@ We’ll give you that opportunity. be connected to get offered!</p>
 
 </body>
 </html>
-

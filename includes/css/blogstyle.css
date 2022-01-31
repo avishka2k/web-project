@@ -108,7 +108,7 @@ border-image: linear-gradient(to right,#a3a3a381,#6b717780,#a3a3a380)1;
 
 .blog-cantent-row {
     width: 100%;
-    max-width:45rem;
+    max-width: 50rem;
     margin: 0 auto;
     padding: 0 1.5rem;   
 }

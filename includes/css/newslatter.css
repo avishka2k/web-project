@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700&display=swap');
 
-:root {
-    --primary-color: #215A51;
-    }
-    
-
 .newslatter .subscribe {
 	display: flex;
 	flex-direction: column;
@@ -41,7 +36,6 @@ font-family: roboto;
 	padding: 9px 25px;
 	border-radius: 5px;
  	border: 1px solid #CAD3DB;
-	width: 431px;
 	font-size: 18px;
 	color: #0F121F;
 }
@@ -67,4 +61,10 @@ font-family: roboto;
 
 .notice {
 	width: 345px;
+}
+
+@media only screen and (max-width: 800px) {
+	.form__email {
+	width: 100%;
+	}
 }

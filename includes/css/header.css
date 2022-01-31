@@ -1,10 +1,10 @@
-:root {
---primary-color: #215A51;
+
+* {
+	box-sizing: border-box;
 }
 
-
 header{
-    height: 60px;
+	padding: 2rem;
     width: 100%;
 	position: fixed;
     top: 0;
@@ -12,7 +12,6 @@ header{
 }
 
 .navbar {
-    padding: 1rem;
     padding-right: 8%;
     padding-left: 8%;
 	align-items: center; 
@@ -25,23 +24,15 @@ header{
     font-size: 20px;
     text-decoration: none;
 	font-family: sans-serif;
-
 }
 
-
-.navbar nav {
-    display: flex;
-}
-
-.navlist{
-    flex: 1;
-    text-align: right;
+nav ul {
+	float: right;
 }
 
 .navlist li {
     list-style: none;
-    display: inline-block;
-    position: relative;
+    display: inline;
     padding: 0.5rem 1rem;
 }
 
@@ -56,7 +47,8 @@ header{
 .header-btn {
  border: 2px solid var(--primary-color);
  border-radius: 6px;
- display: flex;
+ display: inline;
+ padding: .5rem 1rem;
  margin-left: 65px;
  background-color: var(--primary-color);
 }
@@ -68,25 +60,23 @@ header{
 
 }
 
-
 .scrolling-active{
-    box-shadow: 0 23px 1rem rgba(0, 0, 0, 0.308);
+    box-shadow: 0 1px 1rem rgba(0, 0, 0, 0.308);
 	transition: all 2s ease-out 1s;
 }
 
 
-.scrolling-active .navbar {
-	background-color: aliceblue;
+.scrolling-active, .navbar {
 	transition: all 1s ease-out 0s;
+	background-color: aliceblue;
 }
 
 .slider{
 	position: relative;
 	width: 100%;
 	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75));
-
-
 }
+
 
 .myslide{
     height: 910px;
@@ -251,39 +241,66 @@ header{
 	display: none;
 }
 
-@media only screen and (max-width: 768px) {
-	.mobile-menu, .menu-exit {
-		display: block;
-	}
-
-}
-
 @media only screen and (max-width: 1254px) {
-	.mobile-menu, .menu-exit {
+	.menu-btn {
 		display: block;
 	}
 
+	header {
+		padding: 1rem;
+		background-color: aliceblue;
+	}
+
+	.navbar {
+		padding-right: 0.5rem;
+	}
+
+	.mobile-menu {
+		float: right;
+	}
+
+	.mobile-menu, .menu-exit {
+		cursor: pointer;
+	}	
+
+	.navlist li {
+		display: block;
+		padding: 0.5rem 0rem;
+	}
+
+	.scrolling-active, .navbar {
+		transition: none;
+	  }
+
+	.header-btn {
+		margin-left: 0;
+	   }	
+
+	   nav {
+		background: aliceblue;
+		position: fixed;
+		top: 0;
+		right: 0;
+		display: none;
+	}
+
+	nav ul {
+		margin: 3rem 3rem 2rem 0;
+	}
+
+	.menu-exit {
+		float: right;
+		margin: 1rem 1.5rem;
+	}
+
 }
+
+/*
 @media only screen and (max-width: 800px) {
    .navbar,.scrolling-active .navbar, .scrolling-active {
 	   display: none;
    }
-
-
 }
+*/
 
 
-@media screen and(max-width: 500px) {
-   
-        .dot{
-			display: inline;
-			width: 15px;
-			height: 15px;
-			border: 3px solid #fff;
-			border-radius: 50%;
-			margin: 0 10px;
-			cursor: pointer;
-		}
-
-    
-}

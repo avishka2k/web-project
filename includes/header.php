@@ -29,8 +29,7 @@
             let windowPosition = window.scrollY > 1;
             header.classList.toggle('scrolling-active', windowPosition);
         });
-</script>
-<script>        
+      
 
         const mobileBtn = document.getElementById('mobile-cta')
               nav = document.querySelector('nav')

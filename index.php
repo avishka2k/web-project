@@ -335,8 +335,10 @@ We’ll give you that opportunity. be connected to get offered!</p>
 	<h2 class="subscribe__title">Subscribe to our Newsletter.</h2>
 	<p class="subscribe__copy">Subscribe to keep up with fresh news and exciting updates. We promise not to spam you!</p>
 	<div class="form">
-		<input type="email" class="form__email" placeholder="Enter your email address" />
+        <form method="POST" action="includes/php/subscribe.php">
+		<input type="email" name="email" class="form__email" placeholder="Enter your email address" />
 		<button class="form__button" type="submit">Subscribe</button>
+        </form>
 	</div>
 </div>
 </section>

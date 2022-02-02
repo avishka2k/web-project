@@ -1,7 +1,5 @@
-
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,7 +22,6 @@
 <?php include('includes/header.php'); ?>
 
 
-
 <!--========Hero Section start========-->
 <div class="slider">
         <!-- fade css -->
@@ -34,11 +31,9 @@
                 <p>Live mentally & physicaly healthier with Loreum</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
-
                 </div>
             </div>
             <img src="images/hero-01.jpg">
-
         </div>
         
         <div class="myslide fade">
@@ -363,4 +358,3 @@ We’ll give you that opportunity. be connected to get offered!</p>
 
 </body>
 </html>
-

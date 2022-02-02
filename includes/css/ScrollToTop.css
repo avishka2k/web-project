@@ -59,5 +59,7 @@
   #btnScrollToTop {
     right: 2rem;
     bottom: 2rem;
+    width: 40px;
+    height: 40px;
   }
 }

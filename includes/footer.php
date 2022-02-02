@@ -29,12 +29,12 @@
               </ul>
           </div>
           <div class="footer-col form">
-          <form action="php/subscribe.php" method="post">
+          <form action="includes/php/subscribe.php" method="POST">
             <h5>Subscribe to our newsletter</h5>
             <p>Monthly digest of whats new and exciting from us.</p>
             <div class="form-submission">
-              <label for="newsletter1" class="placeholder-text">Email address</label>
-              <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
+              <label for="email" class="placeholder-text">Email address</label>
+              <input id="newsletter1" type="text" class="form-control" name="email" placeholder="Email address">
               <button class="form-btn basic" type="submit">Subscribe</button>
             </div>
           </form>

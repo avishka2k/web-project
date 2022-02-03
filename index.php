@@ -124,15 +124,50 @@ We’ll give you that opportunity. be connected to get offered!</p>
     <h1 class="h-tag">Most popular services</h1>
     <div class="sr-img">
         <div class="img-row1">
-            <h1>Fit Hit</h1>
             <img src="images/service01.svg">
-        </div>
-        <div class="img-row2">
-                <img src="images/service02.svg">
-                <img class="img2" src="images/service03.svg">
+            <div class="img-on-txt">
+            <h2>FitHit</h2>
+            <a href="" class="img-on-txt-btn">Know More</a>
             </div>
         </div>
-    </div>
+        <div class="img-row2">
+               <div class="">
+                <img src="images/service02.svg">
+                <div class="img-on-txt">
+                    <h2>FitHit</h2>
+                    <a href="" class="img-on-txt-btn">Know More</a>
+                </div>
+               </div>
+               <div class="img3-content">
+                <img class="img2" src="images/service02.svg">
+                <div class="img-on-txt">
+                    <h2>FitHit</h2>
+                    <a href="" class="img-on-txt-btn">Know More</a>
+                    </div>
+               </div>
+            </div>
+        </div>
+        <div class="sr-mobile sr-mobile-top">
+            <ul>
+                <li><a href="">Fit for Life</li>
+                <li><i class="fi fi-rr-arrow-right"></i></a></li>
+            </ul>
+                <img src="images/service02.svg" alt="">
+        </div>
+        <div class="sr-mobile">
+            <ul>
+                <li><a href="">Fit for Life</li>
+                <li><i class="fi fi-rr-arrow-right"></i></a></li>
+            </ul>
+                <img src="images/service02.svg" alt="">
+        </div>
+        <div class="sr-mobile">
+            <ul>
+                <li><a href="">Fit for Life</li>
+                <li><i class="fi fi-rr-arrow-right"></i></a></li>
+            </ul>
+                <img src="images/service02.svg" alt="">
+        </div>
 </section>
 <!--========Service Section End========-->
 

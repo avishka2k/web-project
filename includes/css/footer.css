@@ -149,10 +149,6 @@
   }
   
 @media screen and (max-width: 800px) {
-    
-    .footer {
-        padding-left: 3rem;
-    }
 
     .footer p {
         padding-bottom: 0;

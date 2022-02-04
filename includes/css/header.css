@@ -48,6 +48,10 @@ nav ul {
 
 }
 
+.navlist br {
+	display: none;
+}
+
 .header-btn {
  border: 2px solid var(--primary-color);
  border-radius: 6px;
@@ -200,7 +204,7 @@ nav ul {
     opacity: 0.5;
     width: 100%;
     height: 100%;
-    object-fit:contain;
+    object-fit:cover;
 }
 
 
@@ -239,6 +243,10 @@ nav ul {
 		font-size: 30px;
 		margin-bottom: 20px;
 	}
+
+	.dot{
+		display: none;
+	}
 }
 
 .mobile-menu, .menu-exit {
@@ -258,6 +266,10 @@ nav ul {
 	.navbar {
 		padding-right: 0.5rem;
 	}
+
+	.navlist br {
+		display: inline-block;
+	}	
 
 	.mobile-menu {
 		float: right;
@@ -285,6 +297,7 @@ nav ul {
 		position: fixed;
 		top: 0;
 		right: 0;
+		bottom: 0;
 		display: none;
 	}
 

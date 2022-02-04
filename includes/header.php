@@ -14,6 +14,7 @@
                 <li><a href="blog.php" class="nav-link">Blog</a></li>
                 <li><a href="aboutus.php" class="nav-link">About Us</a></li>
                 <li><a href="contactus.php" class="nav-link">Contact Us</a></li>
+                <br>
                 <div class="header-btn">
                 <a href="includes/register.php">Register</a>
                 </div>
@@ -23,26 +24,6 @@
 </div>
 </header>
 
-<script>
-        window.addEventListener('scroll', function () {
-            let header = document.querySelector('header');
-            let windowPosition = window.scrollY > 1;
-            header.classList.toggle('scrolling-active', windowPosition);
-        });
-      
-
-        const mobileBtn = document.getElementById('mobile-cta')
-              nav = document.querySelector('nav')
-              mobileBtnExit = document.getElementById('mobile-exit');
-
-        mobileBtn.addEventListener('click', () => {
-          nav.classList.add('menu-btn');
-        })
-
-        mobileBtnExit.addEventListener('click',() => {
-          nav.classList.remove('menu-btn');
-        })
-
-</script>
+<script src="includes/js/header.js"></script>
 
     

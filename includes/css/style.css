@@ -674,4 +674,14 @@
         margin-top: 2rem;
       }
 
+    .h-tag {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .headline {
+        font-size: 15px;
+    }
+    
+
 }

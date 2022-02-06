@@ -10,11 +10,17 @@ body {
 
 .blog-main {
     width: 100%;
-    max-width:80rem;
+    max-width:95rem;
     margin: 0 auto;
     padding-top: 200px;
     padding-bottom: 52px;
-   
+    padding-left: 5rem;
+    padding-right: 5rem;  
+}
+
+.blog-cantent {
+    padding-left: 6rem;
+    padding-right: 6rem; 
 }
 
 .blog-main h1 {
@@ -187,7 +193,7 @@ border-image: linear-gradient(to right,#a3a3a381,#6b717780,#a3a3a380)1;
 }
 
 .card-collect-col .main {
-   width: 30%;
+   width: 60%;
    object-fit: cover;
 }
 
@@ -211,4 +217,60 @@ border-image: linear-gradient(to right,#a3a3a381,#6b717780,#a3a3a380)1;
 .blog-social li {
   display: inline-flex;
   margin: 10px;
+}
+
+@media screen and (max-width: 1100px) {
+    .card-collect-row {
+        display:block;       
+    }
+
+    .card-collect {
+        width: 100%;
+        max-width:30rem;
+        margin: 0 auto;
+        padding-right: 1rem; 
+    }
+
+}
+
+@media screen and (max-width: 650px) {
+    .card-profile {
+        display: none;
+    }
+    .related-card-left{
+        margin: 1rem
+    }
+    .card-collect {
+        width: 100%;
+        max-width:30rem;
+        margin: 0 auto;
+        padding-right: 1rem; 
+    }
+
+    .blog-main {
+        padding-left: 2rem;
+        padding-right: 2rem;  
+    }
+
+    .blog-hero {
+        flex-flow: column-reverse
+    }
+
+    .blog-cantent {
+        padding-left: 1rem;
+        padding-right: 1rem; 
+    }
+    
+    .blog-main h1 {
+        margin-top: 2rem;
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .blog-cantent h2 {
+       font-size: 21px;
+   }
+
+   
+
 }

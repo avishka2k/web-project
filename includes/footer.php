@@ -13,9 +13,9 @@
           <div class="footer-col">
               <h5>Quick Link</h5>
               <ul>
-                  <li><a href="index.php" class="nav-link">Home</a></li>
+                  <li><a href="index" class="nav-link">Home</a></li>
                   <li><a href="" class="nav-link">Features</a></li>
-                  <li><a href="blog.php" class="nav-link">blog</a></li>
+                  <li><a href="blog" class="nav-link">blog</a></li>
                   <li><a href="#home-faqs" class="nav-link">FAQS</a></li>
                   <li><a href="" class="nav-link">About</a></li>
               </ul>
@@ -23,9 +23,9 @@
           <div class="footer-col">
               <h5>Legal Information</h5>
               <ul>
-                  <li><a href="terms-and-conditions.php" class="nav-link">Terms & condition</a></li>
-                  <li><a href="privacypolicy.php" class="nav-link">Privacy policy</a></li>
-                  <li><a href="cookies.php" class="nav-link">Cookie policy</a></li>
+                  <li><a href="terms-and-conditions" class="nav-link">Terms & condition</a></li>
+                  <li><a href="privacypolicy" class="nav-link">Privacy policy</a></li>
+                  <li><a href="cookies" class="nav-link">Cookie policy</a></li>
               </ul>
           </div>
           <div class="footer-col form">

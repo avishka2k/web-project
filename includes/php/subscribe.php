@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Source+Sans+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="../css/thanks.css">
+  <title>Document</title>
 <?php
 
 if(isset($_POST['email'])) {
@@ -20,7 +29,7 @@ if(isset($_POST['email'])) {
             $res = mysqli_query($conn, $sql);
 
             if($res) {
-              echo "Your message was send successfully!";
+              echo "";
             } else {
                echo "Your message could not be sent!";
             }
@@ -31,9 +40,20 @@ if(isset($_POST['email'])) {
 
 ?> 
 
-<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-
-<script>swal("Good job!", "You clicked the button!", "success");</script>
-
+<div class="thanks">
+        <div class="thanks-contant">
+            <h1>Thank you!</h1>
+            <p>Thanks for subscribing to our news latter.
+                you should receive a confirmation email soon
+            </p>
+            <div class="thanks-to-home-btn"><a class="btn" href="../../index.php">Go Home</a>
+            </div>
+        </div>
+        <div class="not-receved-mail">
+            <p>Email not recived? <a href="">Click here to send again</a></p>
+        </div>
+    </div>
+</body>
+</html>
 
 

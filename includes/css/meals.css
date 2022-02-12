@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;900&family=Poppins&display=swap');
+
+:root{
+    --primary-color:#215A51;
+    
+}
+* {
+    box-sizing:border-box;
+}
+.meals-hero{
+    background-color: var(--primary-color);
+    width: 100%;
+    padding-bottom: 15rem;
+
+
+}
+
+.meals-hero-content{
+    padding-top: 10rem;
+    text-align: center;
+}
+
+.meals-hero-content h1{ 
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 80px;
+    text-align: center;
+    color:#FFFFFF;
+    padding: 2rem;
+}
+
+.meals-hero-content p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 133.8%;
+    color: #FFFFFF;
+    padding-bottom: 3rem;
+}
+.meals-hero-btn a{
+    text-decoration: none;
+    background-color: #FFFFFF;
+    color: var(--primary-color);
+    padding: 0.6rem;
+    border-radius: 2px;    
+}
+
+.meals-about{
+    margin-top: 5rem;
+}
+
+.meals-about-content{
+    text-align:center;
+    
+}
+.meals-section-p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: var(--primary-color);
+}
+
+.meals-section-h{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 67px;
+    text-align: center;
+    color: var(--primary-color);
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    
+}
+.meals-section-about-p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 34px;
+    color: #5E5E5E;
+}
+
+.meals-about-card{
+    background-color: #215A51;
+    padding-bottom: 15rem;
+}
+
+.meals-about-card-content {
+    display: flex; 
+}

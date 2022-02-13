@@ -30,41 +30,85 @@
         <h1 class="meals-section-h">Be a healthy & happy person with #21DC</h1>
         <p class="meals-section-about-p">Our 21 Day Challenge is a safe and effective way that will help you in 21 days to learn healthy eating habits <br>
 and help you make positive changes in your life.</p>
-
-        <div class="meals-about-card">
-            <div class="meals-about-card-content">
-                <div class="meals-about-card-content-left">
-                    <h1 class="meals-card-h">What is #21DC?</h1>
-                    <p class="meals-card-p">It’s a 3 week campaign where we help you build Physical & Meantal health aware lifestyle with proven results.</p>
-                </div>
-                <img src="" alt="">
-            </div>
-        </div>
-
-        <div class="meals-about-card">
-            <div class="meals-about-card-content">
-                <div class="meals-about-card-content-left">
-                    <h1 class="meals-card-h">What is #21DC?</h1>
-                    <p class="meals-card-p">It’s a 3 week campaign where we help you build Physical & Meantal health aware lifestyle with proven results.</p>
-                </div>
-                <img src="" alt="">
-            </div>
-        </div>
-
-        <div class="meals-about-card">
-            <div class="meals-about-card-content">
-                <div class="meals-about-card-content-left">
-                    <h1 class="meals-card-h">What is #21DC?</h1>
-                    <p class="meals-card-p">It’s a 3 week campaign where we help you build Physical & Meantal health aware lifestyle with proven results.</p>
-                </div>
-                <img src="" alt="">
-            </div>
-        </div>
-
-
     </div>
+
+<div class="meals-card">
+    <div class="meals-card-cont">
+        <div class="meals-card-left">
+            <h1>What is #21DC?</h1>
+            <p>It’s a 3 week campaign where we help you build Physical <br>
+& Meantal health aware lifestyle with proven results.</p>
+    <div class="meals-btn">
+        <a href="">join - it's free</a>
+    </div>
+        </div>
+    <div class="meals-card-img">
+            <img src="images/service02.svg" alt="">
+    </div>
+    </div>
+
+    <div class="meals-card-cont">
+        <div class="meals-card-left">
+            <h1>What is #21DC?</h1>
+            <p>It’s a 3 week campaign where we help you build Physical <br>
+& Meantal health aware lifestyle with proven results.</p>
+    <div class="meals-btn">
+        <a href="">join - it's free</a>
+    </div>
+        </div>
+    <div class="meals-card-img">
+            <img src="images/service02.svg" alt="">
+    </div>
+    </div>
+
+    <div class="meals-card-cont">
+        <div class="meals-card-left">
+            <h1>What is #21DC?</h1>
+            <p>It’s a 3 week campaign where we help you build Physical <br>
+& Meantal health aware lifestyle with proven results.</p>
+    <div class="meals-btn">
+        <a href="">join - it's free</a>
+    </div>
+        </div>
+    <div class="meals-card-img">
+            <img src="images/service02.svg" alt="">
+    </div>
+    </div>
+</div>
+
+<div class="meals-card-bottom-text">
+    <h1>“You don’t have to be great to start,
+but you have to start to be great.”</h1>
+</div>
 </section>
 
+
+<section class="meals-result">
+    <div class="meals-result-content">
+    <p class="meals-section-p">Result</p>
+        <h1 class="meals-section-h">We’ll help you with</h1>
+        <div class="meals-result-images">
+        <div class="meals-result-img-card">
+            <img src="images/result1.svg" alt="">
+            <h3>
+            Better eating habit and better lifestyle
+            </h3>
+        </div>
+        <div class="meals-result-img-card">
+            <img src="images/result2.svg" alt="">
+            <h3>
+            Better eating habit and better lifestyle
+            </h3>
+        </div>
+        <div class="meals-result-img-card">
+            <img src="images/result3.svg" alt="">
+            <h3>
+            Better eating habit and better lifestyle
+            </h3>
+        </div>  
+    </div>
+    </div>
+</section>
 
 <?php include('includes/footer.php'); ?>
 <?php include('includes/ScrollToTop.php'); ?>   

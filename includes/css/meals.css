@@ -8,6 +8,11 @@
 * {
     box-sizing:border-box;
 }
+
+.meals-body{
+    background-color: #E9EDF6;
+}
+
 .meals-hero{
     background-color: var(--primary-color);
     width: 100%;
@@ -142,6 +147,7 @@
     color: #FFFFFF;
     padding-bottom: 4rem;
 }
+
 .meals-card-left a {
     border: 2px solid #FFFFFF;
     box-sizing: border-box;
@@ -178,19 +184,18 @@
 
 .meals-result-images{
     display: flex; 
-    padding-left: 6rem; 
-    padding-right: 6rem;
+    max-width: 70rem;
     width: 100%;
-    margin: auto;
-
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .meals-result-img-card{
-    margin: auto;
+    margin: 2rem;
 }
 
 .meals-result-img-card img{
-    width: 300px;
+    width: 310px;
 }
 
 .meals-result-img-card h3{
@@ -200,5 +205,61 @@
     font-size: 18px;
     line-height: 133%;
     color: var(--primary-color);
+    margin: 1rem;
 
+}
+.meals-reality-card-all{
+    display:flex;
+    width: 100%;
+    max-width: 41rem;
+    margin: 0 auto; 
+    align-items: center;
+
+}
+.meals-reality-card{
+    background-color: var(--primary-color);
+    margin: 1rem;
+}
+
+.meals-reality-card-content{
+    margin: 1rem;
+    
+}
+
+.meals-reality-card-content h2{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 132.3%;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.meals-reality-card-content ul {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+.meals-reality-card-content li{
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 132.3%;
+    margin: 9px;
+}
+.meals-reality-card-btn{
+    
+    text-align: center;
+    padding-bottom: 3rem;
+
+}
+.meals-reality-card-btn a{
+    background-color:#FFFFFF;
+    text-decoration: none;
+    color: var(--primary-color);
+    padding: 0.8rem 2rem;
 }

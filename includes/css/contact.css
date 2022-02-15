@@ -1,0 +1,121 @@
+
+/*----------contact us page---------*/
+
+.location{
+    /* Frame 191 */
+    position: absolute;
+    Width: 1456px;
+    Height: 518px;
+    Top: 1933px;
+    Left: 232px;
+    overflow:scroll;
+     filter: drop-shadow(0px 0px 4px  rgba(0, 0, 0, 0.1));
+     border-radius: 4px;
+}
+.location iframe{
+    width: 100%;
+
+}
+
+.contact-us{
+    /*  Rectangle 223   */
+    position: absolute;
+    width: 1224.6px;
+    height: 628px;
+    left: 347.7px;
+    top: 98px;
+
+    /*   fff    */
+    background: #FFFFFF;
+    box-shadow: 0px 0px 11.2143px rgba(0, 0, 0, 0.06);
+    border-radius: 8.97143px;
+    } 
+   .contact-col {
+     /*  Rectangle 224   */
+     position: absolute;
+     width: 454.18px;
+     height: 610.06px;
+     left: 357.79px;
+     top: 975.97px;
+     
+     /*   2nd    */
+     background: #215A51;
+     border-radius: 8.97143px;
+
+   }
+   .fa fa-home{
+       /*   pitipana-Thalagala Rd, Homagama    */
+       position: absolute;
+       width: 236.62px;
+       height: 23.55px;
+       left: 438.54px;
+       top: 1341.56px;
+
+       font-family: Roboto;
+       font-style: normal;
+       font-weight: normal;
+       font-size: 20px;
+       line-height: 23px;
+
+       /*     identical to box height  */
+
+       /*   off gray   */
+       color: #E0E0E0;
+
+   }
+   .fa fa-phone{
+       /*  +94 0115 445000   */
+       position: absolute;
+       width: 124.48px;
+       height: 23.55px;
+       left: 438.54px;
+       top: 1186.8px;
+       
+       font-family: Roboto;
+       font-style: normal;
+       font-weight: normal;
+       font-size: 20px;
+       line-height: 23px;
+
+       /*     idential to box height   */
+
+       /*    off gray    */
+       color: #E0E0E0;
+
+   }
+   .fa fa-envelope-o{
+
+    /*     inquiries@nsbm.ac.lk    */
+     position: absolute;
+     width: 204.1px;
+     height: 23.55px;
+     left: 438.54px;
+     top: 1263.06px;
+
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 20px;
+     line-height: 23px;
+     /*     identical to box height   */
+
+     /*   off gray   */
+     color: #E0E0E0;
+   }
+   .contact-col text{
+       /*     Group 354   */
+       position: absolute;
+       width: 567.45px;
+       height: 93px;
+       left: 908px;
+       top: 999.85px;
+    
+   }
+   .contact-col 
+
+
+
+
+   
+
+

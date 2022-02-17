@@ -111,7 +111,24 @@
        top: 999.85px;
     
    }
-   .contact-col 
+   .contact-col input, .contact-col textarea{
+       /*  Rectangle 223    */
+       position: absolute;
+       width: 760px;
+       height: 628px;
+       left: 812px;
+       top: 960px;
+       /* fff */
+       background: #FFFFFF;
+       box-shadow: 0px 0px 11.2143px
+       rgba(0, 0, 0, 0.06);
+       border-radius: 8.97143px;
+
+   }
+
+
+
+   }
 
 
 

@@ -23,16 +23,16 @@
      <div class="blog-main">
          <div class="blog-hero">
              <div class="blog-hero-left">
-                 <h1>Stay fit in lockdown with online workout.</h1>
+                 <h1>Human Health.</h1>
                 <div class="blog-time">       
-                <span><i class="fi fi-rr-calendar"></i><p>Jun 13, 2019</p></span>
-                <span><i class="fi fi-rr-clock"></i><p>3 min read</p></span>
+                <span><i class="fi fi-rr-calendar"></i><p>Feb 17, 2022</p></span>
+                <span><i class="fi fi-rr-clock"></i><p>6 min read</p></span>
                  </div>
                 <div class="blog-profile">
                     <img src="images/Blog/profile1.jpg">
                     <div class="blog-profile-name">
-                    <h3>Avishka Prabath</h3>
-                    <p>Web Developer</p>
+                    <h3>Isuru U. Senarathne</h3>
+                    <p>Researcher</p>
                     </div>
                 </div>
                 <div class="blog-social">
@@ -59,7 +59,10 @@
 <article class="blog-cantent">
     <div class="blog-cantent-row">
     <div class="blog-cantent01">
-        <h2>Lorem Ipsum is simply dummy text of the printing.</h2>
+        <p> Human health define as the complete state of physical, social and mental well-being. According to the world health organization human health is a state of complete physical, mental and social well-being and nor merely the absence of disease and infirmity. 
+What defines "excellent" health, in particular, might be difficult to define. Heavy shoveling after a snowstorm may cause a heart attack in the rather frail individual who remains "well" inside the typical surroundings of his or her existence. Alternatively, a sea-level resident may relocate to the highlands and experience shortness of breath and anemia.
+</P>
+        <h2>Importance of good healthy lifestyle.</h2>
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
             when an unknown printer took a galley of type and scrambled it to make a type 

@@ -45,7 +45,7 @@
 
              </div>
              <div class="blog-hero-right">
-                 <img src="images/Blog/blog1-hero.svg">
+                 <img src="images/Blog/bg_1 hero.jpg">
              </div>
          </div>
      </div>
@@ -68,7 +68,7 @@ What defines "excellent" health, in particular, might be difficult to define. He
             <br><br>
             Psychologically healthy people are at ease and content in their surroundings, and they enjoy life to the fullest. A person suffering from mental illness is always perceived as pessimistic and gloomy. A healthy individual, on the other hand, appears to be happy in his life, forming relationships with others, and displaying love, kindness, and closeness.
         </p>
-        <img src="images/Blog/bloge-body1.svg" alt="">
+        <img src="images/Blog/bg_2.jpg" alt="">
     </div>
 
     <div class="blog-cantent01">
@@ -101,6 +101,7 @@ Excessive alcohol drinking can contribute to weight gain, partly due to the high
         <p>
 Fast food nutrition should make up a minimal part of a healthy diet. Fast foods and junk foods are high in fat, sodium, and sugar, which can lead to obesity and a range of attendant health problems, including diabetes, heart disease and arthritis. Here are the facts about how excessive junk food consumption affects your body.
 <br><br>
+<img src="images/Blog/bg_3.jpg" alt="">
             <b> Junk Food Affects Your Energy Levels</b><br>
             Junk food doesn't contain the nutrients your body needs to stay healthy. As a result, you may feel chronically fatigued and lack the energy you need to complete daily tasks. The high levels of sugar in junk food puts your metabolism under stress; when you eat refined sugar, your pancreas secretes high amounts of insulin to prevent a dangerous spike in blood sugar levels.
 Because fast food and junk food don't contain adequate amounts of protein and good carbohydrates, your blood sugar levels will drop suddenly after eating, leaving you feeling grumpy, fatigued, and craving sugar.
@@ -142,6 +143,7 @@ The health benefits of regular exercise and physical activity are hard to ignore
 <br>
 Need more convincing to get moving? Check out these seven ways that exercise can lead to a happier, healthier you.
 <br><br>
+<img src="images/Blog/bg_4.jpg" alt="">
             <b> Exercise controls weight</b><br>
             Exercise can help prevent excess weight gain or help maintain weight loss. When you engage in physical activity, you burn calories. The more intense the activity, the more calories you burn.
             <br>

@@ -1,8 +1,9 @@
-background {
-    color: #E5E5E5;
+
+
+.header{
+    background: #033C33;
+    mix-blend-mode: normal;
 }
-
-
 .contact-us{
     
     width:242px;
@@ -62,8 +63,47 @@ background {
 }
 
 .contact-us{
-    width: 80%;
-    margin: auto;
+    
+    width: 100%;
+    height: 760px;
+    left: 0px;
+    top: 0px;
+    background: #033C33;
+    mix-blend-mode: normal;
+}
+.contact-A{
+    position: absolute;
+    width: 242px;
+    height: 59px;
+    left: 839px;
+    top: 805px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 50px;
+    line-height: 59px;
+
+    text-align:center;
+    color: #215A51;
+}
+.contact-B{
+    position: absolute;
+    width: 502px;
+    height: 27px;
+    left: 729px;
+    top: 900px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 22px;
+    line-height: 26px;
+
+    text-align: center;
+    color: #6B7177;
+
+ 
 }
 .contact-col{
     flex-basis: 48%;
@@ -91,10 +131,9 @@ background {
     color: #E0E0E0;
 }
 
-.information{
+.contact-information{
     width:508px;
     height: 678px;
     left: 282px;
     top: 981px;
 }
- 

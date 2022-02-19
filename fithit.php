@@ -5,7 +5,7 @@
        <meta name="viewport" content="width=device-width, initial-scale=1">
        <title>FitHit</title>
        
-	    <link rel="stylesheet" type="text/css" href="includes/css/blogstyle.css">
+	    <link rel="stylesheet" type="text/css" href="includes/css/fithit.css">
         <link rel="stylesheet" type="text/css" href="includes/css/footer.css">
         <link rel="stylesheet" type="text/css" href="includes/css/header.css">
         <link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">

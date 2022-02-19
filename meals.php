@@ -24,6 +24,7 @@
         </div>
     </div>
 </div>
+
 <section class="meals-about">
     <div class="meals-about-content">
         <p class="meals-section-p">About</p>

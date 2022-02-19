@@ -8,14 +8,14 @@
     <link rel="stylesheet" type="text/css" href="includes/css/contact.css" >
     <link rel="stylesheet" type="text/css" href="includes/css/footer.css">
     <link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
-    <script src="http://kit.fontawesome.com/64d58efce2.js"
-    crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="includes/css/header.css">
+
+    <script src="http://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous">
         </script>
         
 </head>
 <body>
 
-<link rel="stylesheet" type="text/css" href="includes/css/header.css">
 <?php include('includes/header.php'); ?>
 
 <!--------- contact us -------->
@@ -23,7 +23,7 @@
 
 
 <section class="header">
-
+ <h1>We’re here for you!</h1>
 </section>
 <section class="contact-A">
 <h3>contact us</h3>
@@ -37,16 +37,11 @@
 
     <div class="row">
         
-        <div >
-           
-            
-               
+        <div >      
                 <span>
                     <section class="contact-information">
                 <h3>contact information</h3>
-                
-    
-
+        
 </span>
 </div>
 </div>

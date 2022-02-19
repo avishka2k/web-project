@@ -52,6 +52,10 @@ nav ul {
 	display: none;
 }
 
+.nav-link:active {
+	color: ;
+}
+
 .header-btn {
  border: 2px solid var(--primary-color);
  border-radius: 6px;
@@ -81,13 +85,13 @@ nav ul {
 
 .slider{
 	position: relative;
-	width: 100%;
+    height: 100vh;    
 	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75));
 }
 
 
 .myslide{
-    height: 910px;
+    height: 100%;
 	display: none;
 	overflow: hidden;
 }

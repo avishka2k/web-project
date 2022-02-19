@@ -89,6 +89,37 @@ but you have to start to be great.”</h1>
 
 
 
+
+
+
+<section class="meals-result">
+    <div class="meals-result-content">
+    <p class="meals-section-p">Result</p>
+        <h1 class="meals-section-h">We’ll help you with</h1>
+        <div class="meals-result-images">
+        <div class="meals-result-img-card">
+            <img src="images/result1.svg" alt="">
+            <h3>
+            Better eating habit and better lifestyle
+            </h3>
+        </div>
+        <div class="meals-result-img-card">
+            <img src="images/result2.svg" alt="">
+            <h3>
+            Better eating habit and better lifestyle
+            </h3>
+        </div>
+        <div class="meals-result-img-card">
+            <img src="images/result3.svg" alt="">
+            <h3>
+            Better eating habit and better lifestyle
+            </h3>
+        </div>  
+      </div>
+    </div>
+</section>
+
+
 <?php include('includes/footer.php'); ?>
 <?php include('includes/ScrollToTop.php'); ?>   
 </body>

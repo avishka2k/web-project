@@ -279,32 +279,6 @@ top: 1502px;
 background: #215A51;
 border-radius: 4px;
 
-
-/* Subscribe */
-
-position: static;
-width: 73px;
-height: 19px;
-left: 33.64px;
-top: 16.82px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 16px;
-line-height: 19px;
-/* identical to box height */
-
-/* fff */
-color: #FFFFFF;
-
-
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 0px 10px;
-
 }
 .textarea-1{
     /* Group 356 */
@@ -339,22 +313,44 @@ top: 1124.85px;
 
 }
 
-.facebook{
-    /* path394 */
 
-position: absolute;
-left: 21.09%;
-right: 78.35%;
-top: 43.31%;
-bottom: 56.13%;
+.twitter{
 
-background: #B9B9B9;
-transform: matrix(1, 0, 0, -1, 0, 0);
+ /* path396 */
+
+ position: absolute;
+ left: 26.59%;
+ right: 72.15%;
+ top: 43.37%;
+ bottom: 56.07%;
+ 
+ background: #B9B9B9;
+ transform: matrix(1, 0, 0, -1, 0, 0);
+ 
+ }
+
+
+.instergram{
+    position: absolute;
+    width: 19.91px;
+    height: 19.91px;
+    left: 451.45px;
+    top: 1531.35px;
+    
+    background: #B9B9B9;
+    }
+
+.linkedin{
+
+
+    position: absolute;
+    width: 19.91px;
+    height: 19.91px;
+    left: 451.45px;
+    top: 1531.35px;
+    
+    background: #B9B9B9;
+    
+    
 
 }
-
-
-
-
-
-

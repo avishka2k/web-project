@@ -27,17 +27,6 @@
         <!-- fade css -->
         <div class="myslide fade">
             <div class="txt">
-                <h1>IMAGE 1</h1>
-                <p>Live mentally & physicaly healthier with Loreum</p>
-                <div class="slide-btn">
-                    <a href="">LET'S WORK</a>
-                </div>
-            </div>
-            <img src="images/hero-01.jpg">
-        </div>
-        
-        <div class="myslide fade">
-            <div class="txt">
                 <h1>Life changing<br/>Diet.</h1>
                 <p>Make a difference in your life with our<br>Diet Plan and Job Opportunity!</p>
                 <div class="slide-btn">
@@ -45,6 +34,17 @@
                 </div>
             </div>
             <img src="images/hero-02.jpg">
+        </div>
+
+        <div class="myslide fade">
+            <div class="txt">
+                <h1>Life changing<br>Exercises</h1>
+                <p>Live mentally & physicaly healthier with Loreum</p>
+                <div class="slide-btn">
+                    <a href="">LET'S WORK</a>
+                </div>
+            </div>
+            <img src="images/hero-01.jpg">
         </div>
         
         <div class="myslide fade">

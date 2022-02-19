@@ -90,7 +90,24 @@ Prepare smaller meals. Throw away your partner's or child's food. Save their lef
 <br><br>
 3) The Drunk Eating Cycle<br>
 Excessive alcohol drinking can contribute to weight gain, partly due to the high calorie content of alcoholic beverages and intoxicated eating. If at all possible, choose lower-calorie drinks, skip the bar snacks, order the kebab (to avoid a calorie binge), and choose doner instead of doner. Preparing food for a hangover might also help you avoid putting on weight.
+<br>
+<b>HOW TO FIX IT:</b>
+If possible, look for lower-calorie drinks, drop the bar snacks, get the kebab (you’re only human), but pick the shish kebab over the doner (saving you about 500 calories). Of course, having prepared food for the hangover can also save you from a calorie-fest.
+<br><br>
+4)We aren’t connected with nature anymore.<br>
+There is a growing body of evidence on the benefits of getting outside, particularly the benefits of moderate, non-burning sunshine exposure. You get ultraviolet light exposure even on cloudy days or in the shade. But you have to be outside – sunlight through the glass isn’t the same – it does not produce vitamin D.
+<br>
+<b>HOW TO FIX IT:</b>
+Try to get outside for 10-15 minutes every day between 10AM and 3PM. Do not wear sunscreen for the first little bit of time you are outside (sunscreen blocks the synthesis of vitamin D) but DO NOT BURN. Put sunscreen on well before you are in danger of getting a sunburn. Sunburns unequivocally increase your risk of deadly melanoma, so DO NOT BURN.
+<br><br>
+5) We are addicts.<br>
+Like lack of exercise, this one is plainly obvious. The health conscious plant-based folks reading this page may think, “Oh that’s for other people.” But it’s not. I have long ago lost my sense of surprise when I meet someone doing all the “right” nutrition things who tells me that they are a recovering addict still working to maintain their sobriety. Wealthy, educated, poor, White, Black, suburban, rural, or urban – there’s no place addiction doesn’t touch. The numbers are staggering. Tobacco, alcohol, and other drugs of abuse are ravaging families and communities. These drugs are responsible for tremendous suffering, despair, and tragedy.
+<br>
+<b>HOW TO FIX IT:</b>
+One of the most important, yet hardest, steps I think I’ve seen addicts struggle with: Surrender control and ask for help.
 
+One of the most wonderful aspects of a healthy diet and lifestyle is that these factors are interconnected. More exercise might yield better sleep, more sunshine, and more nature. Increased well-being from all of these help with self-care in a variety of other domains. I don’t suggest people work on changing too many behaviors at once, but sometimes doing something good for one area helps with another area. 
+<br><br>
 
         </p>
         <br><br><Br>

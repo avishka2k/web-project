@@ -90,7 +90,7 @@
             It's likely that one (or all) of these five behaviors is destroying your otherwise healthy lifestyle. 
             Check out the top habits that will sabotage your healthy lifestyle, as well as our tips for breaking them.
         </p>
-            1) Going to Bed Too Late
+            <b>  1) Going to Bed Too Late </b>
         <p>Getting 8-10 hours of sleep each night will help you perform better in sports, boost your attention, 
             and recuperate from prior workouts. A disturbed night's sleep can cause increased hunger and decreased 
             fullness by altering the levels of Leptin and Ghrelin. It's crucial to remember that it's more necessary 
@@ -101,7 +101,7 @@
             depending on when you go to bed).
         </p>
 
-            2) Eating Other People’s Food
+            <b> 2) Eating Other People’s Food </b>
         <p>Some may consider it a no-no, but if you don't complete your children's or partner's meals, you may be 
             squandering them in the long term. Finishing your meal can cause you to consume more calories without 
             realizing it, so keep track of how much you're eating!
@@ -112,7 +112,7 @@
         <p>Prepare smaller meals. Throw away your partner's or child's food. Save their leftovers for the next day's lunch.
            Make it a rule that you will only eat your meal and not anyone else's.
         </p>
-            3) The Drunk Eating Cycle
+            <b>  3) The Drunk Eating Cycle </b>
         <p>Excessive alcohol drinking can contribute to weight gain, partly due to the high calorie content of alcoholic 
             beverages and intoxicated eating. If at all possible, choose lower-calorie drinks, skip the bar snacks, order 
             the kebab (to avoid a calorie binge), and choose doner instead of doner. Preparing food for a hangover might 
@@ -125,7 +125,7 @@
             the shish kebab over the doner (saving you about 500 calories). Of course, having prepared food for the 
             hangover can also save you from a calorie-fest.
         </p>
-            4)We aren’t connected with nature anymore.
+            <b>  4)We aren’t connected with nature anymore.  </b>
         <p>There is a growing body of evidence on the benefits of getting outside, particularly the benefits of moderate, 
             non-burning sunshine exposure. You get ultraviolet light exposure even on cloudy days or in the shade. But 
             you have to be outside – sunlight through the glass isn’t the same – it does not produce vitamin D.
@@ -138,7 +138,7 @@
             before you are in danger of getting a sunburn. Sunburns unequivocally increase your risk of deadly melanoma, so 
             DO NOT BURN.
         </p>
-            5) We are addicts.<br>
+            <b>  5) We are addicts.<br>   </b>
         <p>Like lack of exercise, this one is plainly obvious. The health conscious plant-based folks reading this page may 
             think, “Oh that’s for other people.” But it’s not. I have long ago lost my sense of surprise when I meet someone 
             doing all the “right” nutrition things who tells me that they are a recovering addict still working to maintain 

@@ -30,8 +30,7 @@
         </button>
     </div>
 </div>
-<!--========About Section Start========-->
-
+	
 <!--========About Section Start========-->
 
 

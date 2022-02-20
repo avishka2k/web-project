@@ -87,7 +87,7 @@ nav ul {
 
 
 .myslide{
-    height: 910px;
+    height: 100vh;
 	display: none;
 	overflow: hidden;
 }

@@ -12,8 +12,7 @@
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 
 
-    <script src="http://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous">
-        </script>
+    <script src="http://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
         
 </head>
 <body>

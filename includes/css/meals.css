@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;900&family=Poppins&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,700&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Roboto&display=swap');
+:root{
+    --primary-color:#215A51;
+    
+}
+* {
+    box-sizing:border-box;
+}
+.meals-body{
+    background-color: #E9EDF6;
+}
+.meals-hero{
+    background-color: var(--primary-color);
+    width: 100%;
+    position: relative;
+    height: 100vh;   
+}
+
+.meals-hero-content{
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.meals-hero-content h1{ 
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 80px;
+    text-align: center;
+    color:#FFFFFF;
+    padding: 2rem;
+}

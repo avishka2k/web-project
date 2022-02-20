@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;900&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,700&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Roboto&display=swap');
+
+:root{
+    --primary-color:#215A51;
+    
+}
+* {
+    box-sizing:border-box;
+}
+.body{
+    background-color: #E9EDF6;
+}
+.fithit-hero{
+    background-color: var(--primary-color);
+    width: 100%;
+    position: relative;
+    height: 100vh;   
+}
+
+.fithit-hero-content{
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.fithit-hero-content h1{ 
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 80px;
+    text-align: center;
+    color:#FFFFFF;
+    padding: 2rem;
+}
+.knowmore {
+    background-color: #ffffff;
+    border: 0;
+    border-radius: 4px;
+    color: var(--primary-color);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: auto;
+}
+
+.knowmore:hover{
+	background-color: #c1c9d3;
+    transition: 0.4s;
+    
+}
+.knowmore span{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.2s;
+}
+.knowmore span:after{
+    content: '\2192';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 25px;
+    transition: 0.4s;
+}
+.knowmore:hover span{
+    padding-right: 25px;
+    
+}
+.knowmore:hover span:after{
+    color: #215A51;
+    opacity: 1;
+    right: 0;
+}

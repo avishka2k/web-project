@@ -219,6 +219,22 @@ border-image: linear-gradient(to right,#a3a3a381,#6b717780,#a3a3a380)1;
   margin: 10px;
 }
 
+.blog-cantent p{
+   margin: 1rem 0;
+}
+
+.blog-cantent h2 {
+    padding: 1rem 0;
+}
+
+span {
+    font-weight: 600;
+}
+
+.blog-cantent li {
+    color: #4F5E5C;
+}
+
 @media screen and (max-width: 1100px) {
     .card-collect-row {
         display:block;       

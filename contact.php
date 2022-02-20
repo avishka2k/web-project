@@ -8,14 +8,16 @@
     <link rel="stylesheet" type="text/css" href="includes/css/contact.css" >
     <link rel="stylesheet" type="text/css" href="includes/css/footer.css">
     <link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
-    <script src="http://kit.fontawesome.com/64d58efce2.js"
-    crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="includes/css/header.css">
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+
+
+    <script src="http://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous">
         </script>
         
 </head>
 <body>
 
-<link rel="stylesheet" type="text/css" href="includes/css/header.css">
 <?php include('includes/header.php'); ?>
 
 <!--------- contact us -------->
@@ -23,26 +25,36 @@
 
 
 <section class="header">
-
+ <h1>We’re here for you!</h1>
 </section>
+
+
 <section class="contact-A">
 <h3>contact us</h3>
 </section>
 <div>
     <section class="contact-B">
-<p<h5> Any question or remarks? Just write us a message!</h5></p>
+<p><h5> Any question or remarks? Just write us a message!</h5></p>
 
 </section>
 </div>
 
     <div class="row">
         
+
         <div >
                <span>
                     <section class="contact-information">
                 <h3>contact information</h3>
                 
 </span>
+
+        <div>      
+                <span>
+                    <section class="contact-information">
+                <h3>contact information</h3>
+            </span>
+
 </div>
 </div>
 
@@ -140,8 +152,6 @@
 
 
 <?php include('includes/footer.php'); ?>
-
-
 <?php include('includes/ScrollToTop.php'); ?>
 
 </body>

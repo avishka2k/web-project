@@ -38,3 +38,76 @@
     color:#FFFFFF;
     padding: 2rem;
 }
+
+
+
+
+.meals-hero-content p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 133.8%;
+    color: #FFFFFF;
+    padding-bottom: 3rem;
+}
+
+
+.meals-hero-btn a{
+    text-decoration: none;
+    background-color: #FFFFFF;
+    color: var(--primary-color);
+    padding: 0.6rem;
+    border-radius: 2px;    
+}
+
+
+
+.meals-about{
+    margin-top: 5rem;
+}
+
+
+
+.meals-about-content{
+    text-align:center;
+    
+}
+
+
+.meals-section-p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: var(--primary-color);
+}
+
+
+
+.meals-section-h{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 67px;
+    text-align: center;
+    color: var(--primary-color);
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    
+}
+
+
+.meals-section-about-p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 34px;
+    color: #5E5E5E;
+}
+
+

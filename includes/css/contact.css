@@ -1,28 +1,21 @@
 
 
 .header{
-    /* Rectangle 2 */
+    
 
-position: absolute;
-width: 100%px;
-height: 760px;
-left: 0px;
-top: 0px;
+font-family: Playfair display;
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height:89px;
+text-align: center;
 
-/* 2nd deep */
-background: #033C33;
-mix-blend-mode: normal;
-
+color: #FFFFFF;
 
 }
 .contact-us{
     /* Rectangle 2 */
 
-position: absolute;
-width: 1920px;
-height: 760px;
-left: 0px;
-top: 0px;
 
 /* 2nd deep */
 background: #033C33;
@@ -32,12 +25,6 @@ mix-blend-mode: normal;
   
 .contact-B{
     /* Any question or remarks? Just write us a message! */
-
-position: absolute;
-width: 502px;
-height: 27px;
-left: 729px;
-top: 879px;
 
 /* First title */
 font-family: Roboto;
@@ -56,11 +43,6 @@ color: #6B7177;
 .contact-information{
     /* Contact information */
 
-position: absolute;
-width: 270px;
-height: 35px;
-left: 394px;
-top: 1007px;
 
 font-family: Roboto;
 font-style: normal;
@@ -79,12 +61,7 @@ color: #FFFFFF;
 
     /* Frame 191 */
 
-position: absolute;
-width: 1456px;
-height: 518px;
-left: 232px;
-top: 1933px;
-overflow: scroll;
+
 
 filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.1));
 border-radius: 4px;
@@ -109,35 +86,76 @@ border-radius: 4px;
     background: #033C33;
     mix-blend-mode: normal;
 }
-.contact-A{
+.contact-A h4{
+    font-family:Roboto;
+    font-style: normal;
+    font-weight:500;
+    font-size: 50px;
+    line-height: 59px;
+
+    text-align: center;
+
+    color: #215A51;
+}
+.contact-A p{
     /* Contact us */
 
-    position: absolute;
-    width: 242px;
-    height: 59px;
-    left: 839px;
-    top: 805px;
 
    font-family: Roboto;
    font-style: normal;
    font-weight: 500;
-   font-size: 50px;
-   line-height: 59px;
+   font-size: 22px;
+   line-height: 26px;
   /* identical to box height */
    text-align: center;
 
 /* 2nd */
-color: #215A51;
+color: #6B7177;;
 
 }
+.contact-main{
+    background:#215A51;
+}
+.contact-left-address h2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.contact-left-address{
+    
+    box-sizing: border-box;
+    color: #FFFFFF;
+}
+.contact-left-icons{
+     color: #FFFFFF;
+}
+
+.contact-left-address li {
+    display: block;
+}
+
+.contact-left-icons li {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.contact-right-content{ 
+    background: #FFFFFF;
+    box-shadow:0px 0px 11.2143px 
+ rgba(0, 0, 0, 0.06);
+    border-radius: 8.97143px;  
+}
+
+
+
 .contact-B{
    /* Any question or remarks? Just write us a message! */
 
-position: absolute;
-width: 502px;
-height: 27px;
-left: 729px;
-top: 890px;
 
 /* First title */
 font-family: Roboto;
@@ -159,11 +177,7 @@ color: #6B7177;
   
 /* +123 456 789 */
 
-position: absolute;
-width: 124.48px;
-height: 23.55px;
-left: 438.54px;
-top: 1186.8px;
+
 
 font-family: Roboto;
 font-style: normal;
@@ -180,11 +194,6 @@ color: #E0E0E0;
 .email{
     /* contact@mindset.com */
 
-position: absolute;
-width: 204.1px;
-height: 23.55px;
-left: 438.54px;
-top: 1263.06px;
 
 font-family: Roboto;
 font-style: normal;
@@ -200,12 +209,6 @@ color: #E0E0E0;
 }
 .address{
    /* 337 Kelly Street, Charlotte */
-
-position: absolute;
-width: 236.62px;
-height: 23.55px;
-left: 438.54px;
-top: 1341.56px;
 
 font-family: Roboto;
 font-style: normal;
@@ -223,11 +226,7 @@ color: #E0E0E0;
 .contact-information{
     /* Rectangle 224 */
 
-position: absolute;
-width: 508px;
-height: 678px;
-left: 282px;
-top: 981px;
+
 
 /* 2nd */
 background: #215A51;
@@ -237,11 +236,6 @@ border-radius: 8.97143px;
 .Information{
     /* Rectangle 223 */
 
-position: absolute;
-width: 760px;
-height: 628px;
-left: 812px;
-top: 968px;
 
 /* fff */
 background: #FFFFFF;
@@ -291,51 +285,11 @@ top: 1249.23px;
 }
 
 
-.name{
-    /* Group 354 */
-
-
-width: 567.45px;
-height: 93px;
-left: 908px;
-top: 999.85px;
-
-}
-.email-1{
-    /* Group 353 */
-
-
-width: 567.45px;
-height: 92.38px;
-left: 908px;
-top: 1124.85px;
-
-
-}
-
-
-.twitter{
-
- /* path396 */
-
- position: absolute;
- left: 26.59%;
- right: 72.15%;
- top: 43.37%;
- bottom: 56.07%;
- 
- background: #B9B9B9;
- transform: matrix(1, 0, 0, -1, 0, 0);
- 
- }
+.
 
 
 .instergram{
-    position: absolute;
-    width: 19.91px;
-    height: 19.91px;
-    left: 451.45px;
-    top: 1531.35px;
+  
     
     background: #B9B9B9;
     }
@@ -343,11 +297,7 @@ top: 1124.85px;
 .linkedin{
 
 
-    position: absolute;
-    width: 19.91px;
-    height: 19.91px;
-    left: 451.45px;
-    top: 1531.35px;
+ 
     
     background: #B9B9B9;
     

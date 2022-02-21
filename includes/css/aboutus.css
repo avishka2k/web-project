@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.aboutus{
+
+    display:center;
+    height: 100vh;
+    background: #033C33;
+    mix-blend-mode: normal; 
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 112px;
+    color: #FFFFFF;
+    text-align:center;
+    padding-top: 4em;
+
+}
+.nav-item {
+    display: inline-block;
+    margin: auto;
+}
+.tab-pane {
+    display: flex;
+    margin: auto;
+}
+.tab-pane-image img {
+    width: 40%;
+}
+.nav-div {
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 5rem;
+    max-width: 60rem;
+}
+.nav-div-tab {
+    border-bottom: 1px solid #000000;
+    margin-bottom: 4rem;
+}
+.nav-div button {
+    border: none;
+    background: transparent;
+}
+.about-profile-content img {
+    width: 73%;
+    clip-path: circle(65px );
+}
+.tab-pane {
+    max-width: 60rem;
+    margin: auto;
+}
+.about-profile-content {
+    text-align: center;
+}
+.about-profile-card {
+    background-color: red;
+    margin: 1rem;
+    padding: 4rem 0 3rem 0;
+    max-width: 17rem;
+}
+.about-profile-content h3 {
+    font-family: Roboto;
+    font-size: 20px;
+    padding-top: 2rem;
+}
+.about-profile-row2 {
+    padding: 0 15%;
+}
+.about-profile-content p {
+    font-size: 15px;
+    color:#707070;
+}
+
+.about-profile-row1, .about-profile-row2 {
+    display: flex;
+    align-items: center;
+}
+
+.about-profile-row2 {
+    margin: auto;
+}
+
+.about-card-social li {
+    display: inline-block;
+}

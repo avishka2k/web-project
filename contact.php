@@ -9,19 +9,32 @@
     <link rel="stylesheet" type="text/css" href="includes/css/footer.css">
     <link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
     <link rel="stylesheet" type="text/css" href="includes/css/header.css">
+    <link rel='stylesheet' href='https://cdn-unicons.flatiocon.com/unicons-regular-rounded/css/unicons-regular-rounded.css'>
+    <script src="http://kit.fontawesome.com/64d58efce2.js"
+    crossorigin="anonymous">
+        </script>
+
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 
 
     <script src="http://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
+
         
 </head>
 <body>
+
 
 <?php include('includes/header.php'); ?>
 
 <!--------- contact us -------->
 
 
+
+
+<div class="header">
+
+<h1>We're here for you!</h1>
+</div>
 
 <section class="header">
  <h1>We’re here for you!</h1>
@@ -35,75 +48,63 @@
     <section class="contact-B">
 <p><h5> Any question or remarks? Just write us a message!</h5></p>
 
-</section>
+
+<div class="contact-A">
+    <h4>contact us</h4>
+    <p>Any question or remarks? Just write us a message!</p>
 </div>
 
-    <div class="row">
+<section class="contact-main">
+    <div class="contact-left">
+    <div class="contact-left-address">
+        <h2>contact information</h2>
         
+
+        <ul>
+           <li><i class="fa fa-phone"></i> +940115445000</li>
+           <br>
+           <li><i class="fa fa-envelope"></i> inquiries@nsbm.ac.lk</li>
+           <br>
+           <li><i class="fa fa-home"></i> NSBM Green University,pitipana-Thalagala Rd, Homagama</li>
+        </ul>
+    </div>
+    <br>
+    
+
+<div class="contact-left-icons">
+    <ul>
+   <li><i class="fa fa-twitter"></i></li>
+    <li><i class="fa fa-linkedin"></i></li>
+    <li><i class="fa fa-youtube"></i></li>
+    <li><i class="fa fa-whatsapp"></i></li>
+</ul>
+
         <div>      
                 <span>
                     <section class="contact-information">
                 <h3>contact information</h3>
             </span>
-</div>
-</div>
-
-
-<div>
-
-        <i class="fa-fa-phone"></i>
-        <span>
-        <section class="phone-number">
-            <h5> +940115445000</h5>
-</section>
-</span>
-
 
 </div>
-<div>
-        <i class="fa fa-envelope"></i>
-        <span>
-            <section class="email">
-            <h5>inquiries@nsbm.ac.lk</h5>
-</section>
-</span>
+</div>  
 
-</div>
-<div>
-                <i class="fa fa-home"></i>
-                <span>
-                    <section class="address">
-                    <h5><p>NSBM Green University</h5></p>
-                <h5><p>pitipana-Thalagala Rd, Homagama</p></h5>
-</section>
-</span>
-</div>
-<div class="icons">
-    
-    <i class="fa fa-facebook"></i>
-    <i class="fa fa-twitter"></i>
-    <i class="fa fa-instergram"></i>
-    <i class="fa fa-linkedin"></i>
-    <i class="fa fa-youtube"></i>
-    <i class="fa fa-whatsapp"></i>
+<div class="contact information">
+    <div class="contact-right-content">
+        <form action="" method="POST">
+            <label for=""></label>
+            <input type="text" placeholder="Enter your name" required>
 
-</section>
+            <label for="email-1"></label>
+            <input type="email" placeholder="Enter email address" required>
 
-<section class="Information">
-<div class="contact-col">
-<form action="">
-    <section class="name">
-    <input type="text" placeholder="Enter your name" required>
-</section>
-<section class="email-1">
-    <input type="email" placeholder="Enter email address" required>
-</section>
-    <section class="textarea-1">
-    <input textarea rows="10" placeholder="Enter your message" required>
-</section>
-    <button type="submit" class="hero-btn green-btn" required>subscribe</button></section>
-</form>
+            <label for=""></label>
+            <input textarea rows="10" placeholder="Enter your message" required>
+
+            <button type="submit" class="hero-btn green-btn" required>subscribe</button></section>
+        </form>
+    </div>
 </div>
+
 </section>
 
 

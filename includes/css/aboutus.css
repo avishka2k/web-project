@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.aboutus{
+
+    display:center;
+    height: 100vh;
+    background: #033C33;
+    mix-blend-mode: normal; 
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 112px;
+    color: #FFFFFF;
+    text-align:center;
+    padding-top: 4em;
+
+}
+
+.nav-item {
+    display: inline-block;
+    margin: auto;
+}
+
+.nav-div {
+    justify-content: space-between;
+    margin: auto;
+    max-width: 60rem;
+}
+
+.nav-div-tab {
+    border-bottom: 1px solid #000000;
+}
+
+.nav-div button {
+    border: none;
+    background: transparent;
+}
+

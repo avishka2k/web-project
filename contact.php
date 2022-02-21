@@ -13,6 +13,12 @@
     <script src="http://kit.fontawesome.com/64d58efce2.js"
     crossorigin="anonymous">
         </script>
+
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+
+
+    <script src="http://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
+
         
 </head>
 <body>
@@ -24,10 +30,24 @@
 
 
 
+
 <div class="header">
 
 <h1>We're here for you!</h1>
 </div>
+
+<section class="header">
+ <h1>We’re here for you!</h1>
+</section>
+
+
+<section class="contact-A">
+<h3>contact us</h3>
+</section>
+<div>
+    <section class="contact-B">
+<p><h5> Any question or remarks? Just write us a message!</h5></p>
+
 
 <div class="contact-A">
     <h4>contact us</h4>
@@ -39,6 +59,7 @@
     <div class="contact-left-address">
         <h2>contact information</h2>
         
+
         <ul>
            <li><i class="fa fa-phone"></i> +940115445000</li>
            <br>
@@ -57,6 +78,13 @@
     <li><i class="fa fa-youtube"></i></li>
     <li><i class="fa fa-whatsapp"></i></li>
 </ul>
+
+        <div>      
+                <span>
+                    <section class="contact-information">
+                <h3>contact information</h3>
+            </span>
+
 </div>
 </div>  
 
@@ -87,8 +115,6 @@
 
 
 <?php include('includes/footer.php'); ?>
-
-
 <?php include('includes/ScrollToTop.php'); ?>
 
 </body>

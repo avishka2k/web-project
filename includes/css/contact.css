@@ -1,6 +1,17 @@
 
 
 .header{
+    
+
+font-family: Playfair display;
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height:89px;
+text-align: center;
+
+color: #FFFFFF;
+
     /* Rectangle 2 */
     left: 0px;
     top: 0px;
@@ -11,6 +22,7 @@
     height: 100vh;
         
 }
+
 
 .header h1 {
     
@@ -30,6 +42,7 @@ height: 760px;
 left: 0px;
 top: 0px;
 
+
 /* 2nd deep */
 background: #033C33;
 mix-blend-mode: normal;
@@ -44,6 +57,7 @@ width: 502px;
 height: 27px;
 left: 729px;
 top: 879px;
+
 
 /* First title */
 font-family: Roboto;
@@ -67,6 +81,7 @@ width: 270px;
 height: 35px;
 left: 394px;
 top: 1007px;
+
 
 font-family: Roboto;
 font-style: normal;
@@ -92,6 +107,7 @@ left: 232px;
 top: 1933px;
 overflow: scroll;
 
+
 filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.1));
 border-radius: 4px;
 
@@ -106,27 +122,87 @@ border-radius: 4px;
 }
 
 
+
+    
+    width: 100%;
+    height: 760px;
+    left: 0px;
+    top: 0px;
+    background: #033C33;
+    mix-blend-mode: normal;
+}
+.contact-A h4{
+    font-family:Roboto;
+    font-style: normal;
+    font-weight:500;
+    font-size: 50px;
+    line-height: 59px;
+
+    text-align: center;
+
+    color: #215A51;
+}
+.contact-A p{
+    /* Contact us */
+
 .contact-A{
     /* Contact us */
 
 
-    width: 242px;
-    height: 59px;
-    left: 839px;
-    top: 805px;
+
 
    font-family: Roboto;
    font-style: normal;
    font-weight: 500;
-   font-size: 50px;
-   line-height: 59px;
+   font-size: 22px;
+   line-height: 26px;
   /* identical to box height */
    text-align: center;
 
 /* 2nd */
-color: #215A51;
+color: #6B7177;;
 
 }
+.contact-main{
+    background:#215A51;
+}
+.contact-left-address h2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.contact-left-address{
+    
+    box-sizing: border-box;
+    color: #FFFFFF;
+}
+.contact-left-icons{
+     color: #FFFFFF;
+}
+
+.contact-left-address li {
+    display: block;
+}
+
+.contact-left-icons li {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.contact-right-content{ 
+    background: #FFFFFF;
+    box-shadow:0px 0px 11.2143px 
+ rgba(0, 0, 0, 0.06);
+    border-radius: 8.97143px;  
+}
+
+
+
 .contact-B{
    /* Any question or remarks? Just write us a message! */
 
@@ -135,6 +211,7 @@ width: 502px;
 height: 27px;
 left: 729px;
 top: 890px;
+
 
 /* First title */
 font-family: Roboto;
@@ -157,10 +234,7 @@ color: #6B7177;
 /* +123 456 789 */
 
 
-width: 124.48px;
-height: 23.55px;
-left: 438.54px;
-top: 1186.8px;
+
 
 font-family: Roboto;
 font-style: normal;
@@ -178,10 +252,12 @@ color: #E0E0E0;
     /* contact@mindset.com */
 
 
+
 width: 204.1px;
 height: 23.55px;
 left: 438.54px;
 top: 1263.06px;
+
 
 font-family: Roboto;
 font-style: normal;
@@ -199,10 +275,6 @@ color: #E0E0E0;
    /* 337 Kelly Street, Charlotte */
 
 
-width: 236.62px;
-height: 23.55px;
-left: 438.54px;
-top: 1341.56px;
 
 font-family: Roboto;
 font-style: normal;
@@ -226,6 +298,7 @@ height: 678px;
 left: 282px;
 top: 981px;
 
+
 /* 2nd */
 background: #215A51;
 border-radius: 8.97143px;
@@ -239,6 +312,7 @@ width: 760px;
 height: 628px;
 left: 812px;
 top: 968px;
+
 
 /* fff */
 background: #FFFFFF;
@@ -275,32 +349,6 @@ top: 1502px;
 background: #215A51;
 border-radius: 4px;
 
-
-/* Subscribe */
-
-position: static;
-width: 73px;
-height: 19px;
-left: 33.64px;
-top: 16.82px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 16px;
-line-height: 19px;
-/* identical to box height */
-
-/* fff */
-color: #FFFFFF;
-
-
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 0px 10px;
-
 }
 .textarea-1{
     /* Group 356 */
@@ -311,6 +359,7 @@ height: 228px;
 left: 908px;
 top: 1249.23px;
 }
+
 
 
 .name{
@@ -350,6 +399,19 @@ transform: matrix(1, 0, 0, -1, 0, 0);
 
 
 
+.instergram{
+  
+    
+    background: #B9B9B9;
+    }
+
+.linkedin{
 
 
+ 
+    
+    background: #B9B9B9;
+    
+    
 
+}

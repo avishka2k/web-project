@@ -28,12 +28,30 @@
             <a href="" style="color: var(--primary-color);">Know More</a>
         </span>
         </button>
+        
     </div>
 </div>
 <!--========About Section Start========-->
-
+<div class="fithit-about-head">
+    <p class="section-head">About</p>
+    <h2>Be a healthy happy and strong person</h2>
+    <p class="section-head-sub">Take control over your life with physical fullfilment and be happy.</p>
+</div>
 <!--========About Section Start========-->
-
+<div class="about-box">
+    <div class="about-box-content">
+        <div class="about-box-left">
+            <img src="images/about/about.svg" alt="">
+        </div>
+        <div class="about-box-right">
+            <h2>Break confusion</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur molestias blanditiis omnis! Rem officia optio repellendus eum harum voluptatum! Facere, quo officia. Odit ratione esse velit officia sequi inventore eum?</p>
+            <div class="about-box-btn">
+                <a href="">Join for free</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <script src="includes/js/fithit.js"></script>

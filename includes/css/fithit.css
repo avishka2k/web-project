@@ -28,6 +28,10 @@
     transform: translate(-50%, -50%);
 }
 
+.fithit-hero-content a {
+    text-decoration: none;
+}
+
 .fithit-hero-content h1{ 
     font-family: Playfair Display;
     font-style: normal;
@@ -81,4 +85,56 @@
     color: #215A51;
     opacity: 1;
     right: 0;
+}
+
+/*-----about box------*/
+.section-head {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+/* identical to box height */
+
+    text-align: center;
+
+}
+
+.about-box-content {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    max-width: 70rem;
+}
+
+.fithit-about-head h2{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 67px;
+    text-align: center;
+}
+
+.about-box-right {
+    margin: 0 4rem;
+}
+
+.section-head-sub {
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #6B7177;
+}
+
+.about-box-right h2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #5E5E5E;
 }

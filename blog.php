@@ -164,7 +164,7 @@
             arthritis. Here are the facts about how excessive junk food consumption affects your body.
         </p>
 
-    <img src="images/Blog/bg_3.jpg" alt="">
+    <img src="images/Blog/bg_3.jpg" alt="">h
             <span> Junk Food Affects Your Energy Levels</span>
             <p>Junk food doesn't contain the nutrients your body needs to stay healthy. As a result, you may feel chronically 
                 fatigued and lack the energy you need to complete daily tasks. The high levels of sugar in junk food puts your 
@@ -192,6 +192,7 @@
                 dysfunction and disease.
             </p>
 
+            
             <span>Junk Food Can Lead to Diabetes</span>
             <p>Over time, the high levels of sugar and simple carbohydrates in junk food can lead to type 2 diabetes. 
                 This occurs because eating too much sugar puts your metabolism under stress; when you eat a lot of refined 
@@ -262,7 +263,7 @@
             <span>Exercise boosts energy</span>
             <p>Winded by grocery shopping or household chores? Regular physical activity can improve your muscle strength and boost 
                 your endurance.
-            </p>
+          0  </p>
             <p>Exercise delivers oxygen and nutrients to your tissues and helps your cardiovascular system work more efficiently. 
                 And when your heart and lung health improve, you have more energy to tackle daily chores.
             </p>

@@ -13,8 +13,6 @@
 </head>
 <body class="meals-body">
 <?php include('includes/header.php'); ?>
-
-
 <div class="meals-hero">
     <div class="meals-hero-content">
         <h1>Live mentally & physicaly healthier <br> with Loreum</h1>
@@ -33,8 +31,6 @@ and help you make positive changes in your life.</p>
     </div>
 <br>
 <br>
-
-
 <div class="meals-card">
     <div class="meals-card-cont">
         <div class="meals-card-left">
@@ -85,13 +81,6 @@ but you have to start to be great.”</h1>
 </div>
 </section>
 
-
-
-
-
-
-
-
 <section class="meals-result">
     <div class="meals-result-content">
     <p class="meals-section-p">Result</p>
@@ -119,12 +108,6 @@ but you have to start to be great.”</h1>
     </div>
 </section>
 
-
-
-
-
-
-
 <section  class="meals-reality">
     <div class="meals-reality-contet">
         <p class="meals-section-p">Expectation -Reality</p>
@@ -132,9 +115,6 @@ but you have to start to be great.”</h1>
         What you’ll get in our 21 day challenge
         </h1>
     </div>
-
-
-
 
     <div class="meals-reality-card-all">
     <div class="meals-reality-card">
@@ -154,10 +134,6 @@ but you have to start to be great.”</h1>
         </div>
     </div>
 
-
-
-
-
     <div class="meals-reality-card">
         <div class="meals-reality-card-content">
             <h2>What is included </h2>
@@ -176,10 +152,6 @@ but you have to start to be great.”</h1>
     </div>
     </div>
 </section>
-
-
-
-
 
 <?php include('includes/footer.php'); ?>
 <?php include('includes/ScrollToTop.php'); ?>   

@@ -30,9 +30,9 @@
                 </h1>
             </div>
         </div>
-
-
        </section>
+
+       
        <div class="nav-div">
         <div class="nav-div-tab">
       <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -70,11 +70,83 @@
             </div>
       </div>
         <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">   
-            <div class="tab-pane-contact">
-               
+            <div class="about-profile-row1">
+            <div class="about-profile-card">
+               <div class="about-profile-content">
+                   <img src="images/Blog/profile1.jpg" alt="">
+                   <h3>Kalani kasturiyaaa</h3>
+                   <p>Web developer</p>
+                   <div class="about-card-social">
+                   <ul>
+                        <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
+                        <li><a href=""><img src="images/Blog/instagram.svg" alt=""></a></li>
+                        <li><a href=""><img src="images/Blog/twitter.svg" alt=""></a></li>
+                    </ul>
+                   </div>
+               </div>
             </div>
-            <div class="tab-pane-image">
-                <img src="" alt="">
+
+            <div class="about-profile-card">
+               <div class="about-profile-content">
+                   <img src="images/Blog/profile1.jpg" alt="">
+                   <h3>Kalani kasturiyaaa</h3>
+                   <p>Web developer</p>
+                   <div class="about-card-social">
+                   <ul>
+                        <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
+                        <li><a href=""><img src="images/Blog/instagram.svg" alt=""></a></li>
+                        <li><a href=""><img src="images/Blog/twitter.svg" alt=""></a></li>
+                    </ul>
+                   </div>
+               </div>
+            </div>
+
+            <div class="about-profile-card">
+               <div class="about-profile-content">
+                   <img src="images/Blog/profile1.jpg" alt="">
+                   <h3>Kalani kasturiyaaa</h3>
+                   <p>Web developer</p>
+                   <div class="about-card-social">
+                   <ul>
+                        <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
+                        <li><a href=""><img src="images/Blog/instagram.svg" alt=""></a></li>
+                        <li><a href=""><img src="images/Blog/twitter.svg" alt=""></a></li>
+                    </ul>
+                   </div>
+               </div>
+            </div>
+            </div>
+
+            <div class="about-profile-row2">
+            <div class="about-profile-card">
+               <div class="about-profile-content">
+                   <img src="images/Blog/profile1.jpg" alt="">
+                   <h3>Kalani kasturiyaaa</h3>
+                   <p>Web developer</p>
+                   <div class="about-card-social">
+                   <ul>
+                        <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
+                        <li><a href=""><img src="images/Blog/instagram.svg" alt=""></a></li>
+                        <li><a href=""><img src="images/Blog/twitter.svg" alt=""></a></li>
+                    </ul>
+                   </div>
+               </div>
+            </div>
+            
+            <div class="about-profile-card">
+               <div class="about-profile-content">
+                   <img src="images/Blog/profile1.jpg" alt="">
+                   <h3>Kalani kasturiyaaa</h3>
+                   <p>Web developer</p>
+                   <div class="about-card-social">
+                   <ul>
+                        <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
+                        <li><a href=""><img src="images/Blog/instagram.svg" alt=""></a></li>
+                        <li><a href=""><img src="images/Blog/twitter.svg" alt=""></a></li>
+                    </ul>
+                   </div>
+               </div>
+            </div>
             </div>
       </div>
       </div>

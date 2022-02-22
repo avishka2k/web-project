@@ -7,12 +7,12 @@
 * {
     box-sizing: border-box;
   }
-  
+
 .Aboutus {
     width: 100%;
     max-width: 75rem;
     margin: 0 auto;
-    padding: 0 1.5rem;  
+    padding: 0 1.5rem;
     align-items: center;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .right-col {
-    margin-left: 10%;    
+    margin-left: 10%;
 }
 
 .headline {
@@ -37,7 +37,7 @@
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
-    line-height: 21px; 
+    line-height: 21px;
     margin-bottom: 20px;
 }
 
@@ -49,7 +49,7 @@
     font-size: 50px;
     line-height: 67px;
     margin-bottom: 23px;
-    
+
 }
 
 .section-box .ph {
@@ -57,7 +57,7 @@
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
-    line-height: 30px; 
+    line-height: 30px;
     margin-bottom: 45px;
     color: #5E5E5E;
 }
@@ -72,7 +72,7 @@
 .video-ph {
     margin-top: 30px;
 }
-.section-box-btn a{ 
+.section-box-btn a{
     text-decoration: none;
     color: #fff;
 }
@@ -91,7 +91,7 @@
     width: 100%;
     max-width: 75rem;
     margin: 5rem auto auto auto;
-    padding: 0 5.5rem;  
+    padding: 0 5.5rem;
     align-items: center;
 }
 
@@ -188,7 +188,7 @@
 
  .right-col-wo{
     margin-left: 15%;
-    
+
 }
 
  .wonder-ph {
@@ -196,7 +196,7 @@
     font-family: Roboto;
     font-style: normal;
     font-size: 20px;
-    line-height: 30px; 
+    line-height: 30px;
     margin-bottom: 45px;
     color: #5E5E5E;
  }
@@ -216,7 +216,7 @@
     width: 100%;
     max-width: 75rem;
     margin: 0 auto;
-    
+
 }
 
 .section-box-ve .ph {
@@ -224,7 +224,7 @@
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
-    line-height: 30px; 
+    line-height: 30px;
     margin-bottom: 45px;
     color: #5E5E5E;
     text-align: center;
@@ -363,10 +363,10 @@
 }
 
 .blog a:hover {
-    
+
     color: #11312c;
     transition: all 0.7s ease-out 0s;
-    
+
 }
 
 
@@ -419,7 +419,7 @@
     color: var(--primary-color);
     line-height: 1.5rem;
     border-top: 1px solid;
-    border-image: linear-gradient(to right,transparent,#34495e,transparent)1;   
+    border-image: linear-gradient(to right,transparent,#34495e,transparent)1;
 }
 .accordion-item-header.active + .accordion-item-body {
     max-height: 1000px;
@@ -431,7 +431,7 @@
 	.mobile-menu, .menu-exit {
 		display: block;
 	}
-   
+
     .frreble-right-col {
         margin-left: 4rem;
     }
@@ -443,7 +443,7 @@
    .right-col-op {
        margin-right: 3rem;
    }
- 
+
     .freeble img {
         width: 100%;
     }
@@ -483,9 +483,9 @@
     }
 
     .right-col {
-        margin-left: 0;    
-    }  
-    
+        margin-left: 0;
+    }
+
     .Opportunity {
         text-align: center;
         flex-flow: column-reverse;
@@ -505,12 +505,12 @@
         width: 100%;
         margin-top: -13rem;
     }
-    
+
     .services .img-on-txt h2 {
         margin-bottom: 2rem;
         font-size: 20px;
     }
-    
+
     .services .img-on-txt-btn {
         font-size: 14px;
         padding: 10px 20px;
@@ -526,17 +526,17 @@
         border-bottom: 2px solid var(--primary-color);
         display: flex;
         align-items: center;
-        justify-content: space-between;      
+        justify-content: space-between;
     }
 
     .services .sr-mobile-top {
         border-top: 2px solid var(--primary-color);
     }
-    
+
     .services .sr-mobile img{
         width: 20%
     }
-    
+
     .services .sr-mobile li {
         display: inline-block;
     }
@@ -564,7 +564,7 @@
         margin-left: 1.2rem;
         transition: all 0.3s ease-out 0s;
     }
-    
+
     .wonder {
         flex-flow: column-reverse;
         text-align: center;
@@ -592,7 +592,7 @@
         height: 100%;
     }
 
-   
+
  .frreble-right-col h2 {
      font-size: 25px;
  }
@@ -600,7 +600,7 @@
  .frreble-right-col {
     margin-left: 0;
 }
-  
+
 
     .freeble.section-box {
         display: block;
@@ -622,13 +622,13 @@
         width: 100%;
     }
 
-    .accordion {  
+    .accordion {
         max-width: 40rem;
         padding: 0 1.5rem;
     }
 
     .newslatter {
-        padding: 0 1.5rem;     
+        padding: 0 1.5rem;
     }
 
     .form__button {
@@ -643,6 +643,6 @@
     .headline {
         font-size: 15px;
     }
-    
+
 
 }

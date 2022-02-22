@@ -25,7 +25,7 @@
     <div class="fithit-hero-content">
         <h1>Live mentally & physicaly healthier <br> with FitHit</h1>
         <p>Once you began to exercise the hardest thing is to stop it.<br> Start today with FitHit</p>
-        <button class="knowmore" style="vertical-align:middle">
+        <button class="join" style="vertical-align:middle">
         <span>
             <a href="" style="color: var(--primary-color);">Join - It's Free</a>
         </span>

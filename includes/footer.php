@@ -52,3 +52,7 @@
       </div>
   </footer>
 </div>
+
+<?php 
+
+?>

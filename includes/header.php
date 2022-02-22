@@ -27,4 +27,6 @@
 <script src="includes/js/header.js"></script>
 <script src="../includes/js/header.js"></script>
 
-    
+    <?php 
+
+?>

@@ -19,14 +19,14 @@
 
     <script src="http://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
 
-        
+
 </head>
 <body>
 
 
 <?php include('includes/header.php'); ?>
 
-<!--------- contact us -------->
+<!--- contact us ---->
 
 
 
@@ -58,7 +58,7 @@
     <div class="contact-left">
     <div class="contact-left-address">
         <h2>contact information</h2>
-        
+
 
         <ul>
            <li><i class="fa fa-phone"></i> +940115445000</li>
@@ -69,7 +69,7 @@
         </ul>
     </div>
     <br>
-    
+
 
 <div class="contact-left-icons">
     <ul>
@@ -79,14 +79,14 @@
     <li><i class="fa fa-whatsapp"></i></li>
 </ul>
 
-        <div>      
+        <div>
                 <span>
                     <section class="contact-information">
                 <h3>contact information</h3>
             </span>
 
 </div>
-</div>  
+</div>
 
 <div class="contact information">
     <div class="contact-right-content">

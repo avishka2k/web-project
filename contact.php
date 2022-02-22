@@ -83,13 +83,13 @@
                 <span>
                     <section class="contact-information">
                 <h3>contact information</h3>
-<<<<<<< HEAD
+
                 </span>
-=======
+
             </span>
 
 </div>
->>>>>>> fa25ea948d4fbe083b5eb9580a139250ad5962aa
+
 </div>
 </div>        
 
@@ -103,7 +103,7 @@
             <label for="email-1"></label>
             <input type="email" placeholder="Enter email address" required>
 
-<<<<<<< HEAD
+
         
         <span>
         <section class="phone-number">
@@ -112,10 +112,10 @@
 </span>
 <br>
 <br>
-=======
+
             <label for=""></label>
             <input textarea rows="10" placeholder="Enter your message" required>
->>>>>>> fa25ea948d4fbe083b5eb9580a139250ad5962aa
+
 
             <button type="submit" class="hero-btn green-btn" required>subscribe</button></section>
         </form>
@@ -203,9 +203,9 @@
    
 </form>
 </div>
-=======
 
->>>>>>> fa25ea948d4fbe083b5eb9580a139250ad5962aa
+
+
 </section>
 
 

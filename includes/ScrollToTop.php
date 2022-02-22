@@ -4,3 +4,7 @@
 </button>
 
 <script src="includes/js/ScrollToTop.js"></script>
+
+<?php 
+
+?>

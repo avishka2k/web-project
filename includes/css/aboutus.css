@@ -16,7 +16,7 @@
     display:center;
     height: 100vh;
     background: #033C33;
-    mix-blend-mode: normal; 
+    mix-blend-mode: normal;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -177,7 +177,7 @@
     color: var(--primary-color);
     line-height: 1.5rem;
     border-top: 1px solid;
-    border-image: linear-gradient(to right,transparent,#34495e,transparent)1;   
+    border-image: linear-gradient(to right,transparent,#34495e,transparent)1;
 }
 .accordion-item-header.active + .accordion-item-body {
     max-height: 1000px;

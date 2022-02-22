@@ -91,7 +91,7 @@
     width: 100%;
     max-width: 75rem;
     margin: 5rem auto auto auto;
-    padding: 0 1.5rem;  
+    padding: 0 5.5rem;  
     align-items: center;
 }
 
@@ -103,13 +103,18 @@
 
 
 .services img {
-    width: 100%;
+    width: 95%;
 }
 
 
 .services .img-row2 {
     display: flex;
     margin-top: 8rem;
+    justify-content: space-between;
+}
+
+.img-row1 img {
+    width:97.5%;
 }
 
 .services .img-on-txt{
@@ -426,11 +431,6 @@
 	.mobile-menu, .menu-exit {
 		display: block;
 	}
-
-    .services .img-row2 img{
-       display: block;
-       width: 100%;
-    }
    
     .frreble-right-col {
         margin-left: 4rem;
@@ -444,48 +444,9 @@
        margin-right: 3rem;
    }
  
-
-
     .freeble img {
         width: 100%;
     }
-}
-
-@media screen and (max-width:1100px) {
-    .Aboutus img {
-     
-        width: 25rem;
-    }
-    .Aboutus {
-       max-width: 70rem;
-    }
-
-    .Aboutus .right-col {
-        margin-left: 3rem;
-    }
-
-    .Opportunity {
-        max-width: 60rem;
-    }
-
-    .wonder {
-        max-width: 60rem;
-    }
-
-    .wonder img {
-        width: 20rem;
-    }
-
-    .right-col-wo {
-        margin-left: 30px;
-    }
-
-    .accordion {  
-   
-        padding: 0 1.5rem;
-    }
-
-   
 }
 
 

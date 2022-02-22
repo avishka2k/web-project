@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;900&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,700&family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 2rem 2rem 1rem 2rem;
+}
+
+.aboutus{
+    display:center;
+    height: 100vh;
+    background: #033C33;
+    mix-blend-mode: normal;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 112px;
+    text-align:center;
+    padding-top: 4em;
+}
+
+.aboutus-header-h h1 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 80px;
+    color: #FFFFFF;
+    padding: 2rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.nav-item {
+    display: inline-block;
+    margin: auto;
+}
+
+.tab-pane-image img {
+    width: 100%;
+}
+
+.about-who-we-are {
+    display: flex;
+    align-items: center;
+}
+
+.tab-pane-home {
+    max-width: 40rem;
+    padding-right: 4rem;
+}
+
+.nav-div {
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 5rem;
+    max-width: 60rem;
+}
+
+.nav-div button {
+    border: none;
+    background: transparent;
+}
+
+.about-profile-content img {
+    width: 73%;
+    clip-path: circle(65px );
+}
+
+.tab-pane {
+    max-width: 60rem;
+    margin: auto;
+}
+
+.about-profile-content {
+    text-align: center;
+}
+.about-profile-card {
+    background-color: #ffffff;
+    margin: 1rem;
+    padding: 3rem 0 1rem 0;
+    max-width: 17rem;
+    box-shadow: 1px 2px 6px 3px #c1bab9;
+    border-radius: 17px;
+}
+
+.about-profile-card:hover {
+    box-shadow: 1px 2px 15px 3px #c1bab9;
+    transition: all 0.1s ease;
+  }
+
+.about-profile-content h3 {
+    font-family: Roboto;
+    font-size: 20px;
+    padding-top: 2rem;
+}
+.about-profile-row2 {
+    padding: 0 16%;
+}
+.about-profile-content p {
+    font-size: 15px;
+    color:#707070;
+}
+
+.about-profile-row1, .about-profile-row2 {
+    display: flex;
+    align-items: center;
+}
+
+.about-profile-row2 {
+    margin: auto;
+}
+
+.about-card-social li {
+    display: inline-block;
+}
+
+.tab-pane.fade {
+    padding: 5rem 0;
+}
+
+/*accordion*/
+
+.accordion {
+    width: 100%;
+    max-width: 50rem;
+    margin: 2rem auto;
+}
+
+.accordion-item {
+    margin: 1rem 0;
+    border-radius: .3rem;
+    border: 2px solid var(--primary-color);
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.2);
+}
+
+.accordion-item-header {
+    padding: .5rem 3rem .5rem 1rem;
+    min-height: 3rem;
+    line-height: 1.25rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    color: var(--primary-color);
+}
+
+.accordion-item-header::after {
+    content: "\002B";
+    font-size: 1.3rem;
+    position: absolute;
+    right: 1rem;
+
+}
+
+.accordion-item-header.active::after {
+    content: "\2212";
+}
+.accordion-item-body {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+}
+
+.accordion-item-body-content {
+    padding: 1rem 2rem;
+    color: var(--primary-color);
+    line-height: 1.5rem;
+    border-top: 1px solid;
+    border-image: linear-gradient(to right,transparent,#34495e,transparent)1;
+}
+.accordion-item-header.active + .accordion-item-body {
+    max-height: 1000px;
+}

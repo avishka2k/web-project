@@ -10,6 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="includes/css/newslatter.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/header.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
+    <link rel="stylesheet" type="text/css" href="includes/css/animation.css">
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
     <style>
         body {
@@ -97,7 +98,7 @@
 
 
 <!--========About us Section start========-->
-<section class="Aboutus section-box row-spacing">
+<section class="Aboutus section-box row-spacing animation-div">
     <div class="left-col">
         <img src="images/body-about.svg">
     </div>
@@ -105,11 +106,11 @@
         <p class="aboutus headline">About us</p>
         <h1 class="h-tag">We inspire people to <br>Healthy life.</h1>
         <p class="ph01 ph">We inspire people to active, fit & financialy balanced life by
-offering them business opportunity and.</p>
+        offering them business opportunity and.</p>
         <p class="ph02 ph">You can feel too-much relax when you have a side income-source.
-What can be more peaceful than earning extra cents while
-you’re home in this situation!
-We’ll give you that opportunity. be connected to get offered!</p>
+        What can be more peaceful than earning extra cents while
+        you’re home in this situation!
+        We’ll give you that opportunity. be connected to get offered!</p>
         <div class="section-box-btn">
             <a href="">Get Offered!</a>
         </div>
@@ -120,8 +121,11 @@ We’ll give you that opportunity. be connected to get offered!</p>
 
 <!--========Service Section start========-->
 <section class="services row-spacing">
+    <div class="headline-contant animation-div">
     <p class="headline">Our Service</p>
     <h1 class="h-tag">Most popular services</h1>
+    </div>
+    <div class="services-imgs animation-div">
     <div class="sr-img">
         <div class="img-row1">
             <img src="images/service01.svg">
@@ -168,12 +172,13 @@ We’ll give you that opportunity. be connected to get offered!</p>
             </ul>
                 <img src="images/service02.svg" alt="">
         </div>
+    </div>
 </section>
 <!--========Service Section End========-->
 
 
 <!--========Opportunity Section start========-->
-<section class="Opportunity section-box row-spacing-op">
+<section class="Opportunity section-box row-spacing-op animation-div">
    <div class="right-col-op">
         <p class="Opportunity-head headline">Opportunity</p>
           <h1 class="h-tag">We inspire people to<br>Earn Mony.</h1>
@@ -195,7 +200,7 @@ We’ll give you that opportunity. be connected to get offered!</p>
 
 
 <!--========Wonder us Section start========-->
-<section class="wonder section-box row-spacing-wo">
+<section class="wonder section-box row-spacing-wo animation-div">
     <div class="left-col">
         <img src="images/wonder.svg" width="472px" height="484.75px">
     </div>
@@ -216,9 +221,11 @@ We’ll give you that opportunity. be connected to get offered!</p>
 
 <!--========video Section start========-->
 <section class="video section-box-ve row-spacing-video">
+    <div class="video-content animation-div">
         <h1 class="h-tag video-header">We inspire people to Understand us.</h1>
         <p class="ph01 ph video-ph">Not yet sure about what we do here? This short video will break<br>your confusion, and will lead you to a ‘Door of Opportunity’!</p>
-        <div class="video-top">
+    </div>
+        <div class="video-top animation-div">
             <video width="854px" height="480px" controls>
                 <source src="movie.mp4" type="video/mp4">
             </video>
@@ -228,11 +235,11 @@ We’ll give you that opportunity. be connected to get offered!</p>
 
 
 <!--========Freeble Section start========-->
-    <div class="section-head freeble">
+    <div class="section-head freeble freeble-head animation-div">
          <p class="freeble headline">Freeble</p>
         <h1 class="h-tag">Download our freebies</h1>
     </div>
-<section class="freeble section-box row-spacing-free">
+<section class="freeble section-box row-spacing-free animation-div">
     <div class="left-col">
         <img src="images/download.svg" width="472px" height="484.75px">
     </div>
@@ -255,12 +262,12 @@ We’ll give you that opportunity. be connected to get offered!</p>
 
 
 <!--========Blog Section Start========-->
-<div class="section-head">
+<div class="section-head animation-div blog-head-anim">
          <p class="freeble headline">Blog</p>
         <h1 class="h-tag">Read our blog to be inspired!</h1>
     </div>
 <section class="blog">
-    <div class="blog-card">
+    <div class="blog-card blog-card-left animation-div">
         <img src="images/Blog/blog1.svg" alt="">
         <p class="topic">Fitness</p>
         <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
@@ -270,7 +277,7 @@ We’ll give you that opportunity. be connected to get offered!</p>
             disease, lung disease (COPD), or some other health condition</p>
         <a href="">Read More</a>
     </div>
-    <div class="blog-card">
+    <div class="blog-card blog-card-middle animation-div">
         <img src="images/Blog/blog2.svg" alt="">
         <p class="topic">Earning</p>
         <h2>Ways of earning cents while staying home in the ‘New Normal’.</h2>
@@ -280,7 +287,7 @@ We’ll give you that opportunity. be connected to get offered!</p>
             disease, lung disease (COPD), or some other health condition</p>
         <a href="">Read More</a>
     </div>
-    <div class="blog-card">
+    <div class="blog-card blog-card-right animation-div">
         <img src="images/Blog/blog3.svg" alt="">
         <p class="topic">Fitness</p>
         <h2>Stay fit in lockdown with online workout.</h2>
@@ -296,12 +303,12 @@ We’ll give you that opportunity. be connected to get offered!</p>
 
 <!--========FAQ Section Start========-->
 <section class="faq" id="home-faqs">
-    <div class="section-head">
+    <div class="section-head blog-head-anim animation-div">
         <p class="freeble headline">FAQ</p>
        <h1 class="h-tag">Felt those question like others?</h1>
    </div>
     <div class="accordion">
-        <div class="accordion-item">
+        <div class="accordion-item animation-div one">
             <div class="accordion-item-header">
                 How the Job Offer works?
             </div>
@@ -316,7 +323,7 @@ We’ll give you that opportunity. be connected to get offered!</p>
             </div>
         </div>
 
-        <div class="accordion-item">
+        <div class="accordion-item animation-div tow">
             <div class="accordion-item-header">
                 What is Company Presentation?
             </div>
@@ -331,7 +338,7 @@ We’ll give you that opportunity. be connected to get offered!</p>
             </div>
         </div>
 
-        <div class="accordion-item">
+        <div class="accordion-item animation-div three">
             <div class="accordion-item-header">
                 What is Woman on a Mission?
             </div>
@@ -346,7 +353,7 @@ We’ll give you that opportunity. be connected to get offered!</p>
             </div>
         </div>
 
-        <div class="accordion-item">
+        <div class="accordion-item animation-div foure">
             <div class="accordion-item-header">
                 Am I gonna get Benefited or not?     
             </div>
@@ -365,7 +372,7 @@ We’ll give you that opportunity. be connected to get offered!</p>
 <!--========FAQ Section End========-->
 
 <!--========Newslatter Section Start========-->
-<section class="newslatter">
+<section class="newslatter animation-div">
 <div class="subscribe">
 	<h2 class="subscribe__title">Subscribe to our Newsletter.</h2>
 	<p class="subscribe__copy">Subscribe to keep up with fresh news and exciting updates. We promise not to spam you!</p>
@@ -390,6 +397,7 @@ We’ll give you that opportunity. be connected to get offered!</p>
 <!--========Script========-->
 <script src="includes/js/script.js"></script>
 <script src="includes/js/accordion.js"></script>
+<script src="includes/js/animation.js"></script>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 

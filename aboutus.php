@@ -49,27 +49,90 @@
       </div>
       <div class="tab-content" id="myTabContent">
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">    
-            <div class="tab-pane-home">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique hic distinctio
-                 sapiente nobis maxime, inventore cumque nulla repellendus, impedit, fuga possimus itaque ad error dolor tempore nesciunt voluptatibus quaerat in.
+            <div class="about-who-we-are">
+              <div class="tab-pane-home"><p>Lorem, ipsum dolor sit amet consectetur 
+                adipisicing elit. Similique hic distinctio sapiente nobis maxime, 
+                inventore cumque nulla repellendus, impedit, fuga possimus itaque 
+                ad error dolor tempore nesciunt voluptatibus quaerat in.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Quisquam quidem molestias ratione asperiores neque fugit quaerat 
+                sint. Velit accusamus modi libero nesciunt. Aut asperiores iusto 
+                aliquam voluptate debitis, doloremque unde.</p>
+              </div>
+              <div class="tab-pane-image">
+                  <img src="images/about.svg" alt="">
+              </div>
             </div>
-            <div class="tab-pane-image">
-                <img src="images/about.svg" alt="">
-            </div>
-      
       </div>
         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">    
-            <div class="tab-pane-profile">
-            Lorem ipsum dolor sit amet consectetur 
-          adipisicing elit. Expedita repellat nisi esse! Molestias beatae aut quidem vero eius exercitationem 
-          inventore voluptates illum voluptate non? Atque enim laborum quae sit ducimus. Lorem ipsum dolor sit amet 
-          consectetur adipisicing elit. Expedita repellat nisi esse! Molestias beatae aut quidem vero eius
-           exercitationem inventore voluptates illum voluptate non? Atque enim laborum quae sit ducimus.
+            <div class="tab-pane-faq">
+            <div class="accordion">
+              <div class="accordion-item">
+                  <div class="accordion-item-header">
+                      How the Job Offer works?
+                  </div>
+                  <div class="accordion-item-body">
+                      <div class="accordion-item-body-content">
+                          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                              Nostrum corporis dolorum at tenetur quisquam perferendis 
+                              eos aspernatur alias adipisci et, eum, laborum ipsa 
+                              voluptate unde maiores. Neque aspernatur quaerat sequi.
+                          </p>
+                      </div>
+                  </div>
+              </div>
+
+              <div class="accordion-item">
+                  <div class="accordion-item-header">
+                      What is Company Presentation?
+                  </div>
+                  <div class="accordion-item-body">
+                      <div class="accordion-item-body-content">
+                          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                              Nostrum corporis dolorum at tenetur quisquam perferendis 
+                              eos aspernatur alias adipisci et, eum, laborum ipsa 
+                              voluptate unde maiores. Neque aspernatur quaerat sequi.
+                          </p>
+                      </div>
+                  </div>
+              </div>
+
+              <div class="accordion-item">
+                  <div class="accordion-item-header">
+                      What is Woman on a Mission?
+                  </div>
+                  <div class="accordion-item-body">
+                      <div class="accordion-item-body-content">
+                          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                              Nostrum corporis dolorum at tenetur quisquam perferendis 
+                              eos aspernatur alias adipisci et, eum, laborum ipsa 
+                              voluptate unde maiores. Neque aspernatur quaerat sequi.
+                          </p>
+                      </div>
+                  </div>
+              </div>
+
+              <div class="accordion-item">
+                  <div class="accordion-item-header">
+                      Am I gonna get Benefited or not?     
+                  </div>
+                  <div class="accordion-item-body">
+                      <div class="accordion-item-body-content">
+                          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                              Nostrum corporis dolorum at tenetur quisquam perferendis 
+                              eos aspernatur alias adipisci et, eum, laborum ipsa 
+                              voluptate unde maiores. Neque aspernatur quaerat sequi.
+                          </p>
+                      </div>
+                  </div>
+               </div>
             </div>
-            <div class="tab-pane-image">
-                <img src="" alt="">
-            </div>
+          </div>
+          <div class="tab-pane-image">
+              <img src="" alt="">
+          </div>
       </div>
-        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">   
+        <div class="tab-pane fade teams" id="contact" role="tabpanel" aria-labelledby="contact-tab">   
             <div class="about-profile-row1">
             <div class="about-profile-card">
                <div class="about-profile-content">
@@ -158,5 +221,6 @@
     <?php include('includes/footer.php'); ?>
     <?php include('includes/ScrollToTop.php'); ?>   
 
+    <script src="includes/js/accordion.js"></script>
 </body>
 </html>

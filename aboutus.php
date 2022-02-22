@@ -178,7 +178,7 @@
                    </div>
                </div>
             </div>
-            </div>
+            </div>                                                                                                                                                                                                                                                                                                                                            
 
             <div class="about-profile-row2">
             <div class="about-profile-card">

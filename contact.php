@@ -41,10 +41,10 @@
                <span>
                     <section class="contact-information">
                 <h3>contact information</h3>
-                
-</span>
+                </span>
 </div>
-</div>
+</div>        
+
 
 
 <div>
@@ -52,7 +52,7 @@
         
         <span>
         <section class="phone-number">
-           <i class="fa fa-phone"></i><br><br> <h5> +940115445000</h5>
+           <i class="fa fa-phone"></i><br><h5> +940115445000</h5>
 </section>
 </span>
 <br>
@@ -63,7 +63,7 @@
         
         <span>
             <section class="email">
-            <i class="fa fa-envelope"></i><br><br> <h5>inquiries@nsbm.ac.lk</h5>
+            <i class="fa fa-envelope"></i><br> <h5>inquiries@nsbm.ac.lk</h5>
 </section>
 </span>
 
@@ -74,19 +74,27 @@
                
                 <span>
                     <section class="address">
-                    <i class="fa fa-home"></i><br><br><h5><p>NSBM Green University</h5></p>
+                    <i class="fa fa-home"></i><br><h5><p>NSBM Green University</h5></p>
                 <h5><p>pitipana-Thalagala Rd, Homagama</p></h5>
 <br>
 <br>
 <br>
 
+
               
-<section class="twitter">
-    <i class="fa fa-twitter"></i>
-    <i class="fa fa-linkedin"></i>
+
+    <section class="youtube">
+      <i class="fa fa-facebook"></i>
     <i class="fa fa-youtube"></i>
+
+    <i class="fa fa-linkedin"></i>
+
+    <i class="fa fa-twitter"></i>
+
+
     <i class="fa fa-whatsapp"></i>
 </section>
+
 
 
 </span>
@@ -105,6 +113,7 @@
 
 <section class="Information">
 <div class="contact-col">
+
 <form action="">
     <br>
     <br>
@@ -122,12 +131,13 @@
 <br>
 <br>
     <section class="textarea-1">
-    <input textarea rows="10" placeholder="Enter your message" required>
+    <inputtextarea rows="8" columns="20" placeholder="Enter your message" required></textarea>
 </section>
-<br>
+<section class="button">
+    <inputbutton type="submit" class="hero-btn green-btn">subscribe</button>
+</section>
 
-
-    <button type="submit" class="hero-btn green-btn" required>subscribe</button></section>
+   
 </form>
 </div>
 </section>

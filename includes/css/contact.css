@@ -259,27 +259,7 @@ border-radius: 8.97143px;
     border: solid #ccc;
 }
 
-.contact-col button, contact-col submit{
-    /* Frame 19 */
 
-/* Auto layout */
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 15px 30px;
-
-position: absolute;
-width: 140.29px;
-height: 52.64px;
-left: 1335px;
-top: 1502px;
-
-/* 2nd */
-background: #215A51;
-border-radius: 4px;
-
-}
 .textarea-1{
     /* Group 356 */
 
@@ -313,44 +293,9 @@ top: 1124.85px;
 
 }
 
-
-.twitter{
-
- /* path396 */
-
- position: absolute;
- left: 26.59%;
- right: 72.15%;
- top: 43.37%;
- bottom: 56.07%;
- 
- background: #B9B9B9;
- transform: matrix(1, 0, 0, -1, 0, 0);
- 
- }
-
-
-.instergram{
-    position: absolute;
-    width: 19.91px;
-    height: 19.91px;
-    left: 451.45px;
-    top: 1531.35px;
-    
-    background: #B9B9B9;
-    }
-
-.linkedin{
-
-
-    position: absolute;
-    width: 19.91px;
-    height: 19.91px;
-    left: 451.45px;
-    top: 1531.35px;
-    
-    background: #B9B9B9;
-    
+.button{
     
 
-}
+
+
+

@@ -330,9 +330,9 @@ border-radius: 8.97143px;
     border: solid #ccc;
 }
 
-.contact-col button, contact-col submit{
-    /* Frame 19 */
 
+<<<<<<< HEAD
+=======
 /* Auto layout */
 display: flex;
 flex-direction: row;
@@ -350,6 +350,7 @@ background: #215A51;
 border-radius: 4px;
 
 }
+>>>>>>> fa25ea948d4fbe083b5eb9580a139250ad5962aa
 .textarea-1{
     /* Group 356 */
 
@@ -384,6 +385,9 @@ top: 1124.85px;
 
 }
 
+<<<<<<< HEAD
+.button{
+=======
 .facebook{
     /* path394 */
 
@@ -412,6 +416,9 @@ transform: matrix(1, 0, 0, -1, 0, 0);
     
     background: #B9B9B9;
     
+>>>>>>> fa25ea948d4fbe083b5eb9580a139250ad5962aa
     
 
-}
+
+
+

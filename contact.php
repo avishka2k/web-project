@@ -83,10 +83,16 @@
                 <span>
                     <section class="contact-information">
                 <h3>contact information</h3>
+<<<<<<< HEAD
+                </span>
+=======
             </span>
 
 </div>
+>>>>>>> fa25ea948d4fbe083b5eb9580a139250ad5962aa
 </div>
+</div>        
+
 
 <div class="contact information">
     <div class="contact-right-content">
@@ -97,14 +103,109 @@
             <label for="email-1"></label>
             <input type="email" placeholder="Enter email address" required>
 
+<<<<<<< HEAD
+        
+        <span>
+        <section class="phone-number">
+           <i class="fa fa-phone"></i><br><h5> +940115445000</h5>
+</section>
+</span>
+<br>
+<br>
+=======
             <label for=""></label>
             <input textarea rows="10" placeholder="Enter your message" required>
+>>>>>>> fa25ea948d4fbe083b5eb9580a139250ad5962aa
 
             <button type="submit" class="hero-btn green-btn" required>subscribe</button></section>
         </form>
     </div>
 </div>
+<<<<<<< HEAD
+<div>
+        
+        <span>
+            <section class="email">
+            <i class="fa fa-envelope"></i><br> <h5>inquiries@nsbm.ac.lk</h5>
+</section>
+</span>
 
+</div>
+<br>
+<br>
+<div>
+               
+                <span>
+                    <section class="address">
+                    <i class="fa fa-home"></i><br><h5><p>NSBM Green University</h5></p>
+                <h5><p>pitipana-Thalagala Rd, Homagama</p></h5>
+<br>
+<br>
+<br>
+
+
+              
+
+    <section class="youtube">
+      <i class="fa fa-facebook"></i>
+    <i class="fa fa-youtube"></i>
+
+    <i class="fa fa-linkedin"></i>
+
+    <i class="fa fa-twitter"></i>
+
+
+    <i class="fa fa-whatsapp"></i>
+</section>
+
+
+
+</span>
+</div>
+<div class="icons">
+    
+    
+    <i class="fa fa-facebook"></i>
+    <i class="fa fa-twitter"></i>
+    <i class="fa fa-instergram"></i>
+    <i class="fa fa-linkedin"></i>
+    <i class="fa fa-youtube"></i>
+    <i class="fa fa-whatsapp"></i>
+
+</section>
+
+<section class="Information">
+<div class="contact-col">
+
+<form action="">
+    <br>
+    <br>
+    <br>
+    <section class="name">
+    <input type="text" placeholder="Enter your name" required>
+</section>
+<br>
+<br>
+<br>
+<section class="email-1">
+    <input type="email" placeholder="Enter email address" required>
+</section>
+<br>
+<br>
+<br>
+    <section class="textarea-1">
+    <inputtextarea rows="8" columns="20" placeholder="Enter your message" required></textarea>
+</section>
+<section class="button">
+    <inputbutton type="submit" class="hero-btn green-btn">subscribe</button>
+</section>
+
+   
+</form>
+</div>
+=======
+
+>>>>>>> fa25ea948d4fbe083b5eb9580a139250ad5962aa
 </section>
 
 

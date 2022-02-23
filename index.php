@@ -181,7 +181,7 @@
 <section class="Opportunity section-box row-spacing-op animation-div">
    <div class="right-col-op">
         <p class="Opportunity-head headline">Opportunity</p>
-          <h1 class="h-tag">We inspire people to<br>Earn Mony.</h1>
+          <h1 class="h-tag">We inspire people to<br>Earn Money.</h1>
            <p class="ph01 ph">Everyone wanna earn money in the most relaxed way.
                     We have many opportunities handpicked just for you, so that you can earn money while you’re at home.</p>
            <p class="ph02 ph">What you have to do is just fill out our contact form & wait,

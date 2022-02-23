@@ -249,13 +249,20 @@
 
 @media screen and (max-width:800px){
 
+    .join {
+        margin-top: 30px;
+    }
     .fithit-hero {
         padding-left: 1rem;
         padding-right: 1rem;
     }
     
+    .fithit-hero-content {
+        top: 55%;
+    }
+    
     .fithit-hero {
-        height: 50vh;
+        height: 70vh;
     }
     .fithit-hero-content h1{
         font-size: 32px;

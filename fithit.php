@@ -49,7 +49,8 @@
             <img src="images/fithit-about/about.svg" alt="">
         </div>
         <div class="about-box-right">
-            <h2>Break confusion</h2>
+            <h2>Break Confusion</h2>
+            <br>
             <p>Confusion is a symptom that makes you feel unable to think clearly. You may find it difficult to focus or make decisions. Confusion is also known as confusion. In its extreme state, it is called delirium. For short-term cases of mild confusion caused by nutritional imbalances, dehydration, or sleep deprivation, you might find relief in treatment at home.</p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
@@ -64,6 +65,7 @@
         </div>
         <div class="about-box-right">
             <h2>Build Confidence</h2>
+            <br>
             <p>Confidence comes from feelings of well-being, acceptance of your body and mind confidence in your own abilities, skills and experiences.Positive thinking, exercise, training, knowledge, and talking to other people are all effective ways to improve or enhance your confidence levels. 
             </p>
             <div class="about-box-btn">
@@ -78,7 +80,8 @@
             <img src="images/fithit-about/about-3.svg" alt="">
         </div>
         <div class="about-box-right">
-            <h2>Get help with eating habits</h2>
+            <h2>Get Help With Eating Habits</h2>
+            <br>
             <p>The term eating habits refers to why and how people eat, the foods they eat and the people they eat, as well as how people receive, store, use and discard food. Personal, social, cultural, religious, economic, environmental and political factors all influence people's eating habits.</p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
@@ -92,7 +95,8 @@
             <img src="images/fithit-about/about-4.svg" alt="">
         </div>
         <div class="about-box-right">
-            <h2>We'll guide you</h2>
+            <h2>We'll Guide You</h2>
+            <br>
             <p>Yes, we can guide you. We are very happy to guide you to a healthier life. Having a healthy lifestyle means choosing to live your life as healthy as possible. There are a few things you need to do to start life this way. We will help you to get them correctly.</p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
@@ -106,7 +110,8 @@
             <img src="images/fithit-about/about-5.svg" alt="">
         </div>
         <div class="about-box-right">
-            <h2>We'll help you start</h2>
+            <h2>We'll Help You Start</h2>
+            <br>
             <p>Starting anything first is the hardest part. A lot of people miss work because they just can't get clearly started. Do not be afraid about it. We look forward to being with you in any difficult situation. We are always committed to helping you . People who have been with us for a long time and who have been helped by us will be your witnesses to that. We hope you will join us in helping everyone we hope to live a healthier life. We look forward to starting with you.</p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
@@ -120,7 +125,8 @@
             <img src="images/fithit-about/about-6.svg" alt="">
         </div>
         <div class="about-box-right">
-            <h2>Be inspired by improvements</h2>
+            <h2>Be Inspired By Improvements</h2>
+            <br>
             <p>Make it vivid in your life with your improvements– Use analogies, share examples and tell stories to help people see the change you did for themselves. Inspiration is all about stimulating, motivating, encouraging and influencing others to action. What they see and believe, they will do. Connect change to something bigger. Inspire others tobe healthy and be inspired to live a healthy life. </p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
@@ -134,8 +140,9 @@
             <img src="images/fithit-about/about-7.svg" alt="">
         </div>
         <div class="about-box-right">
-            <h2>Get marveled by end results</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur molestias blanditiis omnis! Rem officia optio repellendus eum harum voluptatum! Facere, quo officia. Odit ratione esse velit officia sequi inventore eum?</p>
+            <h2>Get Marveled By End Results</h2>
+            <br>
+            <p>Happiness looks different for everyone. For you, maybe it’s being at peace with who you are. Or having a secure network of friends who accept you unconditionally. Or the freedom to pursue your deepest dreams. Regardless of your version of true happiness, living a happier, more satisfied life is within reach. A few tweaks to your regular habits can help you get there. Be fit, work hard to have a healthy body and soothing habits to be happy at the end of your hardwork and start your life with a new chapter. Come and join us, we are always with you.</p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
             </div>
@@ -147,7 +154,7 @@
 
 <div class="fithit-end">
     <p class="section-head">Last but not least!</p>
-    <h2>Asking last time, wanna work with us?</h2>
+    <h2>Asking last time, wanna work with us?..</h2>
     <button class="join-end" style="vertical-align:middle">
         <span>
             <a href="" style="color: white">Join - It's Free</a>

@@ -314,10 +314,7 @@
             </div>
             <div class="accordion-item-body">
                 <div class="accordion-item-body-content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Nostrum corporis dolorum at tenetur quisquam perferendis 
-                        eos aspernatur alias adipisci et, eum, laborum ipsa 
-                        voluptate unde maiores. Neque aspernatur quaerat sequi.
+                    <p>You must fill the contact form with a valid an email address. Then we will send you the required details of getting a job offer. Don’t be late hurry up and contact us.
                     </p>
                 </div>
             </div>
@@ -329,10 +326,7 @@
             </div>
             <div class="accordion-item-body">
                 <div class="accordion-item-body-content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Nostrum corporis dolorum at tenetur quisquam perferendis 
-                        eos aspernatur alias adipisci et, eum, laborum ipsa 
-                        voluptate unde maiores. Neque aspernatur quaerat sequi.
+                    <p>Company presentations are slideshows or demonstrations that provide potential clients and customers with beneficial information about a company's history and services.
                     </p>
                 </div>
             </div>
@@ -344,10 +338,7 @@
             </div>
             <div class="accordion-item-body">
                 <div class="accordion-item-body-content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Nostrum corporis dolorum at tenetur quisquam perferendis 
-                        eos aspernatur alias adipisci et, eum, laborum ipsa 
-                        voluptate unde maiores. Neque aspernatur quaerat sequi.
+                    <p>A person who is fiercely determined to do or get what they want. Janet stormed into work like a woman on a mission, heading straight into her boss's office to demand a raise in her salary.
                     </p>
                 </div>
             </div>
@@ -359,10 +350,7 @@
             </div>
             <div class="accordion-item-body">
                 <div class="accordion-item-body-content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Nostrum corporis dolorum at tenetur quisquam perferendis 
-                        eos aspernatur alias adipisci et, eum, laborum ipsa 
-                        voluptate unde maiores. Neque aspernatur quaerat sequi.
+                    <p>The persons who join us with a sufficient details have got many benefits in improving their health habits and getting a better life under our guidance. Join with us you will never regret it.
                     </p>
                 </div>
             </div>

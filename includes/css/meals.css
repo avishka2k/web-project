@@ -145,9 +145,9 @@
     font-family: Playfair Display;
     font-style: normal;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 35px;
     line-height: 55px;
-    color: gray;
+    color: #a3a3c2;
     padding-bottom: 1rem;
 }
 
@@ -157,7 +157,7 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 132.3%;
-    color: black;
+    color: #5E5E5E;
     padding-bottom: 4rem;
 }
 
@@ -179,7 +179,7 @@
 
 .meals-card-bottom-text{
     text-align:center;
-    max-width: 70rem;
+    max-width: 60rem;
     margin: auto;
     padding-bottom: 4rem;
     margin-bottom: 3rem;
@@ -190,7 +190,7 @@
     font-family: 'Playfair Display', serif;
     font-style: italic;
     font-weight: bold;
-    font-size: 67px;
+    font-size: 50px;
     line-height: 132.3%;
     color: var(--primary-color);
 }
@@ -313,7 +313,7 @@
 
     .meals-section-h {
         font-weight: bold;
-        font-size: 30px;
+        font-size: 44px;
         line-height: 40px;
     }
     .meals-section-about-p {

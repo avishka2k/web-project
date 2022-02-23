@@ -48,7 +48,7 @@ and help you make positive changes in your life.</p>
 
     <div class="meals-card-cont">
         <div class="meals-card-left">
-            <h1>What’s the goal of 21 Day Challenge?</h1>
+            <h1>What is the goal of 21 Day Challenge?</h1>
             <p>Everyone wanna be fit & happy, but not everyone knows how 
 to start. The goal of our 21 Day Challenge is to learn a new routine 
 with healthy & better habits in 21 days. Each day's assignment will take just 15-30 minutes. The goal is to develop social justice habits by heightening awareness and understanding of the critical lack of racial equity in our country, and to help accelerate creating and implementing solutions.</p>

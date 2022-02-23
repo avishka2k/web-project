@@ -64,7 +64,8 @@
         </div>
         <div class="about-box-right">
             <h2>Build Confidence</h2>
-            <p>Confusion is a symptom that makes you feel unable to think clearly. You may find it difficult to focus or make decisions. Confusion is also known as confusion. In its extreme state, it is called delirium. For short-term cases of mild confusion caused by nutritional imbalances, dehydration, or sleep deprivation, you might find relief in treatment at home.</p>
+            <p>Confidence comes from feelings of well-being, acceptance of your body and mind confidence in your own abilities, skills and experiences.Positive thinking, exercise, training, knowledge, and talking to other people are all effective ways to improve or enhance your confidence levels. 
+            </p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
             </div>
@@ -78,7 +79,7 @@
         </div>
         <div class="about-box-right">
             <h2>Get help with eating habits</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur molestias blanditiis omnis! Rem officia optio repellendus eum harum voluptatum! Facere, quo officia. Odit ratione esse velit officia sequi inventore eum?</p>
+            <p>The term eating habits refers to why and how people eat, the foods they eat and the people they eat, as well as how people receive, store, use and discard food. Personal, social, cultural, religious, economic, environmental and political factors all influence people's eating habits.</p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
             </div>
@@ -92,7 +93,7 @@
         </div>
         <div class="about-box-right">
             <h2>We'll guide you</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur molestias blanditiis omnis! Rem officia optio repellendus eum harum voluptatum! Facere, quo officia. Odit ratione esse velit officia sequi inventore eum?</p>
+            <p>Yes, we can guide you. We are very happy to guide you to a healthier life. Having a healthy lifestyle means choosing to live your life as healthy as possible. There are a few things you need to do to start life this way. We will help you to get them correctly.</p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
             </div>
@@ -106,7 +107,7 @@
         </div>
         <div class="about-box-right">
             <h2>We'll help you start</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur molestias blanditiis omnis! Rem officia optio repellendus eum harum voluptatum! Facere, quo officia. Odit ratione esse velit officia sequi inventore eum?</p>
+            <p>Starting anything first is the hardest part. A lot of people miss work because they just can't get clearly started. Do not be afraid about it. We look forward to being with you in any difficult situation. We are always committed to helping you . People who have been with us for a long time and who have been helped by us will be your witnesses to that. We hope you will join us in helping everyone we hope to live a healthier life. We look forward to starting with you.</p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
             </div>

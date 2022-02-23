@@ -243,7 +243,84 @@
 }
 
 @media screen and (max-width:800px){
+
+    .fithit-hero {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    
+    .fithit-hero {
+        height: 50vh;
+    }
+    .fithit-hero-content h1{
+        font-size: 32px;
+        line-height: 143%;
+    }
+
+    .fithit-hero-content p {
+        font-size: 16px;
+        line-height: 132.3%;
+    }
+
     .about-box-content {
         display: block;
+    }
+
+    .section-head {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .fithit-about-head h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .section-head-sub {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .about-box-right h2 {
+        font-size: 22px;
+        line-height: 26px;
+        margin: 24px 0;
+    }
+
+    .about-box-right p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .about-box-btn {
+        font-size: 24px;
+        margin: 24px 0;
+    }
+
+    .about-box-right {
+        margin: 0 2rem;
+      }
+
+    .fithit-end p{
+        font-size: 18px;
+        line-height: 21px;
+        margin: 16px 0;
+    }
+
+    .fithit-end {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .fithit-end h2 {
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 40px;        
+    }
+
+    .join-end{
+        margin: 30px 0;
     }
 }

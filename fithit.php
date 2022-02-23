@@ -121,7 +121,7 @@
         </div>
         <div class="about-box-right">
             <h2>Be inspired by improvements</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur molestias blanditiis omnis! Rem officia optio repellendus eum harum voluptatum! Facere, quo officia. Odit ratione esse velit officia sequi inventore eum?</p>
+            <p>Make it vivid in your life with your improvements– Use analogies, share examples and tell stories to help people see the change you did for themselves. Inspiration is all about stimulating, motivating, encouraging and influencing others to action. What they see and believe, they will do. Connect change to something bigger. Inspire others tobe healthy and be inspired to live a healthy life. </p>
             <div class="about-box-btn">
                 <a href="">Join for free</a>
             </div>

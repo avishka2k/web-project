@@ -67,15 +67,15 @@
 
     <div class="contact information contact-form">
         <div class="contact-right-content">
-            <form action="" method="POST">
+            <form action="includes/php/contact-form.php" method="POST">
                 <label for="name">Name</label>
-                <input type="text" placeholder="Enter your name.." required>
+                <input type="text" placeholder="Enter your name..." required>
 
                 <label for="email-1">Email</label>
                 <input type="email" placeholder="Enter email address..." required>
 
                 <label for="massage">Your message</label>
-                <textarea rows="5" id="subject" name="subject" placeholder="Write something.."></textarea>
+                <textarea rows="5" id="subject" name="subject" placeholder="Write something..."></textarea>
 
                 <button type="submit" class="hero-btn green-btn">subscribe</button>
             </form>

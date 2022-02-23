@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Source+Sans+Pro" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Source+Sans+Pro" rel="stylesheet">
     <link rel="stylesheet" href="../css/thanks.css">
-  <title>Document</title>
+    <title>Document</title>
 </head>
 <body>
+    
 <?php
 
-if(isset($_POST['email'])) {
+if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['subject'])) {
+
     include 'config.php';
 
     function validate($data) {
@@ -21,13 +23,15 @@ if(isset($_POST['email'])) {
       return $data;
     }
 
+    $name = validate($_POST['name']);
     $email = validate($_POST['email']);
+    $subject = validate($_POST['subject']);
 
 
-    if(empty($email)) {
+    if(empty($name) || empty($email) || empty($subject)) {
       header("Location: index.php");
         } else {
-            $sql = "insert into NewsLetter(email) values('$email')";
+            $sql = "insert into contact-form(name, email, subject) values('$name','$email','$subject')";
             $res = mysqli_query($conn, $sql);
 
             if($res) {
@@ -57,5 +61,3 @@ if(isset($_POST['email'])) {
     </div>
 </body>
 </html>
-
-

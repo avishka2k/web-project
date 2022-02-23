@@ -42,7 +42,7 @@
     <h2>Be a healthy happy and strong person</h2>
     <p class="section-head-sub">Take control over your life with physical fullfilment and be happy.</p>
 </div>
-
+<div class="about-body">
 <div class="about-box">
     <div class="about-box-content">
         <div class="about-box-left">
@@ -141,6 +141,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 <!--========About Section End========-->
 

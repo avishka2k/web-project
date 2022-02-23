@@ -105,6 +105,7 @@
     position: relative;
     margin-top: 30px;
     margin-bottom: 40px;
+    
 }
 
 .section-head{
@@ -115,6 +116,7 @@
     line-height: 21px;
     text-align: center;
     margin-top: 40px;
+    color: #215A51;
 }
 
 .fithit-about-head h2{

@@ -105,11 +105,29 @@
 
 .meals-card-cont {
     display: flex;
-    background-color: var(--primary-color);
     align-items: center;
     margin: 2rem;
     justify-content: space-between;
     border-radius: 3px;
+    border-style: solid;
+    border-color: #215A51;
+    background-color: #E9EDF6;
+
+}
+
+.meals-btn{
+    background-color: var(--primary-color);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 22px;
+    width: 181px;
+    height: 60px;
+}
+
+.meals-btn-cont{
+    color:#FFFFFF;
 }
 .meals-card-img img {
     width: 293px;
@@ -128,8 +146,8 @@
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
-    line-height: 75px;
-    color: #FFFFFF;
+    line-height: 55px;
+    color: gray;
     padding-bottom: 1rem;
 }
 
@@ -139,7 +157,7 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 132.3%;
-    color: #FFFFFF;
+    color: black;
     padding-bottom: 4rem;
 }
 

@@ -110,7 +110,7 @@
     justify-content: space-between;
     border-radius: 3px;
     border-style: solid;
-    border-color: #215A51;
+    border-color: #ffffff;
     background-color: #E9EDF6;
 
 }
@@ -124,6 +124,7 @@
     padding: 14px 22px;
     width: 181px;
     height: 60px;
+    border-radius:5px;
 }
 
 .meals-btn-cont{
@@ -162,11 +163,11 @@
 }
 
 .meals-card-left a {
-    border: 2px solid #FFFFFF;
+    
     box-sizing: border-box;
     box-shadow: 0px 2.79346px 0.931153px -1.86231px rgba(0, 0, 0, 0.2);
     filter: drop-shadow(0px 0.931153px 4.65577px rgba(0, 0, 0, 0.12)) drop-shadow(0px 1.86231px 0px rgba(0, 0, 0, 0.14));
-    border-radius: 4px;
+    border-radius: 6px;
     color: #FFFFFF;
     font-family: Roboto;
     font-style: normal;
@@ -190,9 +191,9 @@
     font-family: 'Playfair Display', serif;
     font-style: italic;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 40px;
     line-height: 132.3%;
-    color: var(--primary-color);
+    color: gray;
 }
 
 .meals-result-images{
@@ -224,7 +225,7 @@
 .meals-reality-card-all{
     display:flex;
     width: 100%;
-    max-width: 41rem;
+    max-width: 42rem;
     margin: 0 auto; 
     align-items: center;
 
@@ -232,6 +233,7 @@
 .meals-reality-card{
     background-color: var(--primary-color);
     margin: 1rem;
+    border-radius: 4px;
 }
 
 .meals-reality-card-content{
@@ -246,7 +248,7 @@
     font-size: 25px;
     line-height: 132.3%;
     text-align: center;
-    color: #FFFFFF;
+    color: #C1B6B6A1;
 
 }
 
@@ -263,11 +265,13 @@
     font-size: 18px;
     line-height: 132.3%;
     margin: 9px;
+    display: inline flow-root list-item;
 }
 .meals-reality-card-btn{
     
     text-align: center;
     padding-bottom: 3rem;
+    border-radius: 4px;
 
 }
 .meals-reality-card-btn a{
@@ -313,7 +317,7 @@
 
     .meals-section-h {
         font-weight: bold;
-        font-size: 44px;
+        font-size: 25px;
         line-height: 40px;
     }
     .meals-section-about-p {
@@ -362,6 +366,7 @@
         font-weight: bold;
         font-size: 30px;
         line-height: 141.8%;
+        color: #215A51;
     }
 
     .meals-result-img-card {
@@ -374,4 +379,7 @@
     .meals-section-h {
         padding: 0 11px;
     }
+}
+.meals-section-h h1{
+    font-size: 35px;
 }

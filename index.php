@@ -39,8 +39,8 @@
 
         <div class="myslide fade">
             <div class="txt">
-                <h1>Life changing<br>Exercises</h1>
-                <p>Live mentally & physicaly healthier with Loreum</p>
+                <h1>Workout days are the<br>Best</h1>
+                <p>Live mentally & physicaly healthier</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
                 </div>
@@ -50,8 +50,8 @@
         
         <div class="myslide fade">
             <div class="txt">
-                <h1>IMAGE 3</h1>
-                <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+                <h1>Healthy Foods are better</h1>
+                <p>You are what you eat,<br> So don't be fast, cheap, easy, or fake</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
                 </div>
@@ -61,8 +61,8 @@
         
         <div class="myslide fade">
             <div class="txt">
-                <h1>IMAGE 4</h1>
-                <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+                <h1>Fresh with Greenary</h1>
+                <p>Keep yourself calm, <br> We will help you to get there. <br> Hurry up and join us</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
                 </div>
@@ -72,8 +72,8 @@
         
         <div class="myslide fade">
             <div class="txt">
-                <h1>IMAGE 5</h1>
-                <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+                <h1>Meditation and Environment</h1>
+                <p>Getting deep breaths in a soothing environment <br> Will make you feel you are a happy soul</p>
                 <div class="slide-btn">
                     <a href="">LET'S WORK</a>
                 </div>

@@ -121,7 +121,7 @@ but you have to start to be great.”</h1>
     <div class="meals-reality-card-all">
     <div class="meals-reality-card">
         <div class="meals-reality-card-content">
-            <h2>What is included </h2>
+            <h2>What is mainly included in the challenge</h2>
            <ul>
                <li> Weight loss program </li>
                <li> Free guidance and follow-up</li>
@@ -138,7 +138,7 @@ but you have to start to be great.”</h1>
 
     <div class="meals-reality-card">
         <div class="meals-reality-card-content">
-            <h2>What is included </h2>
+            <h2>Curricular activities included in the challenge </h2>
            <ul>
                <li> Active Lifestyle, and Community </li>
                <li> Learning & Productivity </li>

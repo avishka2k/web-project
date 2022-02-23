@@ -103,7 +103,7 @@
         <img src="images/body-about.svg">
     </div>
     <div class="right-col">
-        <p class="aboutus headline">About</p>
+        <p class="aboutus headline">About </p>
         <h1 class="h-tag">We inspire people to <br>Healthy life.</h1>
         <p class="ph01 ph">We inspire people to active, fit & financialy balanced life by
         offering them business opportunity and.</p>

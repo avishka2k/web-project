@@ -50,14 +50,15 @@
       <div class="tab-content" id="myTabContent">
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">    
             <div class="about-who-we-are">
-              <div class="tab-pane-home"><p>Lorem, ipsum dolor sit amet consectetur 
-                adipisicing elit. Similique hic distinctio sapiente nobis maxime, 
-                inventore cumque nulla repellendus, impedit, fuga possimus itaque 
-                ad error dolor tempore nesciunt voluptatibus quaerat in.
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Quisquam quidem molestias ratione asperiores neque fugit quaerat 
-                sint. Velit accusamus modi libero nesciunt. Aut asperiores iusto 
-                aliquam voluptate debitis, doloremque unde.</p>
+              <div class="tab-pane-home"><p>Welcome to Pro-Fitness, your number one source for all things on healthy life tips. We're dedicated to giving you the very best of service with a focus on customer service and uniqueness. <br><br>
+Founded in 2022 and has come a long way for this little period. Being more friendly and giving a satisfied service for our customers and improving the health of the people in the society to uplift the sustainability in health of the society and Ensure healthy lives and promote well-being for all at all ages <br> <p class="aboutus-us-sustainability">[Sustainability development goals <a class= "aboutus-sustainability" href="https://sdgs.un.org/goals/goal3"> Read More </a> ]</p>
+<br> 
+We are providing online job offers for our customers and 21-day life changing challenge to our subscribers which helps to reduce weight and start a new life. 
+<br>
+<br>
+We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.
+ 
+</p>
               </div>
               <div class="tab-pane-image">
                   <img src="images/about.svg" alt="">
@@ -124,8 +125,8 @@
             <div class="about-profile-card">
                <div class="about-profile-content">
                    <img src="images/Blog/profile1.jpg" alt="">
-                   <h3>Kalani kasturiyaaa</h3>
-                   <p>Web developer</p>
+                   <h3>A.Prabath Gamini</h3>
+                   <p>co-founder</p>
                    <div class="about-card-social">
                    <ul>
                         <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
@@ -139,8 +140,8 @@
             <div class="about-profile-card">
                <div class="about-profile-content">
                    <img src="images/Blog/profile1.jpg" alt="">
-                   <h3>Kalani kasturiyaaa</h3>
-                   <p>Web developer</p>
+                   <h3>S.D.Wickramarachchi</h3>
+                   <p>co-founder</p>
                    <div class="about-card-social">
                    <ul>
                         <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
@@ -154,8 +155,8 @@
             <div class="about-profile-card">
                <div class="about-profile-content">
                    <img src="images/Blog/profile1.jpg" alt="">
-                   <h3>Kalani kasturiyaaa</h3>
-                   <p>Web developer</p>
+                   <h3>I.U.Senarathne</h3>
+                   <p>co-founder</p>
                    <div class="about-card-social">
                    <ul>
                         <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
@@ -171,8 +172,8 @@
             <div class="about-profile-card">
                <div class="about-profile-content">
                    <img src="images/Blog/profile1.jpg" alt="">
-                   <h3>Kalani kasturiyaaa</h3>
-                   <p>Web developer</p>
+                   <h3>A.Pramodya</h3>
+                   <p>co-founder</p>
                    <div class="about-card-social">
                    <ul>
                         <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
@@ -186,8 +187,8 @@
             <div class="about-profile-card">
                <div class="about-profile-content">
                    <img src="images/Blog/profile1.jpg" alt="">
-                   <h3>Kalani kasturiyaaa</h3>
-                   <p>Web developer</p>
+                   <h3>K.R.Kasthuriarachchi</h3>
+                   <p>co-founder</p>
                    <div class="about-card-social">
                    <ul>
                         <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>

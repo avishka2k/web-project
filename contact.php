@@ -32,8 +32,11 @@
 
 
 
-<div class="header contact-hero-txt">
-<h1>We're here for you!</h1>
+<div class="header">
+<h1>We're Here to Help You
+    <br>
+    Come and Join With Us
+</h1>
 </div>
 
 
@@ -47,7 +50,7 @@
     <div class="contact-left">
     <h2>Contact information</h2>
       <div class="contact-left-address">
-        
+
         <ul>
            <li><i class="fa fa-phone"></i> +940115445000</li>
            <li><i class="fa fa-envelope"></i> inquiries@nsbm.ac.lk</li>
@@ -63,7 +66,7 @@
             <li><i class="fa fa-whatsapp"></i></li>
         </ul>
       </div>
-    </div>    
+    </div>
 
     <div class="contact information contact-form">
         <div class="contact-right-content">
@@ -82,7 +85,7 @@
         </div>
     </div>
 </section>
-    
+
 
 <div class="location-part">
     <h2>Visit us</h2>

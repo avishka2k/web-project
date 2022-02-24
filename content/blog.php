@@ -5,10 +5,10 @@
        <meta name="viewport" content="width=device-width, initial-scale=1">
        <title>Blog</title>
        
-	    <link rel="stylesheet" type="text/css" href="../includes/css/blogstyle.css">
-        <link rel="stylesheet" type="text/css" href="../includes/css/footer.css">
-        <link rel="stylesheet" type="text/css" href="../includes/css/header.css">
-        <link rel="stylesheet" type="text/css" href="../includes/css/ScrollToTop.css">
+	    <link rel="stylesheet" type="text/css" href="./includes/css/blogstyle.css">
+        <link rel="stylesheet" type="text/css" href="./includes/css/footer.css">
+        <link rel="stylesheet" type="text/css" href="./includes/css/header.css">
+        <link rel="stylesheet" type="text/css" href="./includes/css/ScrollToTop.css">
         <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 
         
@@ -29,7 +29,7 @@
                 <span><i class="fi fi-rr-clock"></i><p>6 min read</p></span>
                  </div>
                 <div class="blog-profile">
-                    <img src="../images/Blog/profile1.jpg">
+                    <img src="./images/Blog/profile1.jpg">
                     <div class="blog-profile-name">
                     <h3>Isuru U. Senarathne</h3>
                     <p>Researcher</p>
@@ -37,15 +37,15 @@
                 </div>
                 <div class="blog-social">
                     <ul>
-                        <li><a href=""><img src="../images/Blog/facebook.svg" alt=""></a></li>
-                        <li><a href=""><img src="../images/Blog/instagram.svg" alt=""></a></li>
-                        <li><a href=""><img src="../images/Blog/twitter.svg" alt=""></a></li>
+                        <li><a href=""><img src="./images/Blog/facebook.svg" alt=""></a></li>
+                        <li><a href=""><img src="./images/Blog/instagram.svg" alt=""></a></li>
+                        <li><a href=""><img src="./images/Blog/twitter.svg" alt=""></a></li>
                     </ul>
                 </div>
 
              </div>
              <div class="blog-hero-right">
-                 <img src="../images/Blog/bg_1 hero.jpg">
+                 <img src="./images/Blog/bg_1 hero.jpg">
              </div>
          </div>
      </div>
@@ -80,7 +80,7 @@
             and gloomy. A healthy individual, on the other hand, appears to be happy in his life, forming 
             relationships with others, and displaying love, kindness, and closeness.
         </p>
-        <img src="../images/Blog/bg_2.jpg" alt="">
+        <img src="./images/Blog/bg_2.jpg" alt="">
     </div>
 
     <div class="blog-cantent01">
@@ -164,7 +164,7 @@
             arthritis. Here are the facts about how excessive junk food consumption affects your body.
         </p>
 
-    <img src="../images/Blog/bg_3.jpg" alt="">h
+    <img src="./images/Blog/bg_3.jpg" alt="">h
             <span> Junk Food Affects Your Energy Levels</span>
             <p>Junk food doesn't contain the nutrients your body needs to stay healthy. As a result, you may feel chronically 
                 fatigued and lack the energy you need to complete daily tasks. The high levels of sugar in junk food puts your 
@@ -219,7 +219,7 @@
         </p>
         <p>Need more convincing to get moving? Check out these seven ways that exercise can lead to a happier, healthier you.</p>
 
-    <img src="../images/Blog/bg_4.jpg" alt="">
+    <img src="./images/Blog/bg_4.jpg" alt="">
 
             <span> Exercise controls weight</span>
             <p>Exercise can help prevent excess weight gain or help maintain weight loss. When you engage in physical activity, 
@@ -335,11 +335,11 @@
      <div class="card-collect-row">
         <div class="related-card">
             <div class="card-collect-col">
-            <img class="main" src="../images/Blog/blog1.svg" alt="">
+            <img class="main" src="./images/Blog/blog1.svg" alt="">
             <div class="related-card-left">
                 <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
                 <div class="card-profile">
-                <img src="../images/Blog/profile1.jpg" alt="" class="">
+                <img src="./images/Blog/profile1.jpg" alt="" class="">
                 <p>3 min read</p>
                 </div>
             </div>
@@ -347,11 +347,11 @@
         </div>
         <div class="related-card">
             <div class="card-collect-col">
-            <img class="main" src="../images/Blog/blog2.svg" alt="">
+            <img class="main" src="./images/Blog/blog2.svg" alt="">
             <div class="related-card-left">
                 <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
                 <div class="card-profile">
-                <img src="../images/Blog/profile1.jpg" alt="" class="">
+                <img src="./images/Blog/profile1.jpg" alt="" class="">
                 <p>3 min read</p>
                 </div>
             </div>
@@ -362,11 +362,11 @@
     <div class="card-collect-row">
         <div class="related-card">
             <div class="card-collect-col">
-            <img class="main" src="../images/Blog/blog3.svg" alt="">
+            <img class="main" src="./images/Blog/blog3.svg" alt="">
             <div class="related-card-left">
                 <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
                 <div class="card-profile">
-                <img src="../images/Blog/profile1.jpg" alt="" class="">
+                <img src="./images/Blog/profile1.jpg" alt="" class="">
                 <p>3 min read</p>
                 </div>
             </div>
@@ -374,11 +374,11 @@
         </div>
         <div class="related-card">
             <div class="card-collect-col">
-            <img class="main" src="../images/Blog/blog1.svg" alt="">
+            <img class="main" src="./images/Blog/blog1.svg" alt="">
             <div class="related-card-left">
                 <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
                 <div class="card-profile">
-                <img src="../images/Blog/profile1.jpg" alt="" class="">
+                <img src="./images/Blog/profile1.jpg" alt="" class="">
                 <p>3 min read</p>
                 </div>
             </div>

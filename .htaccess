@@ -1,6 +1,6 @@
 RewriteEngine on  
   
-RewriteRule ^Blog  blog.php [NC,L]
+RewriteRule ^Blog  content/blog.php [NC,L]
 RewriteRule ^FitHit fithit.php [NC,L]
 RewriteRule ^Contact  contact.php [NC,L]
 RewriteRule ^Cookies  cookies.php [NC,L] 

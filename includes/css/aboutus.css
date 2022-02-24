@@ -57,8 +57,13 @@
 .tab-pane-home {
     max-width: 40rem;
     padding-right: 4rem;
+    
 }
 
+.tab-pane-home p{
+    font-size: 15px;
+    color: #34495e;
+}
 .nav-div {
     justify-content: space-between;
     margin: auto;
@@ -181,4 +186,14 @@
 }
 .accordion-item-header.active + .accordion-item-body {
     max-height: 1000px;
+}
+
+.aboutus-sustainability{
+    color:#34495e;
+    font-size:10px;
+}
+
+.aboutus-sustainability{
+
+    color: #707070;
 }

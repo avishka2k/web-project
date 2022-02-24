@@ -2,7 +2,7 @@
 		<div class="navbars navbar-pager">
     <div class="containers">
       <div class="logo" id="logo">
-        <a href="index">LogoHere</a>
+        <a href="index"><img src="images/logo.png" alt="logo"> </a>
       </div>
           <img class="mobile-menu menu-btn" id="mobile-cta" src="images/mobile-menu.svg">    
         <nav>    

@@ -20,16 +20,25 @@
     background-color: var(--primary-color);
     width: 100%;
     position: relative;
-    height: 100vh;   
+    height: 100vh;  
 }
 
-.fithit-hero-content{
+.fithit-hero-content{ 
     text-align: center;
     position: relative;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.fithit-hero-bg-img {
+    background: url(../../images/fithit-about/fithit-hero.png); 
+    background-repeat: no-repeat;
+    width: initial;
+    height: inherit;
+    background-position: center;
+}
+
 
 .fithit-hero-content h1{ 
     font-family: Playfair Display;
@@ -38,12 +47,13 @@
     font-size: 60px;
     line-height: 80px;
     text-align: center;
-    color:#FFFFFF;
+    color:#215A51;
 }
 
 .fithit-hero-content p{
     margin-top: 20PX;
     text-align: center;
+    color: #ffffff;
 }
 
 .join{

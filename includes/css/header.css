@@ -23,12 +23,18 @@ header{
 }
 
 
+
 .logo a{
     position: absolute;
     font-size: 20px;
     text-decoration: none;
 	font-family: sans-serif;
 }
+
+.logo img {
+	width: 63%;
+}
+
 
 nav ul {
 	float: right;

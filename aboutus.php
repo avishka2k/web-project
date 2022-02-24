@@ -51,9 +51,8 @@
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">    
             <div class="about-who-we-are">
               <div class="tab-pane-home"><p>Welcome to Pro-Fitness, your number one source for all things on healthy life tips. We're dedicated to giving you the very best of service with a focus on customer service and uniqueness. <br><br>
-Founded in 2022 and has come a long way for this little period. Being more friendly and giving a satisfied service for our customers and improving the health of the people in the society to uplift the sustainability in health of the society [Sustainability development goals]
+Founded in 2022 and has come a long way for this little period. Being more friendly and giving a satisfied service for our customers and improving the health of the people in the society to uplift the sustainability in health of the society and Ensure healthy lives and promote well-being for all at all ages <br> <p class="aboutus-us-sustainability">[Sustainability development goals <a class= "aboutus-sustainability" href="https://sdgs.un.org/goals/goal3"> Read More </a> ]</p>
 <br> 
-<br>
 We are providing online job offers for our customers and 21-day life changing challenge to our subscribers which helps to reduce weight and start a new life. 
 <br>
 <br>

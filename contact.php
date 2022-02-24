@@ -33,7 +33,10 @@
 
 
 <div class="header">
-<h1>We're here for you!</h1>
+<h1>We're Here to Help You
+    <br>
+    Come and Join With Us
+</h1>
 </div>
 
 

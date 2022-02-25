@@ -61,21 +61,55 @@
     margin-bottom: 45px;
     color: #5E5E5E;
 }
-.section-box-btn  {
+.offered{
     background-color: var(--primary-color);
-    border: 2px solid var(--primary-color);
+    border: 0;
     border-radius: 4px;
-    padding: 1% 3%;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
     display: inline-block;
+    font-size: 16px;
+    margin: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: auto;
 }
-
+.offered a{
+    text-align: center;
+    text-decoration: none;
+}
+.offered:hover{
+	background-color: #414040;
+    transition: 0.4s;
+}
+.offered span{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.2s;
+}
+.offered span:after{
+    content: '\2192';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 25px;
+    transition: 0.4s;
+}
+.offered:hover span{
+    padding-right: 25px;
+}
+.offered:hover span:after{
+    color: #ffffff;
+    opacity: 1;
+    right: 0;
+}
 .video-ph {
     margin-top: 30px;
 }
-.section-box-btn a{
-    text-decoration: none;
-    color: #fff;
-}
+
 .services p, .services h1{
     text-align: center;
 }
@@ -133,17 +167,50 @@
     line-height: 115%;
 }
 
-.services .img-on-txt-btn {
-    text-decoration: none;
-    color: #FFFFFF;
-    border: 2px solid #FFFFFF;
+.services-btn{
+    background-color:transparent;
+    border-width: medium;
+    border-color: white;
     border-radius: 4px;
-    font-family: Roboto;
-    font-size: 18px;
-    line-height: 132.3%;
-    padding: 15px 27.9346px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: auto;
 }
-
+.services-btn:hover{
+    transition: 0.4s;
+}
+.services-btn span{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.2s;
+}
+.services-btn span:after{
+    content: '\2192';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 25px;
+    transition: 0.4s;
+}
+.services-btn:hover span{
+    padding-right: 25px;
+}
+.services-btn:hover span:after{
+    color: #ffffff;
+    opacity: 1;
+    right: 0;
+}
+.services-btn a{
+    text-align: center;
+    text-decoration: none;
+}
 .services .sr-mobile {
     display: none;
 }

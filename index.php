@@ -111,9 +111,11 @@
         What can be more peaceful than earning extra cents while
         you’re home in this situation!
         We’ll give you that opportunity. be connected to get offered!</p>
-        <div class="section-box-btn">
-            <a href="">Get Offered!</a>
-        </div>
+        <button class="offered">
+            <span>
+                <a href="" style="color:white">Get Offered!</a>
+            </span>
+        </button>
     </div>
 </section>
 <!--========About us Section End========-->
@@ -131,7 +133,11 @@
             <img src="images/service01.svg">
             <div class="img-on-txt">
             <h2>FitHit</h2>
-            <a href="" class="img-on-txt-btn">Know More</a>
+            <button class="services-btn">
+            <span>
+                <a href="" style="color:white">Know More</a>
+            </span>
+            </button>
             </div>
         </div>
         <div class="img-row2">
@@ -139,18 +145,26 @@
                 <img src="images/service02.svg">
                 <div class="img-on-txt">
                     <h2>FitHit</h2>
-                    <a href="" class="img-on-txt-btn">Know More</a>
+                    <button class="services-btn">
+                    <span>
+                    <a href="" style="color:white">Know More</a>
+                    </span>
+                    </button>
                 </div>
                </div>
                <div class="img3-content">
                 <img class="img2" src="images/service02.svg">
                 <div class="img-on-txt">
                     <h2>FitHit</h2>
-                    <a href="" class="img-on-txt-btn">Know More</a>
+                    <button class="services-btn">
+                    <span>
+                    <a href="" style="color:white">Know More</a>
+                    </span>
+                    </button>
                     </div>
                </div>
             </div>
-        </div>
+    </div>
         <div class="sr-mobile sr-mobile-top">
             <ul>
                 <li><a href="">Fit for Life</li>
@@ -187,9 +201,11 @@
            <p class="ph02 ph">What you have to do is just fill out our contact form & wait,
                     We’ll contact you in no time with huge opportunities.
                     This could be the opportunity you've been waiting for!</p>
-        <div class="section-box-btn">
-            <a href="">Fill Form</a>
-        </div>
+                    <button class="offered">
+                    <span>
+                    <a href="" style="color:white">Fill Form</a>
+                    </span>
+                    </button>
     </div>
     <div class="left-col">
         <img src="images/phone.svg"> 
@@ -211,9 +227,11 @@
             lives and want to be their own boss or anyone who just wants to
         be a part of something positive are more than welcome.</p>
         <p class="ph02 wonder-ph">Every Wednesday evening at 9pm we offer the opportunity to be part of something great!</p>
-        <div class="section-box-btn">
-            <a href="">Fill Form</a>
-        </div>
+        <button class="offered">
+            <span>
+            <a href="" style="color:white">Fill Form</a>
+            </span>
+        </button>
     </div>
 </section>
 <!--========Wonder us Section End========-->
@@ -226,9 +244,8 @@
         <p class="ph01 ph video-ph">Not yet sure about what we do here? This short video will break<br>your confusion, and will lead you to a ‘Door of Opportunity’!</p>
     </div>
         <div class="video-top animation-div">
-            <video width="854px" height="480px" controls>
-                <source src="movie.mp4" type="video/mp4">
-            </video>
+        <iframe width="854px" height="480px" src="https://www.youtube.com/embed/QqC_Q3KlvpM?autoplay=1&mute=1">
+        </iframe>
         </div>
 </section>
 <!--========video Section End========-->
@@ -253,9 +270,11 @@
                     <li>Do you want a routine for staying refreshed?</li>
                 </ul>
             <h3>Then this book is the right fit for you.</h3>
-        <div class="section-box-btn">
-            <a href="">Download</a>
-        </div>
+            <button class="offered">
+            <span>
+            <a href="" style="color:white">Download</a>
+            </span>
+            </button>
     </div>
 </section>
 <!--========Freeble Section End========-->

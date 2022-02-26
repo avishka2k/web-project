@@ -12,7 +12,7 @@
     
 <?php
 
-if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['subject'])) {
+if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['message'])) {
 
     include 'config.php';
 
@@ -25,13 +25,13 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['subject'])) 
 
     $name = validate($_POST['name']);
     $email = validate($_POST['email']);
-    $subject = validate($_POST['subject']);
+    $message = validate($_POST['message']);
 
 
-    if(empty($name) || empty($email) || empty($subject)) {
+    if(empty($name) || empty($email) || empty($message)) {
       header("Location: index.php");
         } else {
-            $sql = "insert into contact-form(name, email, subject) values('$name','$email','$subject')";
+            $sql = "insert into contact-form(name, email, message) values('$name','$email','$message')";
             $res = mysqli_query($conn, $sql);
 
             if($res) {

@@ -236,13 +236,21 @@
     margin-right: 15%;
 }
 
-
-
 .Opportunity.section-box  {
     display: flex;
     margin-left: auto;
     margin-right: auto;
  }
+
+ .op-top-img {
+    position: absolute;
+    left: 77%;
+    top: 42%;
+}
+
+.Opportunity .left-col {
+   width: 100%;
+}
 
  /*---------wonder women----------*/
 
@@ -538,7 +546,7 @@
     }
 
     .Aboutus img {
-        width: 60%;
+        width: 100%;
         margin-top: 5rem;
     }
 

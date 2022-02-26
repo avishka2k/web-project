@@ -42,7 +42,6 @@
 
 .nav-item {
     display: inline-block;
-    margin: auto;
 }
 
 .tab-pane-image img {
@@ -55,9 +54,10 @@
 }
 
 .tab-pane-home {
-    max-width: 40rem;
-    padding-right: 4rem;
-    
+    max-width: 30rem;
+    padding-right: 1rem;
+    text-align: justify;
+    margin-top: 7rem;
 }
 
 .tab-pane-home p{
@@ -84,6 +84,16 @@
 .tab-pane {
     max-width: 60rem;
     margin: auto;
+}
+
+.aboutus-us-sustainability-bt {
+    padding-top: 3rem;
+    text-align: justify;
+}
+
+.aboutus-us-sustainability-bt p {
+    font-size: 15px;
+    color: #34495e;
 }
 
 .about-profile-content {
@@ -131,6 +141,10 @@
 
 .tab-pane.fade {
     padding: 5rem 0;
+}
+
+.tab-pane.fade.one {
+    padding: 0 0 5rem 0;
 }
 
 /*accordion*/
@@ -190,10 +204,5 @@
 
 .aboutus-sustainability{
     color:#34495e;
-    font-size:10px;
-}
-
-.aboutus-sustainability{
-
-    color: #707070;
+    font-size:13px;
 }

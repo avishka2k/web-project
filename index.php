@@ -209,7 +209,7 @@
     </div>
     <div class="left-col">
         <img src="images/phone.svg"> 
-
+        <img class="op-top-img" src="images/opportunity-form.svg" alt="">
     </div>    
 </section>
 <!--========Opportunity Section End========-->
@@ -258,7 +258,7 @@
     </div>
 <section class="freeble section-box row-spacing-free animation-div">
     <div class="left-col">
-        <img src="images/download.svg" width="472px" height="484.75px">
+        <img src="images/download.png" width="472px" height="484.75px">
     </div>
     <div class="frreble-right-col">
         <h2>Get our free Magazine</h2>

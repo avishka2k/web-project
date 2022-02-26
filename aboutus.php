@@ -67,7 +67,7 @@
                     </p>
               </div>
               <div class="tab-pane-image">
-                  <img src="images/about.svg" alt="">
+                  <img src="images/team.jpg" alt="">
               </div>
             </div>
       </div>

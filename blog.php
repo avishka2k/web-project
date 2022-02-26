@@ -12,7 +12,7 @@
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 <!-- Custom styles for this template -->
-<link rel="stylesheet" type="text/css" href="includes/css/blog-index.css">
+<link rel="stylesheet" type="text/css" href="includes/css/blogmain.css">
 <link rel="stylesheet" type="text/css" href="includes/css/header.css">
 <link rel="stylesheet" type="text/css" href="includes/css/footer.css">
 <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>

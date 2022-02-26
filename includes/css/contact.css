@@ -10,7 +10,9 @@ body {
     height: 100vh;       
 }
 
-
+.contcat-hero-bg {
+    background: url(../../images/contact-hero.jpeg);
+}
 
 .contact-hero-txt h1 {  
     color: #FFFFFF;
@@ -19,14 +21,13 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family:'Playfair Display', serif;
+    font-family:'Playfair Display';
     font-style: normal;
     font-weight: 900;
-    line-height:89px;
+    line-height:80px;
     font-weight: 900;
-    font-size: 67px;
-
-text-align: center;
+    font-size: 60px;
+    text-align: center;
 }
 
 .contact-main {
@@ -216,10 +217,12 @@ input[type=text], input[type=email], textarea {
 
 .green-btn {
     border: none;
-    padding: 1rem 2rem;
+    padding: 10rem 2rem;
     margin-top: 1rem;
     background:#215A51;
     color: #FFFFFF;
+    font-size: 22px;
+    cursor:pointer;
 }
 
 .phone-number{

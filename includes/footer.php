@@ -3,11 +3,9 @@
       <div class="footer-row">
           <div class="footer-col about">
               <h5>About Us</h5>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Quibusdam, architecto voluptatem voluptatibus, at 
-                    blanditiis sit sed eveniet perspiciatis tempora earum 
-                    laudantium nam possimus quis optio dolorem id tenetur 
-                    expedita labore.
+                  <p>Welcome to U-Healthy, your number one source for all things on healthy 
+                  life tips. We're dedicated to giving you the very best of service with 
+                  a focus on customer service and uniqueness.
                   </p>
           </div>
           <div class="footer-col">

@@ -218,6 +218,9 @@ nav ul {
 	.myslide{
 		height: 500px;
 	}
+	.logo img {
+		width: 40%;
+	}
 	.txt{
 		letter-spacing: 2px;
 		line-height: 25px;
@@ -236,7 +239,7 @@ nav ul {
 	}
 
 	.txt h1{
-		font-size: 40px;
+		font-size: 35px;
 	}
 	.txt p{
 		font-size: 13px;

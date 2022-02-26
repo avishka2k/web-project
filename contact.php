@@ -31,12 +31,13 @@
 <!--- contact us ---->
 
 
-
-<div class="header">
-<h1>We're Here to Help You
-    <br>
-    Come and Join With Us
-</h1>
+<div class="contcat-hero-bg">
+    <div class="header contact-hero-txt">
+        <h1>We're Here to Help You
+        <br>
+        Come and Join With Us
+        </h1>
+    </div>
 </div>
 
 
@@ -72,13 +73,13 @@
         <div class="contact-right-content">
             <form action="includes/php/contact-form.php" method="POST">
                 <label for="name">Name</label>
-                <input type="text" placeholder="Enter your name..." required>
+                <input name="name" type="text" placeholder="Enter your name..." required>
 
-                <label for="email-1">Email</label>
-                <input type="email" placeholder="Enter email address..." required>
+                <label for="email">Email</label>
+                <input name="email" type="email" placeholder="Enter email address..." required>
 
                 <label for="massage">Your message</label>
-                <textarea rows="5" id="subject" name="subject" placeholder="Write something..."></textarea>
+                <textarea name="message" rows="5" id="subject" name="subject" placeholder="Write something..."></textarea>
 
                 <button type="submit" class="hero-btn green-btn">subscribe</button>
             </form>

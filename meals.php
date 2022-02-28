@@ -17,9 +17,11 @@
     <div class="meals-hero-content">
         <h1>Live mentally & physicaly healthier <br> with Us</h1>
         <p>Wanna get from Fat to Fit? <br> Start today</p>
-        <div class="meals-hero-btn">
-            <a href="">JOIN - it’s free</a>
-        </div>
+        <button class="join" style="vertical-align:middle">
+        <span>
+            <a href="" style="color: var(--primary-color);">Join - It's Free</a>
+        </span>
+        </button>
     </div>
 </div>
 <section class="meals-about">
@@ -37,9 +39,11 @@ and help you make positive changes in your life.</p>
             <h1>What is 21 Day Challenge?</h1>
             <p>It’s a 3 week campaign where we help you build Physical <br>
 & Meantal health aware lifestyle with proven results.This 21-Day Workout Challenge is a commitment to making physical health a priority by moving your body for 30 minutes each day for the 21 days in efforts to form a new healthy habit. That is it! There are no rules or stipulations around how you should or can do that.</p>
-    <div class="meals-btn">
-        <a class="meals-btn-cont" href="">Read More</a>
-    </div>
+        <button class="join-end" style="vertical-align:middle">
+        <span>
+            <a href="" style="color: white">Join - It's Free</a>
+        </span>
+        </button>
         </div>
     <div class="meals-card-img">
             <img src="images/service02.svg" alt="">
@@ -52,9 +56,11 @@ and help you make positive changes in your life.</p>
             <p>Everyone wanna be fit & happy, but not everyone knows how 
 to start. The goal of our 21 Day Challenge is to learn a new routine 
 with healthy & better habits in 21 days. Each day's assignment will take just 15-30 minutes. The goal is to develop social justice habits by heightening awareness and understanding of the critical lack of racial equity in our country, and to help accelerate creating and implementing solutions.</p>
-    <div class="meals-btn">
-        <a class="meals-btn-cont" href="">Read More</a>
-    </div>
+        <button class="join-end" style="vertical-align:middle">
+        <span>
+            <a href="" style="color: white">Join - It's Free</a>
+        </span>
+        </button>
         </div>
     <div class="meals-card-img">
             <img src="images/service02.svg" alt="">
@@ -65,11 +71,12 @@ with healthy & better habits in 21 days. Each day's assignment will take just 15
         <div class="meals-card-left">
             <h1>What we gonna do in 21 Day Challenge?</h1>
             <p>
-            Try something active outside- a walk/run, ice skating on Occom, cross-country skiingStand instead of sitting when doing work. Try a different random act of kindness each day. Add at least one vegetable or fruit to every meal. Limit the number of alcoholic beverages you consume- either count your drinks or set a drink limit. Do something kind for a friend each day- leave a note of encouragement for your roommate, bring a treat to your friend in the library, write a letter to an old friend> 
-            </p>
-    <div class="meals-btn">
-        <a class="meals-btn-cont" href="">Read More</a>
-    </div>
+            Try something active outside- a walk/run, ice skating on Occom, cross-country skiingStand instead of sitting when doing work. Try a different random act of kindness each day. Add at least one vegetable or fruit to every meal. Limit the number of alcoholic beverages you consume- either count your drinks or set a drink limit. Do something kind for a friend each day- leave a note of encouragement for your roommate, bring a treat to your friend in the library, write a letter to an old friend.</p>
+        <button class="join-end" style="vertical-align:middle">
+        <span>
+            <a href="" style="color: white">Join - It's Free</a>
+        </span>
+        </button>
         </div>
     <div class="meals-card-img">
             <img src="images/service02.svg" alt="">
@@ -130,9 +137,11 @@ but you have to start to be great.”</h1>
                <li> Weekly cooking class</li>
                <li> Daily online group lessons</li>
            </ul>
-           <div class="meals-reality-card-btn">
-               <a href=""> JOIN - it’s free</a>
-           </div>
+           <button class="join" style="vertical-align:middle">
+            <span>
+            <a href="" style="color: var(--primary-color);">Join - It's Free</a>
+            </span>
+            </button>
         </div>
     </div>
 
@@ -147,9 +156,11 @@ but you have to start to be great.”</h1>
                <li> Unplugging</li>
                <li> Increasing Exercise </li>
            </ul>
-           <div class="meals-reality-card-btn">
-               <a href=""> JOIN - it’s free</a>
-           </div>
+           <button class="join" style="vertical-align:middle">
+            <span>
+            <a href="" style="color: var(--primary-color);">Join - It's Free</a>
+            </span>
+            </button>
         </div>
     </div>
     </div>

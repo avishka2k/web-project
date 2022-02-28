@@ -41,7 +41,7 @@ and help you make positive changes in your life.</p>
 & Meantal health aware lifestyle with proven results.This 21-Day Workout Challenge is a commitment to making physical health a priority by moving your body for 30 minutes each day for the 21 days in efforts to form a new healthy habit. That is it! There are no rules or stipulations around how you should or can do that.</p>
         <button class="join-end" style="vertical-align:middle">
         <span>
-            <a href="" style="color: white">Join - It's Free</a>
+            <a href="" style="color: white">Read More</a>
         </span>
         </button>
         </div>
@@ -58,7 +58,7 @@ to start. The goal of our 21 Day Challenge is to learn a new routine
 with healthy & better habits in 21 days. Each day's assignment will take just 15-30 minutes. The goal is to develop social justice habits by heightening awareness and understanding of the critical lack of racial equity in our country, and to help accelerate creating and implementing solutions.</p>
         <button class="join-end" style="vertical-align:middle">
         <span>
-            <a href="" style="color: white">Join - It's Free</a>
+            <a href="" style="color: white">Read More</a>
         </span>
         </button>
         </div>
@@ -74,7 +74,7 @@ with healthy & better habits in 21 days. Each day's assignment will take just 15
             Try something active outside- a walk/run, ice skating on Occom, cross-country skiingStand instead of sitting when doing work. Try a different random act of kindness each day. Add at least one vegetable or fruit to every meal. Limit the number of alcoholic beverages you consume- either count your drinks or set a drink limit. Do something kind for a friend each day- leave a note of encouragement for your roommate, bring a treat to your friend in the library, write a letter to an old friend.</p>
         <button class="join-end" style="vertical-align:middle">
         <span>
-            <a href="" style="color: white">Join - It's Free</a>
+            <a href="" style="color: white">Read More</a>
         </span>
         </button>
         </div>

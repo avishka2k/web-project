@@ -11,12 +11,8 @@
 	<link rel="stylesheet" type="text/css" href="includes/css/header.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
     <link rel="stylesheet" type="text/css" href="includes/css/animation.css">
+    <link rel="stylesheet" type="text/css" href="includes/css/popup.css">
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
-    <style>
-        body {
-    background-color: #E9EDF6;
-}
-    </style>
 </head>
 <body>
 
@@ -100,11 +96,11 @@
 <!--========About us Section start========-->
 <section class="Aboutus section-box row-spacing animation-div">
     <div class="left-col">
-        <img src="images/body-about.svg">
+        <img src="images/body-about.jpg">
     </div>
     <div class="right-col">
         <p class="aboutus headline">About </p>
-        <h1 class="h-tag">We inspire people to <br>Healthy life.</h1>
+        <h1 class="h-tag">We inspire people to Healthy life.</h1>
         <p class="ph01 ph">We inspire people to active, fit & financialy balanced life by
         offering them business opportunity and.</p>
         <p class="ph02 ph">You can feel too-much relax when you have a side income-source.

@@ -137,11 +137,13 @@ but you have to start to be great.”</h1>
                <li> Weekly cooking class</li>
                <li> Daily online group lessons</li>
            </ul>
+           <div class="btn-center">
            <button class="join" style="vertical-align:middle">
             <span>
             <a href="" style="color: var(--primary-color);">Join - It's Free</a>
             </span>
             </button>
+            </div>
         </div>
     </div>
 
@@ -156,11 +158,13 @@ but you have to start to be great.”</h1>
                <li> Unplugging</li>
                <li> Increasing Exercise </li>
            </ul>
+           <div class="btn-center">
            <button class="join" style="vertical-align:middle">
             <span>
             <a href="" style="color: var(--primary-color);">Join - It's Free</a>
             </span>
             </button>
+        </div>
         </div>
     </div>
     </div>

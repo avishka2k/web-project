@@ -308,8 +308,11 @@
 }
 
 .meals-reality-card-content{
-    margin: 1rem;
-    
+    margin: 1rem; 
+}
+
+.btn-center {
+    text-align: center;
 }
 
 .meals-reality-card-content h2{

@@ -45,13 +45,61 @@
     color: #FFFFFF;
     padding-bottom: 3rem;
 }
-.meals-hero-btn a{
-    text-decoration: none;
-    background-color: #FFFFFF;
+
+.join{
+    background-color: #ffffff;
+    border: 0;
+    border-radius: 4px;
     color: var(--primary-color);
-    padding: 0.6rem;
-    border-radius: 2px;    
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 50px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: auto;
 }
+
+.join a{
+    text-align: center;
+    text-decoration: none;
+}
+
+.join:hover{
+	background-color: #c1c9d3;
+    transition: 0.4s;
+    
+}
+
+.join span{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.2s;
+}
+
+.join span:after{
+    content: '\2192';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 25px;
+    transition: 0.4s;
+}
+
+.join:hover span{
+    padding-right: 25px;
+    
+}
+
+.join:hover span:after{
+    color: #215A51;
+    opacity: 1;
+    right: 0;
+}
+
 .meals-about{
     margin-top: 5rem;
     padding: 0 2rem;
@@ -116,21 +164,6 @@
 
 }
 
-.meals-btn{
-    background-color: var(--primary-color);
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    padding: 14px 22px;
-    width: 181px;
-    height: 60px;
-    border-radius:5px;
-}
-
-.meals-btn-cont{
-    color:#FFFFFF;
-}
 .meals-card-img img {
     width: 293px;
     height: 244px;
@@ -163,19 +196,56 @@
     padding-bottom: 4rem;
 }
 
-.meals-card-left a {
+.join-end{
+    background-color: var(--primary-color);
+    border: 0;
+    border-radius: 4px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: auto;
+}
+
+.join-end:hover{
+	background-color: #363636;
+    transition: 0.4s;
+}
+
+.join-end span{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.2s;
+}
+
+.join-end span:after{
+    content: '\2192';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 25px;
+    transition: 0.4s;
+}
+
+.join-end:hover span{
+    padding-right: 25px;
     
-    box-sizing: border-box;
-    box-shadow: 0px 2.79346px 0.931153px -1.86231px rgba(0, 0, 0, 0.2);
-    filter: drop-shadow(0px 0.931153px 4.65577px rgba(0, 0, 0, 0.12)) drop-shadow(0px 1.86231px 0px rgba(0, 0, 0, 0.14));
-    border-radius: 6px;
-    color: #FFFFFF;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 132.3%;
-    padding: 1rem;
+}
+
+.join-end:hover span:after{
+    color: #ffffff;
+    opacity: 1;
+    right: 0;
+}
+
+.join-end a{
+    text-align: center;
     text-decoration: none;
 }
 

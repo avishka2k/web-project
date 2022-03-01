@@ -11,12 +11,8 @@
 	<link rel="stylesheet" type="text/css" href="includes/css/header.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
     <link rel="stylesheet" type="text/css" href="includes/css/animation.css">
+    <link rel="stylesheet" type="text/css" href="includes/css/popup.css">
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
-    <style>
-        body {
-    background-color: #E9EDF6;
-}
-    </style>
 </head>
 <body>
 
@@ -100,11 +96,11 @@
 <!--========About us Section start========-->
 <section class="Aboutus section-box row-spacing animation-div">
     <div class="left-col">
-        <img src="images/body-about.svg">
+        <img src="images/body-about.jpg">
     </div>
     <div class="right-col">
         <p class="aboutus headline">About </p>
-        <h1 class="h-tag">We inspire people to <br>Healthy life.</h1>
+        <h1 class="h-tag">We inspire people to Healthy life.</h1>
         <p class="ph01 ph">We inspire people to active, fit & financialy balanced life by
         offering them business opportunity and.</p>
         <p class="ph02 ph">You can feel too-much relax when you have a side income-source.
@@ -123,7 +119,7 @@
 
 <!--========Service Section start========-->
 <section class="services row-spacing">
-    <div class="headline-contant animation-div">
+    <div class="headline-contant section-head animation-div">
     <p class="headline">Our Service</p>
     <h1 class="h-tag">Most popular services</h1>
     </div>
@@ -132,10 +128,10 @@
         <div class="img-row1">
             <img src="images/service01.svg">
             <div class="img-on-txt">
-            <h2>FitHit</h2>
-            <button class="services-btn">
+            <h2>Fit & Hit</h2>
+            <button class="services-btn" id="myBtn">
             <span>
-                <a href="" style="color:white">Know More</a>
+                <a class="button" style="color:white">Know More</a>
             </span>
             </button>
             </div>
@@ -144,10 +140,10 @@
                <div class="">
                 <img src="images/service02.svg">
                 <div class="img-on-txt">
-                    <h2>FitHit</h2>
-                    <button class="services-btn">
+                    <h2>Healthy Meals</h2>
+                    <button class="services-btn" id="myBtn1">
                     <span>
-                    <a href="" style="color:white">Know More</a>
+                    <a class="button" style="color:white">Know More</a>
                     </span>
                     </button>
                 </div>
@@ -155,10 +151,10 @@
                <div class="img3-content">
                 <img class="img2" src="images/service02.svg">
                 <div class="img-on-txt">
-                    <h2>FitHit</h2>
-                    <button class="services-btn">
+                    <h2>Benefits</h2>
+                    <button class="services-btn" id="myBtn2">
                     <span>
-                    <a href="" style="color:white">Know More</a>
+                    <a class="button" style="color:white">Know More</a>
                     </span>
                     </button>
                     </div>
@@ -167,50 +163,110 @@
     </div>
         <div class="sr-mobile sr-mobile-top">
             <ul>
-                <li><a href="">Fit for Life</li>
+                <li><a href="">Fit & Hit</li>
                 <li><i class="fi fi-rr-arrow-right"></i></a></li>
             </ul>
                 <img src="images/service02.svg" alt="">
         </div>
         <div class="sr-mobile">
             <ul>
-                <li><a href="">Fit for Life</li>
+                <li><a href="">Healthy Meals</li>
                 <li><i class="fi fi-rr-arrow-right"></i></a></li>
             </ul>
                 <img src="images/service02.svg" alt="">
         </div>
         <div class="sr-mobile">
             <ul>
-                <li><a href="">Fit for Life</li>
+                <li><a href="">Benefits</li>
                 <li><i class="fi fi-rr-arrow-right"></i></a></li>
             </ul>
                 <img src="images/service02.svg" alt="">
         </div>
     </div>
+
+  <!-- The Modal 1 -->
+  <div id="myModal" class="modal">
+<!-- Modal content -->
+<div class="modal-content">
+<div class="close-icon-s">
+  <span class="close">&times;</span>
+</div>
+<h3 class="modal-content-h">Fit & Hit</h3>
+  <p class="modal-content-p">
+  Are you tired of your unhealthy belly fats and want to get rid of it, but unwilling 
+  to join gym? Don’t worry, I am here to assist you in lowering your stubborn visceral 
+  fats. It is unrealistic and unhealthy claim that only certain diet plans are effective 
+  in burning your bad fat. Similarly, only exercise can help to tone your stomach a bit, 
+  but still you need to reduce your whole body fats in order to reduce your stomach fat. 
+  So, you have to consider both exercise and diet to get best results. Now your task is 
+  to keep a balance of training, diet and stress. Here we are going to discuss the types 
+  of belly fats, its causes, important diet and some exercises which were found much 
+  effective in achieving a flat belly.
+  </p>
+</div>
+</div>
+
+
+<div id="myModal1" class="modal">
+<!-- Modal content 2 -->
+<div class="modal-content">
+<div class="close-icon-s">
+  <span class="close close1">&times;</span>
+</div>
+<h3 class="modal-content-h">Healthy Meals</h3>
+  <p class="modal-content-p">
+  Try something active outside- a walk/run, ice skating on Occom, cross-country 
+  skiingStand instead of sitting when doing work. Try a different random act of 
+  kindness each day. Add at least one vegetable or fruit to every meal. Limit 
+  the number of alcoholic beverages you consume- either count your drinks or 
+  set a drink limit. Do something kind for a friend each day- leave a note of 
+  encouragement for your roommate, bring a treat to your friend in the library, 
+  write a letter to an old friend.
+  </p>
+</div>
+</div>
+
+<div id="myModal2" class="modal">
+<!-- Modal content 3 -->
+<div class="modal-content">
+<div class="close-icon-s">
+  <span class="close close2">&times;</span>
+</div>
+<h3 class="modal-content-h">Benefits</h3>
+  <p class="modal-content-p">
+  A healthy diet may help to prevent certain long-term (chronic) diseases such as heart 
+  disease, stroke and diabetes. It may also help to reduce your risk of developing 
+  some cancers and help you to keep a healthy weight. This leaflet explains the 
+  principles of a healthy diet. It is general advice for most people. The advice may 
+  be different for certain groups of people, including pregnant women, people with 
+  certain health problems or those with special dietary requirements.
+  </p>
+</div>
+</div>
+
 </section>
 <!--========Service Section End========-->
 
 
 <!--========Opportunity Section start========-->
-<section class="Opportunity section-box row-spacing-op animation-div">
-   <div class="right-col-op">
-        <p class="Opportunity-head headline">Opportunity</p>
-          <h1 class="h-tag">We inspire people to<br>Earn Money.</h1>
-           <p class="ph01 ph">Everyone wanna earn money in the most relaxed way.
+<section class="Aboutus section-box row-spacing animation-div Opportunity-ss">
+    <div class="left-col">
+        <img src="images/Opportunity.png">
+    </div>
+    <div class="right-col">
+        <p class="aboutus headline">Opportunity</p>
+        <h1 class="h-tag">We inspire people to Earn Money.</h1>
+        <p class="ph01 ph">Everyone wanna earn money in the most relaxed way.
                     We have many opportunities handpicked just for you, so that you can earn money while you’re at home.</p>
-           <p class="ph02 ph">What you have to do is just fill out our contact form & wait,
+        <p class="ph02 ph">What you have to do is just fill out our contact form & wait,
                     We’ll contact you in no time with huge opportunities.
                     This could be the opportunity you've been waiting for!</p>
-                    <button class="offered">
-                    <span>
-                    <a href="" style="color:white">Fill Form</a>
-                    </span>
-                    </button>
+        <button class="offered">
+            <span>
+                <a href="" style="color:white">Get Offered!</a>
+            </span>
+        </button>
     </div>
-    <div class="left-col">
-        <img src="images/phone.svg"> 
-        <img class="op-top-img" src="images/opportunity-form.svg" alt="">
-    </div>    
 </section>
 <!--========Opportunity Section End========-->
 
@@ -222,7 +278,7 @@
     </div>
     <div class="right-col-wo">
         <p class="wonder-women headline">Wonder Women</p>
-        <h1 class="h-tag">We inspire ‘Women on a<br>Mission’</h1>
+        <h1 class="h-tag">We inspire ‘Women on a Mission’</h1>
         <p class="ph01 ph">SUPER GREAT CONCEPT for women who want change in their
             lives and want to be their own boss or anyone who just wants to
         be a part of something positive are more than welcome.</p>
@@ -244,8 +300,8 @@
         <p class="ph01 ph video-ph">Not yet sure about what we do here? This short video will break<br>your confusion, and will lead you to a ‘Door of Opportunity’!</p>
     </div>
         <div class="video-top animation-div">
-        <iframe width="854px" height="480px" src="https://www.youtube.com/embed/QqC_Q3KlvpM?autoplay=1&mute=1">
-        </iframe>
+        <iframe width="854" height="480" src="https://www.youtube.com/embed/KD-FmeueFUo?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       </iframe>
         </div>
 </section>
 <!--========video Section End========-->

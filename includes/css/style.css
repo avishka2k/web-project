@@ -8,20 +8,21 @@
     box-sizing: border-box;
   }
 
-.Aboutus {
+.section-box {
     width: 100%;
     max-width: 75rem;
     margin: 0 auto;
     padding: 0 1.5rem;
     align-items: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.section-box {
-   display: flex;
-   margin-left: auto;
-   margin-right: auto;
+.Opportunity-ss, .right-col {
+    margin-right: 10%;
+    margin-left: 0;
 }
-
 
 .row-spacing {
     margin-top: 100px;
@@ -71,7 +72,7 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 20px;
+    margin: 20px 0;
     transition-duration: 0.4s;
     cursor: pointer;
     width: auto;
@@ -143,7 +144,7 @@
 
 .services .img-row2 {
     display: flex;
-    margin-top: 8rem;
+    margin-top: 6rem;
     justify-content: space-between;
 }
 
@@ -215,6 +216,54 @@
     display: none;
 }
 
+.modal {
+    display: none;
+    position: fixed; 
+    z-index: 1; 
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.6); 
+  }
+  /* Modal Content */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 24vh auto;
+    padding: 25px 50px 50px 50px;
+    border: 1px solid #888;
+    width: 42%;
+    border-radius: 10px;
+    box-shadow: 9px 9px 1rem rgba(0, 0, 0, 0.5);
+    border: none;
+  }
+
+/* The Close Button */
+.close {
+    color: #ffffff;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    margin: -57px -77px;
+}
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.close-icon-s {
+    padding: 0rem;
+}
+.modal-content p {
+    color: var(--primary-color);
+}
+.modal-content h3{
+    margin-bottom: 1rem;
+}
 
 
 /*---------Opportunity----------*/
@@ -250,6 +299,11 @@
 
 .Opportunity .left-col {
    width: 100%;
+}
+
+.Opportunity-ss {
+    flex-direction: row-reverse;
+    margin: 11rem auto;
 }
 
  /*---------wonder women----------*/

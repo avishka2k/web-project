@@ -17,7 +17,10 @@
     background-color: var(--primary-color);
     width: 100%;
     position: relative;
-    height: 100vh;   
+    height: 100vh;  
+    background: url(../../images/meals-hero-img.jpeg); 
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .meals-hero-content{
     text-align: center;
@@ -33,16 +36,16 @@
     font-size: 60px;
     line-height: 80px;
     text-align: center;
-    color:#FFFFFF;
+    color: var(--primary-color);
     padding: 2rem;
 }
 .meals-hero-content p{
     font-family: Roboto;
     font-style: normal;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 24px;
     line-height: 133.8%;
-    color: #FFFFFF;
+    color: #020202BA;
     padding-bottom: 3rem;
 }
 
@@ -51,12 +54,12 @@
     border: 0;
     border-radius: 4px;
     color: var(--primary-color);
-    padding: 10px 20px;
+    padding: 15px 30px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin-top: 50px;
+    margin: 0 auto 2rem auto;
     transition-duration: 0.4s;
     cursor: pointer;
     width: auto;
@@ -147,7 +150,7 @@
 }
 
 .meals-card {  
-    max-width: 60rem;
+    max-width: 70rem;
     margin: auto;
     padding: 4rem 0;
 }
@@ -165,15 +168,13 @@
 }
 
 .meals-card-img img {
-    width: 293px;
-    height: 244px;
+    height: 309px;
     margin: 1rem;
     padding-top: 5px;
 }
 
 .meals-card-left {
-    margin: 3rem;
-    margin-top: 1rem;
+    margin: 1rem;
 }
 
 .meals-card-left h1 {
@@ -193,7 +194,7 @@
     font-size: 18px;
     line-height: 132.3%;
     color: #5E5E5E;
-    padding-bottom: 4rem;
+    padding-bottom: 1rem;
 }
 
 .join-end{
@@ -206,7 +207,7 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 20px;
+    margin: 20px 0;
     transition-duration: 0.4s;
     cursor: pointer;
     width: auto;
@@ -308,10 +309,11 @@
 }
 
 .meals-reality-card-content{
-    margin: 1rem; 
+    margin: 1rem;
+    
 }
 
-.btn-center {
+.btn-conter {
     text-align: center;
 }
 

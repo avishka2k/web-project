@@ -301,7 +301,7 @@
     max-width: 42rem;
     margin: 0 auto; 
     align-items: center;
-
+    margin-bottom: 4rem;
 }
 .meals-reality-card{
     background-color: var(--primary-color);

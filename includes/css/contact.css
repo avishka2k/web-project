@@ -4,14 +4,17 @@ body {
     background: #E9EDF6;
 }
 
+.links {
+    text-shadow:none;
+}
+
 .header{  
     background: #033C33;
     mix-blend-mode: normal;
-    height: 100vh;       
-}
-
-.contcat-hero-bg {
-    background: url(../../images/contact-hero.jpeg);
+    height: 100vh;
+    background-image: url(../../images/contact-hero.jpeg);  
+    background-repeat: no-repeat;
+    background-size: cover;     
 }
 
 .contact-hero-txt h1 {  
@@ -39,10 +42,6 @@ body {
 
 .contact-left-address li {
     margin: 2rem 0;
-}
-
-.contact-form {
-    align-items: center;
 }
 
 .location{
@@ -134,7 +133,8 @@ input[type=text], input[type=email], textarea {
 
 .contact-form {
     background: #FFFFFF;
-    margin-left: 27rem;
+    margin-left: 2rem;
+    align-items: center;
 }
 
 .location iframe{
@@ -167,12 +167,11 @@ input[type=text], input[type=email], textarea {
 
 .contact-left{
     background:#215A51;
-    position: absolute;
-    padding: 102px 5rem;
+    padding: 94px 4rem;
 }
 
 .contact-left-address ul {
-    padding: 37px 0;
+    padding: 37px 37px 37px 0;
 }
 
 .contact-left h2{
@@ -217,7 +216,7 @@ input[type=text], input[type=email], textarea {
 
 .green-btn {
     border: none;
-    padding: 10rem 2rem;
+    padding: 1rem 2rem;
     margin-top: 1rem;
     background:#215A51;
     color: #FFFFFF;

@@ -8,6 +8,7 @@
 	    <link rel="stylesheet" type="text/css" href="includes/css/fithit.css">
         <link rel="stylesheet" type="text/css" href="includes/css/footer.css">
         <link rel="stylesheet" type="text/css" href="includes/css/header.css">
+        <link rel="stylesheet" type="text/css" href="includes/css/animation.css">
         <link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
         <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
         
@@ -43,7 +44,7 @@
     <p>Take control over your life with physical fullfilment and be happy.</p>
 </div>
 <div class="about-body">
-<div class="about-box">
+<div class="about-box animation-div">
     <div class="about-box-content">
         <div class="about-box-left">
             <img src="images/fithit-about/about.svg" alt="">
@@ -59,7 +60,7 @@
         </div>
     </div>
 </div>
-<div class="about-box">
+<div class="about-box animation-div">
     <div class="about-box-content about-box-reverse">
         <div class="about-box-left">
             <img src="images/fithit-about/about-2.svg" alt="">
@@ -75,7 +76,7 @@
         </div>
     </div>
 </div>
-<div class="about-box">
+<div class="about-box animation-div">
     <div class="about-box-content">
         <div class="about-box-left">
             <img src="images/fithit-about/about-3.svg" alt="">
@@ -90,7 +91,7 @@
         </div>
     </div>
 </div>
-<div class="about-box">
+<div class="about-box animation-div">
     <div class="about-box-content about-box-reverse">
         <div class="about-box-left">
             <img src="images/fithit-about/about-4.svg" alt="">
@@ -105,7 +106,7 @@
         </div>
     </div>
 </div>
-<div class="about-box">
+<div class="about-box animation-div">
     <div class="about-box-content">
         <div class="about-box-left">
             <img src="images/fithit-about/about-5.svg" alt="">
@@ -120,7 +121,7 @@
         </div>
     </div>
 </div>
-<div class="about-box">
+<div class="about-box animation-div">
     <div class="about-box-content about-box-reverse">
         <div class="about-box-left">
             <img src="images/fithit-about/about-6.svg" alt="">
@@ -135,7 +136,7 @@
         </div>
     </div>
 </div>
-<div class="about-box">
+<div class="about-box animation-div">
     <div class="about-box-content">
         <div class="about-box-left">
             <img src="images/fithit-about/about-7.svg" alt="">
@@ -296,6 +297,7 @@
 
 <script src="includes/js/fithit.js"></script>
 <script src="includes/js/fill-form.js"></script>
+<script src="includes/js/animation.js"></script>
 
 </body>
 </html>

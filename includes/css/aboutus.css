@@ -24,6 +24,9 @@
     line-height: 112px;
     text-align:center;
     padding-top: 4em;
+    background-image: url(../../images/about-hero.jpg);  
+    background-repeat: no-repeat;
+    background-size: cover;  
 }
 
 .aboutus-header-h h1 {
@@ -205,4 +208,18 @@
 .aboutus-sustainability{
     color:#34495e;
     font-size:13px;
+}
+
+@media screen and(max-width:800px) {
+    .accordion {
+        padding: 0 1rem;
+    }
+
+    .about-who-we-are {
+        display: block;
+    }
+
+    .tab-pane {
+        margin: 1rem;
+    }
 }

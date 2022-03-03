@@ -22,10 +22,9 @@
 <!--========Hero Section Start========-->
 
 <div class="fithit-hero">
-    <div class="fithit-hero-bg-img">
     <div class="fithit-hero-content">
         <h1>Live mentally & physicaly healthier <br> with FitHit</h1>
-        <p>Once you began to exercise the hardest thing is to stop it.<br> Start today with FitHit</p>
+        <p>Once you began to exercise the hardest thing is to stop it.<br> Start today</p>
         <button class="join" style="vertical-align:middle">
         <span>
             <a href="" style="color: var(--primary-color);">Join - It's Free</a>
@@ -41,7 +40,7 @@
 <div class="fithit-about-head">
     <p class="section-head">About</p>
     <h2>Be a healthy happy and strong person</h2>
-    <p class="section-head-sub">Take control over your life with physical fullfilment and be happy.</p>
+    <p>Take control over your life with physical fullfilment and be happy.</p>
 </div>
 <div class="about-body">
 <div class="about-box">

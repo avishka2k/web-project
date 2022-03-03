@@ -261,7 +261,7 @@
 <!--========Opportunity Section start========-->
 <section class="Aboutus section-box row-spacing animation-div Opportunity-ss">
     <div class="left-col">
-        <img src="images/Opportunity.png">
+        <img src="images/opportunity.png">
     </div>
     <div class="right-col">
         <p class="aboutus headline">Opportunity</p>

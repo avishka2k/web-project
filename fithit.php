@@ -54,8 +54,11 @@
             <br>
             <p>Confusion is a symptom that makes you feel unable to think clearly. You may find it difficult to focus or make decisions. Confusion is also known as confusion. In its extreme state, it is called delirium. For short-term cases of mild confusion caused by nutritional imbalances, dehydration, or sleep deprivation, you might find relief in treatment at home.</p>
             <div class="about-box-btn">
-            <button id="myBtn" class="fithit-body-btn">Know More
-                </button>
+            <button id="myBtn" class="fithit-body-btn">
+            <span>
+                Know More
+            </span>    
+            </button>
             </div>
         </div>
     </div>
@@ -71,7 +74,11 @@
             <p>Confidence comes from feelings of well-being, acceptance of your body and mind confidence in your own abilities, skills and experiences.Positive thinking, exercise, training, knowledge, and talking to other people are all effective ways to improve or enhance your confidence levels. 
             </p>
             <div class="about-box-btn">
-            <button id="myBtn1" class="fithit-body-btn">Know More</button>
+            <button id="myBtn1" class="fithit-body-btn">
+            <span>
+                Know More
+            </span>    
+            </button>
             </div>
         </div>
     </div>
@@ -86,7 +93,11 @@
             <br>
             <p>The term eating habits refers to why and how people eat, the foods they eat and the people they eat, as well as how people receive, store, use and discard food. Personal, social, cultural, religious, economic, environmental and political factors all influence people's eating habits.</p>
             <div class="about-box-btn">
-            <button id="myBtn2" class="fithit-body-btn">Know More</button>
+            <button id="myBtn2" class="fithit-body-btn">
+            <span>
+                Know More
+            </span>    
+            </button>
             </div>
         </div>
     </div>
@@ -101,7 +112,11 @@
             <br>
             <p>Yes, we can guide you. We are very happy to guide you to a healthier life. Having a healthy lifestyle means choosing to live your life as healthy as possible. There are a few things you need to do to start life this way. We will help you to get them correctly.</p>
             <div class="about-box-btn">
-            <button id="myBtn3" class="fithit-body-btn">Know More</button>
+            <button id="myBtn3" class="fithit-body-btn">
+            <span>
+                Know More
+            </span>    
+            </button>
             </div>
         </div>
     </div>
@@ -116,7 +131,11 @@
             <br>
             <p>Starting anything first is the hardest part. A lot of people miss work because they just can't get clearly started. Do not be afraid about it. We look forward to being with you in any difficult situation. We are always committed to helping you. </p>
             <div class="about-box-btn">
-            <button id="myBtn4" class="fithit-body-btn">Know More</button>
+            <button id="myBtn4" class="fithit-body-btn">
+            <span>
+                Know More
+            </span>    
+            </button>
             </div>
         </div>
     </div>
@@ -131,7 +150,11 @@
             <br>
             <p>If you ask a successful person why he is reaching his life goal; He will often illustrate the importance of self-improvement, motivation and self-esteem. Surely you will face many problems in life, but to overcome them, you need to rely on personal development and motivation. When it comes to improving self-esteem, you must first understand your strengths and weaknesses. Be inspired by even your little improvements.</p>
             <div class="about-box-btn">
-            <button id="myBtn5" class="fithit-body-btn">Know More</button>
+            <button id="myBtn5" class="fithit-body-btn">
+            <span>
+                Know More
+            </span>    
+            </button>
             </div>
         </div>
     </div>
@@ -146,7 +169,11 @@
             <br>
             <p>We must be able to amaze everyone, even the small or triumph that comes after unlimited sacrifice. We must be able to do something that gives real value to our time, labor, wealth, and everything we sacrifice for it. We can all be amazed at our own end result, not the end result of the other. Yes, we can do it surely.</p>
             <div class="about-box-btn">
-            <button id="myBtn6" class="fithit-body-btn">Know More</button>
+            <button id="myBtn6" class="fithit-body-btn">
+            <span>
+                Know More
+            </span>    
+            </button>
             </div>
         </div>
     </div>

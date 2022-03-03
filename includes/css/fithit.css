@@ -201,8 +201,8 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 13px;
-    margin-top: 10px;
+    font-size: 15px;
+    margin-top: 20px;
     transition-duration: 0.4s;
     cursor: pointer;
     width: auto;
@@ -213,6 +213,33 @@
     transition: 0.4s;
 
 }
+
+.fithit-body-btn span{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.2s;
+}
+
+.fithit-body-btn span::after{
+    content: '\2192';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 25px;
+    transition: 0.4s;
+}
+
+.fithit-body-btn:hover span{
+    padding-right: 25px;
+}
+
+.fithit-body-btn:hover span::after{
+    color: #ffffff;
+    opacity: 1;
+    right: 0;
+}
+
 .fithit-end{
     text-align: center;
     position: relative;

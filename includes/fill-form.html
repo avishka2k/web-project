@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="css/fill-form.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+</head>
+<body>
+
+<button id="myBtn">Open Modal</button>
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">&times;</span>
+      <h2>Registration Form</h2>
+    </div>
+    <div class="testbox">
+      <form action="php/form.php" method="POST">
+        <div class="banner">
+          <h1>Join us to stay Healthy</h1>
+        </div>
+        <br/>
+    <fieldset>
+        <legend>Personal Information</legend>
+
+          <div class="item">
+            <label for="fname"> First Name<span>*</span></label>
+            <input id="fname" type="text" name="firstname"/>
+          </div>
+          <div class="item">
+            <label for="lastname">Last Name<span>*</span></label>
+            <input id="lastname" type="text" name="lastname"/>
+          </div>
+          <div class="item">
+            <label for="gender">Gender<span>*</span></label>
+              <div>
+                <input type="radio" value="M" id="radio_1" name="gender"/>
+                <label for="radio_1" class="radio gender-txt">Male</label>
+              </div>
+              <div>
+                <input  type="radio" value="F" id="radio_2" name="gender"/>
+                <label for="radio_2" class="radio gender-txt" >Female</label>
+             </div>
+          </div>
+          <div class="item">
+            <label for="bdate">Birth Date <span>*</span></label>
+            <input id="bdate" type="date" name="bdate"/>
+            <i class="fas fa-calendar-alt"></i>
+          </div>
+        <div class="item">
+             <p>Marital Status</p>
+            <select name="marital_status">
+                <option selected value="" disabled></option>
+                <option value="Single" >Single</option>
+                <option value="Married">Married</option>
+                <option value="Divorced">Divorced</option>
+            </select>
+          </div>
+    </fieldset>
+        <br>
+    <fieldset>
+        <legend>Healthy Information</legend>
+
+        <div class="item">
+             <p>Age range (years)<span>*</span></p>
+            <select name="age_range">
+                <option value="" selected disabled>Select  Option</option>
+                <option value="15>" >Less then 15</option>
+                <option value="15-18" >15-24</option>
+                <option value="24-30">24-30</option>
+                <option value="30-40">30-40</option>
+                <option value="40-50">40-50</option>
+                <option value="50-60">50-60</option>
+                <option value="60-70">60-70</option>
+                <option value="70<">More than 70</option>
+            </select>
+          </div>
+          <div class="item">
+            <label for="mass">Mass (kg)<span>*</span></label>
+            <input id="mass" type="number" name="mass" />
+          </div>
+          <div class="item">
+            <label for="height">Height (cm)<span>*</span></label>
+            <input id="height" type="number" name="height" />
+          </div>
+          <div class="item">
+            <label for="bmi_value">BMI Value<span>*</span></label>
+            <div class="bmi_value">
+            <div>
+            <input id="bmi_value" type="number" name="bmi_value" disabled/>
+            </div>
+            <div>
+            <span id="result"></span>
+                <input class="calc-btn" type="button" value="Calculate" onclick="calcNumbers()">
+            </div>
+            </div>
+            </div>
+            <div class="item">
+                <label for="Message">Message<span>*</span></label>
+                <textarea name="message" id="message" cols="30" rows="10" placeholder="Other health information..."></textarea>
+              </div>
+    </fieldset>
+        <br/>

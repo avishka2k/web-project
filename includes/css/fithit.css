@@ -43,6 +43,7 @@
     text-align: center;
     color: var(--primary-color);
     padding: 1rem;
+    text-shadow: 0 0 2px #ffffff;
 }
 
 .fithit-hero-content p{

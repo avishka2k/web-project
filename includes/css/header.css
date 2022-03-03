@@ -55,9 +55,10 @@ nav ul {
     color: var(--primary-color);
     font-weight: 900;
 	font-family: sans-serif;
-
 }
-
+.links{
+    text-shadow: 0 0 2px #ffffff;
+}
 .navlist br {
 	display: none;
 }
@@ -75,7 +76,6 @@ nav ul {
     color: aliceblue;
     font-weight: 600;
 	font-family: sans-serif;
-
 }
 
 .scrolling-active{

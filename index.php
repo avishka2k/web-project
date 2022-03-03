@@ -138,7 +138,7 @@
         <div class="img-row1">
             <img src="images/service01.svg">
             <div class="img-on-txt">
-            <h2>Fit & Hit</h2>
+            <h2>FitHit</h2>
             <button class="services-btn" id="myBtn">
             <span>
                 <a class="button" style="color:white">Know More</a>
@@ -201,7 +201,7 @@
 <div class="close-icon-s">
   <span class="close">&times;</span>
 </div>
-<h3 class="modal-content-h">Fit & Hit</h3>
+<h3 class="modal-content-h">FitHit</h3>
   <p class="modal-content-p">
   Are you tired of your unhealthy belly fats and want to get rid of it, but unwilling 
   to join gym? Don’t worry, I am here to assist you in lowering your stubborn visceral 
@@ -471,6 +471,7 @@
 <script src="includes/js/script.js"></script>
 <script src="includes/js/accordion.js"></script>
 <script src="includes/js/animation.js"></script>
+<script src="includes/js/fill-form.js"></script>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 

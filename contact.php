@@ -33,9 +33,7 @@
 
 <div class="contcat-hero-bg">
     <div class="header contact-hero-txt">
-        <h1>We're Here to Help You
-        <br>
-        Come and Join With Us
+        <h1>We're Here to Help You Come <br> and Join With Us
         </h1>
     </div>
 </div>

@@ -24,6 +24,9 @@
     line-height: 112px;
     text-align:center;
     padding-top: 4em;
+    background-image: url(../../images/about-hero.jpg);  
+    background-repeat: no-repeat;
+    background-size: cover;  
 }
 
 .aboutus-header-h h1 {
@@ -205,4 +208,44 @@
 .aboutus-sustainability{
     color:#34495e;
     font-size:13px;
+}
+
+@media screen and (max-width:800px) {
+
+    nav {
+        padding: 0 0 0 2rem;
+    }
+    .accordion {
+        padding: 0 1rem;
+    }
+
+    .about-who-we-are {
+        display: block;
+    }
+
+    .tab-pane {
+        margin: 1rem;
+    }
+
+    .tab-pane-home {
+        margin-top: 5rem;
+    }
+
+    .about-profile-row1, .about-profile-row2 {
+        display: block;
+        margin: auto;
+        max-width: 19rem;        
+    }
+
+    .nav-tabs {
+        display: inline-grid;
+    }
+
+    .aboutus-header-h h1 {
+        font-size: 40px;
+    }
+
+    .about-profile-row2 {
+        padding:0;
+    }
 }

@@ -26,9 +26,11 @@
             <div class="txt">
                 <h1>Life changing<br/>Diet.</h1>
                 <p>Make a difference in your life with our<br>Diet Plan and Job Opportunity!</p>
-                <div class="slide-btn">
-                    <a href="">LET'S WORK</a>
-                </div>
+                <button class="offered">
+                <span>
+                    <a href="" style="color:white">LET'S WORK</a>
+                </span>
+                </button>
             </div>
             <img src="images/hero-02.jpg">
         </div>
@@ -37,9 +39,11 @@
             <div class="txt">
                 <h1>Workout days are the<br>Best</h1>
                 <p>Live mentally & physicaly healthier</p>
-                <div class="slide-btn">
-                    <a href="">LET'S WORK</a>
-                </div>
+                <button class="offered">
+                <span>
+                    <a href="" style="color:white">LET'S WORK</a>
+                </span>
+                </button>
             </div>
             <img src="images/hero-01.jpg">
         </div>
@@ -48,9 +52,11 @@
             <div class="txt">
                 <h1>Healthy Foods are better</h1>
                 <p>You are what you eat,<br> So don't be fast, cheap, easy, or fake</p>
-                <div class="slide-btn">
-                    <a href="">LET'S WORK</a>
-                </div>
+                <button class="offered">
+                <span>
+                    <a href="" style="color:white">LET'S WORK</a>
+                </span>
+                </button>
             </div>
             <img src="images/hero-03.jpg">
         </div>
@@ -59,9 +65,11 @@
             <div class="txt">
                 <h1>Fresh with Greenary</h1>
                 <p>Keep yourself calm, <br> We will help you to get there. <br> Hurry up and join us</p>
-                <div class="slide-btn">
-                    <a href="">LET'S WORK</a>
-                </div>
+                <button class="offered">
+                <span>
+                    <a href="" style="color:white">LET'S WORK</a>
+                </span>
+                </button>
             </div>
             <img src="images/hero-04.jpg">
         </div>
@@ -70,9 +78,11 @@
             <div class="txt">
                 <h1>Meditation and Environment</h1>
                 <p>Getting deep breaths in a soothing environment <br> Will make you feel you are a happy soul</p>
-                <div class="slide-btn">
-                    <a href="">LET'S WORK</a>
-                </div>
+                <button class="offered">
+                <span>
+                    <a href="" style="color:white">LET'S WORK</a>
+                </span>
+                </button>
             </div>
             <img src="images/hero-05.jpg">
         </div>
@@ -128,7 +138,7 @@
         <div class="img-row1">
             <img src="images/service01.svg">
             <div class="img-on-txt">
-            <h2>Fit & Hit</h2>
+            <h2>FitHit</h2>
             <button class="services-btn" id="myBtn">
             <span>
                 <a class="button" style="color:white">Know More</a>
@@ -191,7 +201,7 @@
 <div class="close-icon-s">
   <span class="close">&times;</span>
 </div>
-<h3 class="modal-content-h">Fit & Hit</h3>
+<h3 class="modal-content-h">FitHit</h3>
   <p class="modal-content-p">
   Are you tired of your unhealthy belly fats and want to get rid of it, but unwilling 
   to join gym? Don’t worry, I am here to assist you in lowering your stubborn visceral 
@@ -251,9 +261,9 @@
 <!--========Opportunity Section start========-->
 <section class="Aboutus section-box row-spacing animation-div Opportunity-ss">
     <div class="left-col">
-        <img src="images/Opportunity.png">
+        <img src="images/opportunity.png">
     </div>
-    <div class="right-col">
+    <div class="right-col-op">
         <p class="aboutus headline">Opportunity</p>
         <h1 class="h-tag">We inspire people to Earn Money.</h1>
         <p class="ph01 ph">Everyone wanna earn money in the most relaxed way.

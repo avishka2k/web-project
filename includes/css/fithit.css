@@ -19,8 +19,11 @@
 .fithit-hero{
     background-color: var(--primary-color);
     width: 100%;
+    height: 100vh;
     position: relative;
-    height: 100vh;  
+    background: url(../../images/fithit-about/fithit-hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .fithit-hero-content{ 
@@ -31,16 +34,6 @@
     transform: translate(-50%, -50%);
 }
 
-.fithit-hero-bg-img {
-    background: url(../../images/fithit-about/fithit-hero.png); 
-    background-repeat: no-repeat;
-    width: initial;
-    height: inherit;
-    background-position: center;
-    background-size: cover;
-}
-
-
 .fithit-hero-content h1{ 
     font-family: Playfair Display;
     font-style: normal;
@@ -48,13 +41,19 @@
     font-size: 60px;
     line-height: 80px;
     text-align: center;
-    color:#215A51;
+    color: var(--primary-color);
+    padding: 1rem;
+    text-shadow: 0 0 2px #ffffff;
 }
 
 .fithit-hero-content p{
-    margin-top: 20PX;
-    text-align: center;
-    color: #ffffff;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 133.8%;
+    color: #000000ba;
+    padding-bottom: 3rem;
 }
 
 .join{
@@ -62,12 +61,13 @@
     border: 0;
     border-radius: 4px;
     color: var(--primary-color);
-    padding: 10px 20px;
+    padding: 15px 30px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin-top: 50px;
+    font-weight: 500;
+    margin: 0 auto 2rem auto;
     transition-duration: 0.4s;
     cursor: pointer;
     width: auto;
@@ -139,16 +139,17 @@
     text-align: center;
     margin-top: 10px;
     margin-bottom: 30px;
+    color: var(--primary-color);
 }
 
-.section-head-sub{
+.fithit-about-head p{
     text-align: center;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 26px;
     line-height: 30px;
-    color: #6B7177;
+    color: #5E5E5E;
 }
 
 .about-body {
@@ -191,6 +192,54 @@
     margin-right: 10px;
 }
 
+.fithit-body-btn{
+    background-color: var(--primary-color);
+    border: 0;
+    border-radius: 4px;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: auto;
+}
+
+.fithit-body-btn:hover{
+	background-color: #5E5E5E;
+    transition: 0.4s;
+
+}
+
+.fithit-body-btn span{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.2s;
+}
+
+.fithit-body-btn span::after{
+    content: '\2192';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 25px;
+    transition: 0.4s;
+}
+
+.fithit-body-btn:hover span{
+    padding-right: 25px;
+}
+
+.fithit-body-btn:hover span::after{
+    color: #ffffff;
+    opacity: 1;
+    right: 0;
+}
+
 .fithit-end{
     text-align: center;
     position: relative;
@@ -205,6 +254,9 @@
     font-size: 50px;
     line-height: 67px;
     text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: var(--primary-color);
 }
 
 .join-end{
@@ -224,7 +276,7 @@
 }
 
 .join-end:hover{
-	background-color: #363636;
+	background-color: #5E5E5E;
     transition: 0.4s;
 }
 
@@ -260,7 +312,75 @@
     text-decoration: none;
 }
 
-@media screen and (max-width:800px){
+/*------popup-----*/
+
+
+.modal {
+    display: none;
+    position: fixed; 
+    z-index: 1; 
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.6); 
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 24vh auto;
+    padding: 25px 50px 50px 50px;
+    border: 1px solid #888;
+    width: 42%;
+    border-radius: 10px;
+    box-shadow: 9px 9px 1rem rgba(0, 0, 0, 0.5);
+    border: none;
+  }
+  
+  /* The Close Button */
+  .close {
+      color: #ffffff;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      margin: -57px -77px;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .close-icon-s {
+      padding: 0rem;
+  }
+  
+  .modal-content p {
+      color: var(--primary-color);
+  }
+  
+  .modal-content h3{
+      margin-bottom: 1rem;
+  }
+
+@media screen and (max-width:1100px){
+
+    .fithit-hero {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        background-position-x: -30rem;
+        height: 80vh;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:900px){
 
     .join {
         margin-top: 30px;
@@ -268,6 +388,10 @@
     .fithit-hero {
         padding-left: 1rem;
         padding-right: 1rem;
+        height: 70vh;
+        background-position-x: -30rem;
+        background-position-y: 4rem;
+        width: 100%;
     }
     
     .fithit-hero-content {

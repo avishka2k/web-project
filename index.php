@@ -263,7 +263,7 @@
     <div class="left-col">
         <img src="images/opportunity.png">
     </div>
-    <div class="right-col">
+    <div class="right-col-op">
         <p class="aboutus headline">Opportunity</p>
         <h1 class="h-tag">We inspire people to Earn Money.</h1>
         <p class="ph01 ph">Everyone wanna earn money in the most relaxed way.

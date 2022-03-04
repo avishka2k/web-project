@@ -232,3 +232,13 @@ font-size: 20px;
 line-height: 23px;
 color: #E0E0E0;
 }
+
+
+@media screen and (max-width:800px) {
+    .contact-hero-txt h1 {
+        line-height: 52px;
+        font-size: 45px;
+    }
+
+    
+}

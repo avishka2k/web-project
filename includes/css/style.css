@@ -28,6 +28,10 @@
     margin-left: 10%;
 }
 
+.right-col-op {
+    margin-left: 3%;
+}
+
 .headline {
     color: var(--primary-color);
     font-family: Roboto;
@@ -561,13 +565,13 @@
         margin-left: 4rem;
     }
 
-   .Opportunity {
+    .Opportunity {
        max-width: 65rem;;
-   }
+    }
 
-   .right-col-op {
+    .right-col-op {
        margin-right: 3rem;
-   }
+    }
 
     .freeble img {
         width: 100%;
@@ -718,14 +722,13 @@
     }
 
 
- .frreble-right-col h2 {
-     font-size: 25px;
- }
+    .frreble-right-col h2 {
+        font-size: 25px;
+    }
 
- .frreble-right-col {
-    margin-left: 0;
-}
-
+    .frreble-right-col {
+        margin-left: 0;
+    }
 
     .freeble.section-box {
         display: block;
@@ -758,7 +761,7 @@
 
     .form__button {
         margin-top: 2rem;
-      }
+    }
 
     .h-tag {
         font-size: 30px;
@@ -769,5 +772,8 @@
         font-size: 15px;
     }
 
-
+    .services .sr-mobile {
+        padding: 1rem 0;
+    }
+    
 }

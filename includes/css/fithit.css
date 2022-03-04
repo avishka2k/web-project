@@ -369,7 +369,18 @@
       margin-bottom: 1rem;
   }
 
-@media screen and (max-width:800px){
+@media screen and (max-width:1100px){
+
+    .fithit-hero {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        background-position-x: -30rem;
+        height: 80vh;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:900px){
 
     .join {
         margin-top: 30px;
@@ -377,6 +388,10 @@
     .fithit-hero {
         padding-left: 1rem;
         padding-right: 1rem;
+        height: 70vh;
+        background-position-x: -30rem;
+        background-position-y: 4rem;
+        width: 100%;
     }
     
     .fithit-hero-content {

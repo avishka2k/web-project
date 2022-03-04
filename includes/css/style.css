@@ -111,11 +111,6 @@
     margin-top: 30px;
 }
 
-.services p, .services h1{
-    text-align: center;
-}
-
-
 /*---------Services-----------*/
 
 .services h1{
@@ -282,7 +277,7 @@
 }
 
 .right-col-op {
-    margin-right: 15%;
+    margin-right: 3%;
 }
 
 .Opportunity.section-box  {

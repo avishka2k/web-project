@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -12,7 +12,6 @@
 	<link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
     <link rel="stylesheet" type="text/css" href="includes/css/animation.css">
     <link rel="stylesheet" type="text/css" href="includes/css/popup.css">
-    <link rel="stylesheet" type="text/css" href="includes/css/fill-form.css">
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 </head>
 <body>
@@ -120,7 +119,9 @@
         We’ll give you that opportunity. be connected to get offered!</p>
         <button class="offered">
             <span>
-                <a href="" style="color:white">Get Offered!</a>
+            <a href="includes/fill-form.html" style="color:white" target="PromoteFirefoxWindow" 
+            onclick="openRequestedPopup(this.href, this.target); return false;">Get Offered!</a>
+
             </span>
         </button>
     </div>
@@ -160,7 +161,7 @@
                 </div>
                </div>
                <div class="img3-content">
-                <img class="img2" src="images/service02.svg">
+                <img class="img2" src="images/service-3.jpg">
                 <div class="img-on-txt">
                     <h2>Benefits</h2>
                     <button class="services-btn" id="myBtn2">
@@ -191,69 +192,69 @@
                 <li><a href="">Benefits</li>
                 <li><i class="fi fi-rr-arrow-right"></i></a></li>
             </ul>
-                <img src="images/service02.svg" alt="">
+                <img src="images/service-3.jpg" alt="">
         </div>
     </div>
 
   <!-- The Modal 1 -->
   <div id="myModal" class="modal">
 <!-- Modal content -->
-<div class="modal-content">
-<div class="close-icon-s">
-  <span class="close">&times;</span>
-</div>
-<h3 class="modal-content-h">FitHit</h3>
-  <p class="modal-content-p">
-  Are you tired of your unhealthy belly fats and want to get rid of it, but unwilling 
-  to join gym? Don’t worry, I am here to assist you in lowering your stubborn visceral 
-  fats. It is unrealistic and unhealthy claim that only certain diet plans are effective 
-  in burning your bad fat. Similarly, only exercise can help to tone your stomach a bit, 
-  but still you need to reduce your whole body fats in order to reduce your stomach fat. 
-  So, you have to consider both exercise and diet to get best results. Now your task is 
-  to keep a balance of training, diet and stress. Here we are going to discuss the types 
-  of belly fats, its causes, important diet and some exercises which were found much 
-  effective in achieving a flat belly.
-  </p>
-</div>
-</div>
+        <div class="modal-content">
+        <div class="close-icon-s">
+        <span class="close">&times;</span>
+        </div>
+        <h3 class="modal-content-h">FitHit</h3>
+        <p class="modal-content-p">
+        Are you tired of your unhealthy belly fats and want to get rid of it, but unwilling 
+        to join gym? Don’t worry, I am here to assist you in lowering your stubborn visceral 
+        fats. It is unrealistic and unhealthy claim that only certain diet plans are effective 
+        in burning your bad fat. Similarly, only exercise can help to tone your stomach a bit, 
+        but still you need to reduce your whole body fats in order to reduce your stomach fat. 
+        So, you have to consider both exercise and diet to get best results. Now your task is 
+        to keep a balance of training, diet and stress. Here we are going to discuss the types 
+        of belly fats, its causes, important diet and some exercises which were found much 
+        effective in achieving a flat belly.
+        </p>
+        </div>
+    </div>
 
 
-<div id="myModal1" class="modal">
-<!-- Modal content 2 -->
-<div class="modal-content">
-<div class="close-icon-s">
-  <span class="close close1">&times;</span>
-</div>
-<h3 class="modal-content-h">Healthy Meals</h3>
-  <p class="modal-content-p">
-  Try something active outside- a walk/run, ice skating on Occom, cross-country 
-  skiingStand instead of sitting when doing work. Try a different random act of 
-  kindness each day. Add at least one vegetable or fruit to every meal. Limit 
-  the number of alcoholic beverages you consume- either count your drinks or 
-  set a drink limit. Do something kind for a friend each day- leave a note of 
-  encouragement for your roommate, bring a treat to your friend in the library, 
-  write a letter to an old friend.
-  </p>
-</div>
-</div>
+    <div id="myModal1" class="modal">
+    <!-- Modal content 2 -->
+        <div class="modal-content">
+        <div class="close-icon-s">
+        <span class="close close1">&times;</span>
+        </div>
+        <h3 class="modal-content-h">Healthy Meals</h3>
+        <p class="modal-content-p">
+        Try something active outside- a walk/run, ice skating on Occom, cross-country 
+        skiingStand instead of sitting when doing work. Try a different random act of 
+        kindness each day. Add at least one vegetable or fruit to every meal. Limit 
+        the number of alcoholic beverages you consume- either count your drinks or 
+        set a drink limit. Do something kind for a friend each day- leave a note of 
+        encouragement for your roommate, bring a treat to your friend in the library, 
+        write a letter to an old friend.
+        </p>
+        </div>
+    </div>
 
-<div id="myModal2" class="modal">
-<!-- Modal content 3 -->
-<div class="modal-content">
-<div class="close-icon-s">
-  <span class="close close2">&times;</span>
-</div>
-<h3 class="modal-content-h">Benefits</h3>
-  <p class="modal-content-p">
-  A healthy diet may help to prevent certain long-term (chronic) diseases such as heart 
-  disease, stroke and diabetes. It may also help to reduce your risk of developing 
-  some cancers and help you to keep a healthy weight. This leaflet explains the 
-  principles of a healthy diet. It is general advice for most people. The advice may 
-  be different for certain groups of people, including pregnant women, people with 
-  certain health problems or those with special dietary requirements.
-  </p>
-</div>
-</div>
+    <div id="myModal2" class="modal">
+    <!-- Modal content 3 -->
+        <div class="modal-content">
+        <div class="close-icon-s">
+        <span class="close close2">&times;</span>
+        </div>
+        <h3 class="modal-content-h">Benefits</h3>
+        <p class="modal-content-p">
+        A healthy diet may help to prevent certain long-term (chronic) diseases such as heart 
+        disease, stroke and diabetes. It may also help to reduce your risk of developing 
+        some cancers and help you to keep a healthy weight. This leaflet explains the 
+        principles of a healthy diet. It is general advice for most people. The advice may 
+        be different for certain groups of people, including pregnant women, people with 
+        certain health problems or those with special dietary requirements.
+        </p>
+        </div>
+    </div>
 
 </section>
 <!--========Service Section End========-->
@@ -274,11 +275,14 @@
                     This could be the opportunity you've been waiting for!</p>
         <button class="offered">
             <span>
-                <a href="" style="color:white">Get Offered!</a>
+                <a href="includes/fill-form.html" style="color:white" target="PromoteFirefoxWindow" 
+                onclick="openRequestedPopup(this.href, this.target); return false;">Get Offered!</a>
             </span>
         </button>
     </div>
 </section>
+
+
 <!--========Opportunity Section End========-->
 
 
@@ -296,7 +300,9 @@
         <p class="ph02 wonder-ph">Every Wednesday evening at 9pm we offer the opportunity to be part of something great!</p>
         <button class="offered">
             <span>
-            <a href="" style="color:white">Fill Form</a>
+            <a href="includes/fill-form.html" style="color:white" target="PromoteFirefoxWindow" 
+            onclick="openRequestedPopup(this.href, this.target); return false;">Fill Form</a>
+
             </span>
         </button>
     </div>
@@ -308,10 +314,13 @@
 <section class="video section-box-ve row-spacing-video">
     <div class="video-content animation-div">
         <h1 class="h-tag video-header">We inspire people to Understand us.</h1>
-        <p class="ph01 ph video-ph">Not yet sure about what we do here? This short video will break<br>your confusion, and will lead you to a ‘Door of Opportunity’!</p>
+        <p class="ph01 ph video-ph">Not yet sure about what we do here? This short video will break
+            <br>your confusion, and will lead you to a ‘Door of Opportunity’!</p>
     </div>
         <div class="video-top animation-div">
-        <iframe width="854" height="480" src="https://www.youtube.com/embed/KD-FmeueFUo?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="854" height="480" src="https://www.youtube.com/embed/KD-FmeueFUo?autoplay=1&mute=1" 
+            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen></iframe>
        </iframe>
         </div>
 </section>
@@ -354,14 +363,14 @@
     </div>
 <section class="blog">
     <div class="blog-card blog-card-left animation-div">
-        <img src="images/Blog/blog1.svg" alt="">
+        <img src="images/Blog/bg_1 hero.jpg" alt="">
         <p class="topic">Fitness</p>
-        <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
-        <p class="paragraph">You may be too exhausted even to mana ge your daily affairs. 
-            In most cases, there's a reason for the fatigue. It might be allergic 
-            rhinitis, anemia, depression, fibromyalgia, chronic kidney disease, liver 
-            disease, lung disease (COPD), or some other health condition</p>
-        <a href="">Read More</a>
+        <h2>The art of living for health and well-being</h2>
+        <p class="paragraph">Human health define as the complete state of physical, social 
+            and mental well-being. According to the world health organization human 
+            health is a state of complete physical, mental and social well-being and 
+            nor merely the absence of disease and infirmity.</p>
+        <a href="">Read More</a>                   
     </div>
     <div class="blog-card blog-card-middle animation-div">
         <img src="images/Blog/blog2.svg" alt="">
@@ -400,7 +409,8 @@
             </div>
             <div class="accordion-item-body">
                 <div class="accordion-item-body-content">
-                    <p>You must fill the contact form with a valid an email address. Then we will send you the required details of getting a job offer. Don’t be late hurry up and contact us.
+                    <p>You must fill the contact form with a valid an email address. Then we will send you the 
+                        required details of getting a job offer. Don’t be late hurry up and contact us.
                     </p>
                 </div>
             </div>
@@ -412,7 +422,8 @@
             </div>
             <div class="accordion-item-body">
                 <div class="accordion-item-body-content">
-                    <p>Company presentations are slideshows or demonstrations that provide potential clients and customers with beneficial information about a company's history and services.
+                    <p>Company presentations are slideshows or demonstrations that provide potential clients and 
+                        customers with beneficial information about a company's history and services.
                     </p>
                 </div>
             </div>
@@ -424,7 +435,8 @@
             </div>
             <div class="accordion-item-body">
                 <div class="accordion-item-body-content">
-                    <p>A person who is fiercely determined to do or get what they want. Janet stormed into work like a woman on a mission, heading straight into her boss's office to demand a raise in her salary.
+                    <p>A person who is fiercely determined to do or get what they want. Janet stormed into work 
+                        like a woman on a mission, heading straight into her boss's office to demand a raise in her salary.
                     </p>
                 </div>
             </div>
@@ -436,7 +448,8 @@
             </div>
             <div class="accordion-item-body">
                 <div class="accordion-item-body-content">
-                    <p>The persons who join us with a sufficient details have got many benefits in improving their health habits and getting a better life under our guidance. Join with us you will never regret it.
+                    <p>The persons who join us with a sufficient details have got many benefits in improving 
+                        their health habits and getting a better life under our guidance. Join with us you will never regret it.
                     </p>
                 </div>
             </div>
@@ -473,8 +486,11 @@
 <script src="includes/js/accordion.js"></script>
 <script src="includes/js/animation.js"></script>
 <script src="includes/js/fill-form.js"></script>
+<script src="includes/js/form-popup.js"></script>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+
 
 </body>
 </html>

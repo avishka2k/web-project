@@ -11,12 +11,14 @@
                 <li><a href="index" class="links">Home</a></li>
                 <li><a href="meals" class="links">Healthy Meals</a></li>
                 <li><a href="fithit" class="links">Fit Hit</a></li>
-                <li><a href="blog" class="links">Blog</a></li>
+                <li><a href="The-art-of-living" class="links">Blog</a></li>
                 <li><a href="aboutus" class="links">About Us</a></li>
                 <li><a href="contactus" class="links">Contact Us</a></li>
                 <br>
                 <div class="header-btn">
-                <a href="includes/register.php">Register</a>
+                <a href="includes/fill-form.html" style="color:white" target="PromoteFirefoxWindow" 
+            onclick="openRequestedPopup(this.href, this.target); return false;">Register</a>
+        
                 </div>
             </ul>
         </nav>       
@@ -26,6 +28,8 @@
 
 <script src="includes/js/header.js"></script>
 <script src="../includes/js/header.js"></script>
+<script src="includes/js/form-popup.js"></script>
+
 
     <?php 
 

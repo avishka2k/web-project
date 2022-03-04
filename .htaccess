@@ -1,6 +1,7 @@
 RewriteEngine on  
   
-RewriteRule ^Blog  content/blog.php [NC,L]
+RewriteRule ^The-art-of-living  content/blog.php [NC,L]
+RewriteRule ^Importance-of-plant  content/blog2.php [NC,L]
 RewriteRule ^FitHit fithit.php [NC,L]
 RewriteRule ^Contact  contact.php [NC,L]
 RewriteRule ^Cookies  cookies.php [NC,L] 
@@ -9,3 +10,4 @@ RewriteRule ^Meals  meals.php [NC,L]
 RewriteRule ^Aboutus  aboutus.php [NC,L] 
 RewriteRule ^PrivacyPolicy  privacypolicy.php [NC,L] 
 RewriteRule ^Terms-And-Conditions  terms-and-conditions.php [NC,L]
+

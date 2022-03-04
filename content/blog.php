@@ -337,7 +337,8 @@
             <div class="card-collect-col">
             <img class="main" src="./images/Blog/blog1.svg" alt="">
             <div class="related-card-left">
-                <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
+                <a style="text-decoration: none;" href="The-art-of-living">
+                <h2>The art of living for health and well-being</h2></a>
                 <div class="card-profile">
                 <img src="./images/Blog/profile1.jpg" alt="" class="">
                 <p>3 min read</p>
@@ -349,7 +350,8 @@
             <div class="card-collect-col">
             <img class="main" src="./images/Blog/blog2.svg" alt="">
             <div class="related-card-left">
-                <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
+            <a style="text-decoration: none;" href="Importance-of-plant">
+                <h2>Importance of Plant-based sources of protein</h2></a>
                 <div class="card-profile">
                 <img src="./images/Blog/profile1.jpg" alt="" class="">
                 <p>3 min read</p>

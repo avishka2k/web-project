@@ -5,10 +5,10 @@
        <meta name="viewport" content="width=device-width, initial-scale=1">
        <title>Blog</title>
        
-	    <link rel="stylesheet" type="text/css" href="../includes/css/blogstyle.css">
-        <link rel="stylesheet" type="text/css" href="../includes/css/footer.css">
-        <link rel="stylesheet" type="text/css" href="../includes/css/header.css">
-        <link rel="stylesheet" type="text/css" href="../includes/css/ScrollToTop.css">
+	    <link rel="stylesheet" type="text/css" href="./includes/css/blogstyle.css">
+        <link rel="stylesheet" type="text/css" href="./includes/css/footer.css">
+        <link rel="stylesheet" type="text/css" href="./includes/css/header.css">
+        <link rel="stylesheet" type="text/css" href="./includes/css/ScrollToTop.css">
         <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 
         
@@ -29,7 +29,7 @@
                 <span><i class="fi fi-rr-clock"></i><p>3 min read</p></span>
                  </div>
                 <div class="blog-profile">
-                    <img src="../images/Blog/profile1.jpg">
+                    <img src="./images/Blog/profile1.jpg">
                     <div class="blog-profile-name">
                     <h3>Kalani Kasthuri Arachchi</h3>
                     <p>Content Writer</p>
@@ -37,15 +37,15 @@
                 </div>
                 <div class="blog-social">
                     <ul>
-                        <li><a href=""><img src="../images/Blog/facebook.svg" alt=""></a></li>
-                        <li><a href=""><img src="../images/Blog/instagram.svg" alt=""></a></li>
-                        <li><a href=""><img src="../images/Blog/twitter.svg" alt=""></a></li>
+                        <li><a href=""><img src="./images/Blog/facebook.svg" alt=""></a></li>
+                        <li><a href=""><img src="./images/Blog/instagram.svg" alt=""></a></li>
+                        <li><a href=""><img src="./images/Blog/twitter.svg" alt=""></a></li>
                     </ul>
                 </div>
 
              </div>
              <div class="blog-hero-right">
-                 <img src="../images/Blog/bg_1 hero.jpg">
+                 <img src="./images/Blog/bg_1 hero.jpg">
              </div>
          </div>
      </div>
@@ -80,7 +80,7 @@
             for lunch (in a wrap with hummus, or a salad) or for dinner in a bun with some homemade chips. 
             If that doesn’t tickle your fancy, have a look at our meat-free recipes.
         </p>
-        <img src="../images/Blog/bg_2.jpg" alt="">
+        <img src="./images/Blog/bg_2.jpg" alt="">
     </div>
 
     <div class="blog-cantent01">
@@ -114,11 +114,12 @@
      <div class="card-collect-row">
         <div class="related-card">
             <div class="card-collect-col">
-            <img class="main" src="../images/Blog/blog1.svg" alt="">
+            <img class="main" src="./images/Blog/blog1.svg" alt="">
             <div class="related-card-left">
-                <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
+            <a style="text-decoration: none;" href="The-art-of-living">
+                <h2>The art of living for health and well-being</h2></a>
                 <div class="card-profile">
-                <img src="../images/Blog/profile1.jpg" alt="" class="">
+                <img src="./images/Blog/profile1.jpg" alt="" class="">
                 <p>3 min read</p>
                 </div>
             </div>
@@ -126,11 +127,12 @@
         </div>
         <div class="related-card">
             <div class="card-collect-col">
-            <img class="main" src="../images/Blog/blog2.svg" alt="">
+            <img class="main" src="./images/Blog/blog2.svg" alt="">
             <div class="related-card-left">
-                <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
+            <a style="text-decoration: none;" href="Importance-of-plant">
+                <h2>Importance of Plant-based sources of protein</h2></a>
                 <div class="card-profile">
-                <img src="../images/Blog/profile1.jpg" alt="" class="">
+                <img src="./images/Blog/profile1.jpg" alt="" class="">
                 <p>3 min read</p>
                 </div>
             </div>
@@ -141,11 +143,11 @@
     <div class="card-collect-row">
         <div class="related-card">
             <div class="card-collect-col">
-            <img class="main" src="../images/Blog/blog3.svg" alt="">
+            <img class="main" src="./images/Blog/blog3.svg" alt="">
             <div class="related-card-left">
                 <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
                 <div class="card-profile">
-                <img src="../images/Blog/profile1.jpg" alt="" class="">
+                <img src="./images/Blog/profile1.jpg" alt="" class="">
                 <p>3 min read</p>
                 </div>
             </div>
@@ -153,11 +155,11 @@
         </div>
         <div class="related-card">
             <div class="card-collect-col">
-            <img class="main" src="../images/Blog/blog1.svg" alt="">
+            <img class="main" src="./images/Blog/blog1.svg" alt="">
             <div class="related-card-left">
                 <h2>Having ‘exhausted all day’ problem? Get solution.</h2>
                 <div class="card-profile">
-                <img src="../images/Blog/profile1.jpg" alt="" class="">
+                <img src="./images/Blog/profile1.jpg" alt="" class="">
                 <p>3 min read</p>
                 </div>
             </div>

@@ -153,9 +153,9 @@
                    <p>co-founder</p>
                    <div class="about-card-social">
                    <ul>
-                        <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
-                        <li><a href=""><img src="images/Blog/instagram.svg" alt=""></a></li>
-                        <li><a href=""><img src="images/Blog/twitter.svg" alt=""></a></li>
+                        <li><a href="https://www.facebook.com/seniya.dewmina.5"><img src="images/Blog/facebook.svg" alt=""></a></li>
+                        <li><a href="https://www.instagram.com/seniya.d/"><img src="images/Blog/instagram.svg" alt=""></a></li>
+                        <li><a href="https://twitter.com/seniyadewmina"><img src="images/Blog/twitter.svg" alt=""></a></li>
                     </ul>
                    </div>
                </div>
@@ -168,7 +168,7 @@
                    <p>co-founder</p>
                    <div class="about-card-social">
                    <ul>
-                        <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=100041133763903"><img src="images/Blog/facebook.svg" alt=""></a></li>
                         <li><a href=""><img src="images/Blog/instagram.svg" alt=""></a></li>
                         <li><a href=""><img src="images/Blog/twitter.svg" alt=""></a></li>
                     </ul>
@@ -200,9 +200,9 @@
                    <p>co-founder</p>
                    <div class="about-card-social">
                    <ul>
-                        <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
-                        <li><a href=""><img src="images/Blog/instagram.svg" alt=""></a></li>
-                        <li><a href=""><img src="images/Blog/twitter.svg" alt=""></a></li>
+                        <li><a href="https://www.facebook.com/avishka2k"><img src="images/Blog/facebook.svg" alt=""></a></li>
+                        <li><a href="https://www.instagram.com/avishka2k/"><img src="images/Blog/instagram.svg" alt=""></a></li>
+                        <li><a href="https://twitter.com/avishka2k"><img src="images/Blog/twitter.svg" alt=""></a></li>
                     </ul>
                    </div>
                </div>

@@ -20,7 +20,8 @@
         <p>Wanna get from Fat to Fit? <br> Start today</p>
         <button class="join" style="vertical-align:middle">
         <span>
-            <a href="" style="color: var(--primary-color);">Join - It's Free</a>
+        <a href="includes/fill-form.html" style="color: var(--primary-color);" target="PromoteFirefoxWindow" 
+            onclick="openRequestedPopup(this.href, this.target); return false;">Join - It's Free</a>
         </span>
         </button>
     </div>
@@ -39,15 +40,17 @@
         <div class="meals-card-left">
             <h1>What is 21 Day Challenge?</h1>
             <p>It’s a 3 week campaign where we help you build Physical <br>
-            & Meantal health aware lifestyle with proven results.This 21-Day Workout Challenge is a commitment to making physical health a priority by moving your body for 30 minutes each day for the 21 days in efforts to form a new healthy habit. That is it! There are no rules or stipulations around how you should or can do that.</p>
-        <button class="join-end" style="vertical-align:middle">
+            & Meantal health aware lifestyle with proven results.This 21-Day Workout Challenge is a commitment to 
+            making physical health a priority by moving your body for 30 minutes each day for the 21 days in efforts 
+            to form a new healthy habit. That is it! There are no rules or stipulations around how you should or can do that.</p>
+        <button class="join-end services-btn" id="myBtn" style="vertical-align:middle">
         <span>
-            <a href="" style="color: white">Read More</a>
+            <a class="button" style="color: white">Read More</a>
         </span>
         </button>
         </div>
     <div class="meals-card-img">
-            <img src="images/service02.svg" alt="">
+            <img src="images/cg.jpg" alt="">
     </div>
     </div>
 
@@ -56,15 +59,17 @@
             <h1>What is the goal of 21 Day Challenge?</h1>
             <p>Everyone wanna be fit & happy, but not everyone knows how 
                 to start. The goal of our 21 Day Challenge is to learn a new routine 
-                with healthy & better habits in 21 days. Each day's assignment will take just 15-30 minutes. The goal is to develop social justice habits by heightening awareness and understanding of the critical lack of racial equity in our country, and to help accelerate creating and implementing solutions.</p>
-        <button class="join-end" style="vertical-align:middle">
+                with healthy & better habits in 21 days. Each day's assignment will take just 15-30 minutes. The goal 
+                is to develop social justice habits by heightening awareness and understanding of the critical lack of 
+                racial equity in our country, and to help accelerate creating and implementing solutions.</p>
+        <button class="join-end services-btn" id="myBtn1" style="vertical-align:middle">
         <span>
-            <a href="" style="color: white">Read More</a>
+            <a class="button" style="color: white">Read More</a>
         </span>
         </button>
         </div>
     <div class="meals-card-img">
-            <img src="images/service02.svg" alt="">
+            <img src="images/cp1.jpg" alt="">
     </div>
     </div>
 
@@ -72,15 +77,19 @@
         <div class="meals-card-left">
             <h1>What we gonna do in 21 Day Challenge?</h1>
             <p>
-            Try something active outside- a walk/run, ice skating on Occom, cross-country skiingStand instead of sitting when doing work. Try a different random act of kindness each day. Add at least one vegetable or fruit to every meal. Limit the number of alcoholic beverages you consume- either count your drinks or set a drink limit. Do something kind for a friend each day- leave a note of encouragement for your roommate, bring a treat to your friend in the library, write a letter to an old friend.</p>
-        <button class="join-end" style="vertical-align:middle">
+            Try something active outside- a walk/run, ice skating on Occom, cross-country skiingStand instead 
+            of sitting when doing work. Try a different random act of kindness each day. Add at least one 
+            vegetable or fruit to every meal. Limit the number of alcoholic beverages you consume- either count 
+            your drinks or set a drink limit. Do something kind for a friend each day- leave a note of encouragement 
+            for your roommate, bring a treat to your friend in the library, write a letter to an old friend.</p>
+        <button class="join-end services-btn" id="myBtn2" style="vertical-align:middle">
         <span>
-            <a href="" style="color: white">Read More</a>
+            <a class="button" style="color: white">Read More</a>
         </span>
         </button>
         </div>
     <div class="meals-card-img">
-            <img src="images/service02.svg" alt="">
+            <img src="images/cp2.jpg" alt="">
     </div>
     </div>
 </div>
@@ -89,6 +98,70 @@
     <h1>“You don’t have to be great to start,
         but you have to start to be great.”</h1>
 </div>
+
+
+
+  <!-- The Modal 1 -->
+  <div id="myModal"  class="modal">
+<!-- Modal content -->
+        <div class="modal-content">
+        <div class="close-icon-s">
+        <span class="close">&times;</span>
+        </div>
+        <h3 class="modal-content-h">What we gonna do in 21 Day Challenge?</h3>
+        <p class="modal-content-p">
+        Is a healthier lifestyle something that you want? If so, what’s stopping you? For many of us, 
+        the idea of a complete and total overhaul can be overwhelming. The best way to go transition 
+        to a healthier lifestyle is to focus on one step—or in this case task—at a time. We designed 
+        our healthy tasks challenge with this in mind. You will have one simple task to complete each 
+        day. Each task is designed to improve your health in one way or another, be it physically, 
+        mentally, emotionally, or a combination of the three. There is a little twist, though, but 
+        we’ll address that in a moment!
+        </p>
+        </div>
+    </div>
+
+    <div id="myModal1" class="modal">
+    <!-- Modal content 2 -->
+        <div class="modal-content">
+        <div class="close-icon-s">
+        <span class="close close1">&times;</span>
+        </div>
+        <h3 class="modal-content-h">What is the goal of 21 Day Challenge?</h3>
+        <p class="modal-content-p">
+        Everyone wanna be fit & happy, but not everyone knows how 
+        to start. The goal of our 21 Day Challenge is to learn a new routine 
+        with healthy & better habits in 21 days. Each day's assignment will take just 15-30 minutes. The goal 
+        is to develop social justice habits by heightening awareness and understanding of the critical lack of 
+        racial equity in our country, and to help accelerate creating and implementing solutions.
+        </p>
+        </div>
+    </div>
+
+    <div id="myModal2" class="modal">
+    <!-- Modal content 3 -->
+        <div class="modal-content">
+        <div class="close-icon-s">
+        <span class="close close2">&times;</span>
+        </div>
+        <h3 class="modal-content-h">What we gonna do in 21 Day Challenge?</h3>
+        <p class="modal-content-p">
+        The rules are very simple: Read the task for the day you’re on and complete it 
+        before the day is over. Some tasks will be more detailed than others, so feel 
+        free to look ahead and plan accordingly. Here’s the twist: You can’t skip a task. 
+        You must complete each one! If you skip one or don’t complete it fully, you 
+        have to start back at day one. <br><br>
+        Only you will know whether or not you completed a task for the day. No one is 
+        keeping track of you. This challenge is 100% based on the honor system. That said, 
+        we highly recommend grabbing an accountability partner to do this challenge with. 
+        Having someone to answer to is a fantastic way to ensure adherence! 
+        </p>
+        </div>
+    </div>
+
+
+
+
 </section>
 
 <section class="meals-result animation-div">
@@ -141,7 +214,8 @@
            <div class="btn-center">
            <button class="join" style="vertical-align:middle">
             <span>
-            <a href="" style="color: var(--primary-color);">Join - It's Free</a>
+            <a href="includes/21challenge.html" style="color: var(--primary-color);" target="PromoteFirefoxWindow" 
+            onclick="openRequestedPopup(this.href, this.target); return false;">Join - It's Free</a>
             </span>
             </button>
             </div>
@@ -162,7 +236,8 @@
            <div class="btn-center">
            <button class="join" style="vertical-align:middle">
             <span>
-            <a href="" style="color: var(--primary-color);">Join - It's Free</a>
+            <a href="includes/21challenge.html" style="color: var(--primary-color);" target="PromoteFirefoxWindow" 
+            onclick="openRequestedPopup(this.href, this.target); return false;">Join - It's Free</a>
             </span>
             </button>
         </div>
@@ -174,7 +249,11 @@
 <?php include('includes/footer.php'); ?>
 <?php include('includes/ScrollToTop.php'); ?>   
 
+<script src="includes/js/form-popup.js"></script>
 <script src="includes/js/animation.js"></script>
+<script src="includes/js/fill-form.js"></script>
+<script src="includes/js/form-popup.js"></script>
+
 
 </body>
 </html>

@@ -28,7 +28,7 @@
                 <p>Make a difference in your life with our<br>Diet Plan and Job Opportunity!</p>
                 <button class="offered">
                 <span>
-                    <a href="" style="color:white">LET'S WORK</a>
+                    <a href="meals" style="color:white">LET'S WORK</a>
                 </span>
                 </button>
             </div>
@@ -41,7 +41,7 @@
                 <p>Live mentally & physicaly healthier</p>
                 <button class="offered">
                 <span>
-                    <a href="" style="color:white">LET'S WORK</a>
+                    <a href="fithit" style="color:white">LET'S WORK</a>
                 </span>
                 </button>
             </div>
@@ -54,7 +54,7 @@
                 <p>You are what you eat,<br> So don't be fast, cheap, easy, or fake</p>
                 <button class="offered">
                 <span>
-                    <a href="" style="color:white">LET'S WORK</a>
+                    <a href="meals" style="color:white">LET'S WORK</a>
                 </span>
                 </button>
             </div>
@@ -67,7 +67,7 @@
                 <p>Keep yourself calm, <br> We will help you to get there. <br> Hurry up and join us</p>
                 <button class="offered">
                 <span>
-                    <a href="" style="color:white">LET'S WORK</a>
+                    <a href="fithit" style="color:white">LET'S WORK</a>
                 </span>
                 </button>
             </div>
@@ -80,7 +80,7 @@
                 <p>Getting deep breaths in a soothing environment <br> Will make you feel you are a happy soul</p>
                 <button class="offered">
                 <span>
-                    <a href="" style="color:white">LET'S WORK</a>
+                    <a href="meals" style="color:white">LET'S WORK</a>
                 </span>
                 </button>
             </div>
@@ -373,7 +373,7 @@
         <a href="">Read More</a>                   
     </div>
     <div class="blog-card blog-card-middle animation-div">
-        <img src="images/Blog/blog2.svg" alt="">
+        <img src="images/Blog/blog2.jpg" alt="">
         <p class="topic">Earning</p>
         <h2>Ways of earning cents while staying home in the ‘New Normal’.</h2>
         <p class="paragraph">You may be too exhausted even to mana ge your daily affairs. 

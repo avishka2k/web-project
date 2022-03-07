@@ -348,7 +348,7 @@
         </div>
         <div class="related-card">
             <div class="card-collect-col">
-            <img class="main" src="./images/Blog/blog2.svg" alt="">
+            <img class="main" src="./images/Blog/blog2.jpg" alt="">
             <div class="related-card-left">
             <a style="text-decoration: none;" href="Importance-of-plant">
                 <h2>Importance of Plant-based sources of protein</h2></a>

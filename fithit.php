@@ -28,7 +28,8 @@
         <p>Once you began to exercise the hardest thing is to stop it.<br> Start today</p>
         <button class="join" style="vertical-align:middle">
         <span>
-            <a href="" style="color: var(--primary-color);">Join - It's Free</a>
+        <a href="includes/fill-form.html" style="color: var(--primary-color);" target="PromoteFirefoxWindow" 
+            onclick="openRequestedPopup(this.href, this.target); return false;">Join - It's Free</a>
         </span>
         </button>
     </div>
@@ -311,7 +312,8 @@
     <h2>Asking last time, wanna work with us?..</h2>
     <button class="join-end" style="vertical-align:middle">
         <span>
-            <a href="" style="color: white">Join - It's Free</a>
+        <a href="includes/fill-form.html" style="color: white" target="PromoteFirefoxWindow" 
+            onclick="openRequestedPopup(this.href, this.target); return false;">Join - It's Free</a>
         </span>
         </button>
 </div>

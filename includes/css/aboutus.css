@@ -12,10 +12,18 @@
     padding: 2rem 2rem 1rem 2rem;
 }
 
+.aboutus-header p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 133.8%;
+    color: #020202BA;
+}
+
 .aboutus{
     display:center;
     height: 100vh;
-    background: #033C33;
     mix-blend-mode: normal;
     font-family: Roboto;
     font-style: normal;
@@ -29,18 +37,22 @@
     background-size: cover;  
 }
 
+.aboutus-header-h {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .aboutus-header-h h1 {
     font-family: Playfair Display;
     font-style: normal;
     font-weight: bold;
     font-size: 60px;
     line-height: 80px;
-    color: #FFFFFF;
-    padding: 2rem;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    color: #033C33;
+    padding: 1rem;
+    
 }
 
 .nav-item {
@@ -79,9 +91,13 @@
     background: transparent;
 }
 
-.about-profile-content img {
+.about-profile-content .p-img {
+    width: 45%;
+    clip-path: circle(57px );
+}
+
+.about-card-social img {
     width: 73%;
-    clip-path: circle(65px );
 }
 
 .tab-pane {

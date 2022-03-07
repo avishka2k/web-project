@@ -26,8 +26,8 @@
 </div>
 </header>
 
+<script src="includes/js/hechallengeader.js"></script>
 <script src="includes/js/header.js"></script>
-<script src="../includes/js/header.js"></script>
 <script src="includes/js/form-popup.js"></script>
 
 

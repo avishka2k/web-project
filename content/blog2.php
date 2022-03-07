@@ -80,7 +80,7 @@
             for lunch (in a wrap with hummus, or a salad) or for dinner in a bun with some homemade chips. 
             If that doesn’t tickle your fancy, have a look at our meat-free recipes.
         </p>
-        <img src="./images/Blog/bg_2.jpg" alt="">
+        <img src="./images/Blog/blog2.jpg" alt="">
     </div>
 
     <div class="blog-cantent01">
@@ -127,7 +127,7 @@
         </div>
         <div class="related-card">
             <div class="card-collect-col">
-            <img class="main" src="./images/Blog/blog2.svg" alt="">
+            <img class="main" src="./images/Blog/blog2.jpg" alt="">
             <div class="related-card-left">
             <a style="text-decoration: none;" href="Importance-of-plant">
                 <h2>Importance of Plant-based sources of protein</h2></a>

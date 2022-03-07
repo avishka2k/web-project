@@ -25,9 +25,8 @@
     <section class="aboutus">
         <div class="aboutus-header">
             <div class="aboutus-header-h">
-                <h1>
-                    About Us
-                </h1>
+                <h1>About Us</h1>
+                <p>Let us live for the beauty <br> of our own reality</p>
             </div>
         </div>
        </section>
@@ -134,7 +133,7 @@
             <div class="about-profile-row1">
             <div class="about-profile-card">
                <div class="about-profile-content">
-                   <img src="images/Blog/profile1.jpg" alt="">
+                   <img class="p-img" src="images/profile/KARK.jpeg" alt="">
                    <h3>K.R.Kasthuriarachchi</h3>
                    <p>co-founder</p>
                    <div class="about-card-social">
@@ -149,7 +148,7 @@
 
             <div class="about-profile-card">
                <div class="about-profile-content">
-                   <img src="images/Blog/profile1.jpg" alt="">
+                   <img class="p-img" src="images/profile/sd.jpeg" alt="">
                    <h3>S.D.Wickramarachchi</h3>
                    <p>co-founder</p>
                    <div class="about-card-social">
@@ -164,7 +163,7 @@
 
             <div class="about-profile-card">
                <div class="about-profile-content">
-                   <img src="images/Blog/profile1.jpg" alt="">
+                   <img class="p-img" src="images/profile/plu.jpeg" alt="">
                    <h3>I.U.Senarathne</h3>
                    <p>co-founder</p>
                    <div class="about-card-social">
@@ -181,7 +180,7 @@
             <div class="about-profile-row2">
             <div class="about-profile-card">
                <div class="about-profile-content">
-                   <img src="images/Blog/profile1.jpg" alt="">
+                   <img class="p-img" src="images/profile/Ashani.jpeg" alt="">
                    <h3>A.Pramodya</h3>
                    <p>co-founder</p>
                    <div class="about-card-social">
@@ -196,7 +195,7 @@
             
             <div class="about-profile-card">
                <div class="about-profile-content">
-                   <img src="images/Blog/profile1.jpg" alt="">
+                   <img class="p-img" src="images/profile/ap.jpeg" alt="">
                    <h3>A.Prabath Gamini</h3>
                    <p>co-founder</p>
                    <div class="about-card-social">

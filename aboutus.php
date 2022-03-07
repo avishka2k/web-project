@@ -139,8 +139,8 @@
                    <div class="about-card-social">
                    <ul>
                         <li><a href=""><img src="images/Blog/facebook.svg" alt=""></a></li>
-                        <li><a href=""><img src="images/Blog/instagram.svg" alt=""></a></li>
-                        <li><a href=""><img src="images/Blog/twitter.svg" alt=""></a></li>
+                        <li><a href="https://www.instagram.com/_kalani_r/"><img src="images/Blog/instagram.svg" alt=""></a></li>
+                        <li><a href="https://twitter.com/kalanikasthuri1"><img src="images/Blog/twitter.svg" alt=""></a></li>
                     </ul>
                    </div>
                </div>

@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="">
 <meta name="author" content="">
-<title></title>
+<title>Blog</title>
 <!-- Bootstrap core CSS -->
 <link href="includes/css/bootstrap.min.css" rel="stylesheet">
 <!-- Fonts -->

@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="includes/css/animation.css">
 	<link rel="stylesheet" type="text/css" href="includes/css/ScrollToTop.css">
     <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
-    <title>Document</title>
+    <title>Healthy Meals</title>
 </head>
 <body class="meals-body">
 <?php include('includes/header.php'); ?>
